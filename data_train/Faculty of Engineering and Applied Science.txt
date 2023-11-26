@@ -1,0 +1,2305 @@
+﻿Faculty of Engineering and Applied Science
+4.1 Program of Study
+1. Courses in the Engineering Program are normally taken in Academic Terms as shown in the appropriate program table. Students must satisfy the criteria for promotion as described below under Promotion Regulations to remain in the Engineering program.
+
+2. The Engineering Program consists of eight academic terms and four to six work terms. The first-year of the Engineering Program, known as Engineering One, forms a core that is common to all majors. All students must successfully complete the requirements of Engineering One prior to being promoted to Academic Term 3 as indicated under Promotion Regulations, Promotion Status (Engineering One).
+
+3. To be eligible for registration for ENGI 001W in the Spring semester after completing Engineering One, students are expected to successfully complete the prerequisite ENGI 200W in the Fall semester of Engineering One. All other Engineering One students are expected to successfully complete ENGI 200W in the Winter semester of Engineering One.
+
+4. In 1000 level Engineering courses, registration priority is given to students who have been admitted to Engineering One. Other students will be admitted to these courses only with the approval of the Associate Dean (Undergraduate Studies) (or delegate).
+
+5. In these program regulations, including the program tables, wherever reference is made to Chemistry 1050, this course may be replaced by a course deemed equivalent by the relevant academic unit.
+
+6. Upon entering Academic Term 3, students begin to specialize in their academic program, in one of the following seven majors: Civil Engineering, Computer Engineering, Electrical Engineering, Mechanical Engineering, Mechatronics Engineering, Ocean and Naval Architectural Engineering, or Process Engineering.
+
+7. Upon entering Academic Term 6, students in the Computer Engineering and Electrical Engineering majors may choose to enter the Biomedical stream. Upon entering Academic Term 6, students in the Mechanical Engineering major choose one of five technical streams: Biomedical, Mechanics and Materials, Mechatronics, Petroleum, and Thermo-Fluids. Upon entering Academic Term 6, students in the Process Engineering major may choose one of two technical streams: Chemical and Bioprocess, and Mineral and Energy Resources.
+
+8. Courses offered in the Faculty of Engineering and Applied Science are restricted to students who have been admitted or promoted to the appropriate academic term and major (e.g., Academic Term 3 for 3000 level courses, restricted by major; Engineering One for 1000 level courses). Other students will be admitted to these courses only with the approval of the Head of the appropriate Department for courses at the 3000 level and higher, or the Associate Dean (Undergraduate Studies) (or delegate) for ENGI courses.
+
+Some of the courses offered in academic terms 3 to 8 are taken by all Engineering students, others are offered for more than one major, but most technical courses in academic terms 3 to 8 are specific to the individual majors. Students should refer to the program descriptions for the detailed course requirements in each phase of their program.
+
+9. Technical elective courses may be offered in terms other than those indicated in the program tables.
+
+10. A student who has previously met a technical elective requirement in a given semester or wishes to defer it, may request an exemption or deferral by applying to the Head of the appropriate Department. A minimum grade of 60% is required for credit to be given towards a student’s engineering program for any technical elective taken outside the normal Academic Terms as shown in the tables.
+
+11. A minimum grade of 60% is required for credit to be given towards a student's engineering program for any course beyond Engineering One that is taken outside the normal Academic Terms as shown in the tables.
+
+12. Transfer credit cannot be awarded for project or design courses in Academic Terms 7 or 8 of the Engineering program.
+
+13. Students registered in Academic Term 7 of any Engineering major are eligible to apply for admission to a Master of Engineering Fast-Track Option (M.Eng.). The purpose of the Option is to encourage students interested in pursuing graduate studies to begin their graduate program while still registered as an undergraduate student. While enrolled in the Option, a student may complete some of the M.Eng. Degree requirements and potentially be able to graduate earlier from the M.Eng. Program. For further details and the regulations regarding the option, refer to the School of Graduate Studies, Regulations Governing the Degree of Master of Engineering.
+
+________________
+5.3 Admission Requirements to the Faculty Program
+On this page
+   * 5.3.1 High School Applicants
+   * 5.3.2 Memorial University of Newfoundland Applicants
+   * 5.3.3 Transfer Applicants
+An applicant must be eligible for admission or readmission to the University in a category as defined in the Calendar section University Regulations (Undergraduate), Categories of Applicants, Admission Criteria and Other Information. In addition to meeting these regulations, an applicant to the Bachelor of Engineering program in the following admission categories must meet the requirements as indicated below.
+________________
+
+
+5.3.1 High School Applicants
+   1. The Faculty of Engineering and Applied Science encourages applications for admission to the Bachelor of Engineering program from high school students who are new to post-secondary education, have an interest in pursuing an engineering degree and have achieved a good academic performance during high school. In addition to meeting the requirements under University Regulations (Undergraduate), Applicants Who Have Followed the High School Curriculum of Newfoundland and Labrador, Admission Criteria, performance in advanced mathematics, chemistry, physics and English is of particular interest, and grades above 80% are normally required for consideration.
+
+   2. Applicants who have not successfully completed either chemistry or physics but who have performed well in the other subjects may be considered.
+
+   3. Applicants must meet the English language proficiency requirements as noted in English Language Proficiency Requirements.
+
+   4. An applicant who is not admitted to the Bachelor of Engineering program is encouraged to contact the University’s Academic Advising Centre or the Office of the Associate Dean (Undergraduate Studies) to discuss an appropriate first-year program.
+
+ 
+________________
+
+
+5.3.2 Memorial University of Newfoundland Applicants
+      1. To be eligible for consideration for admission to the Bachelor of Engineering program, a student who is attending or has previously attended this University must have a cumulative average of at least 70%, and obtained a grade of at least 70% in two or more of the following courses or their prerequisites: Chemistry 1050 (or Chemistry 1200), 3 credit hours in English at the 1000 level, Mathematics 1001, Mathematics 2050, Physics 1051.
+
+      2. Applicants must meet the English language proficiency requirements as noted in English Language Proficiency Requirements.
+
+ 
+________________
+5.3.3 Transfer Applicants
+         1. An applicant seeking admission to the Bachelor of Engineering program through transfer from recognized post-secondary institutions must have achieved a minimum overall average of 70% or GPA of 3.0, or equivalent.
+
+         2. Applicants must have obtained a grade of at least 70% in two or more courses that have been deemed equivalent for transfer credit purposes to the following courses or their prerequisites: Chemistry 1050 (or Chemistry 1200), 3 credit hours in English at the 1000 level, Mathematics 1001, Mathematics 2050, Physics 1051.
+
+         3. Where it is determined, at the time of admission, that an applicant has met all the requirements for promotion from Engineering One, customized program requirements will be determined on an individual basis following transfer credit evaluation.
+
+         4. Applicants must meet the English language proficiency requirements as noted in English Language Proficiency Requirements.
+
+         5. A transfer applicant is advised that more than half of the total credit hours must be completed at this University as indicated under University Regulations (Undergraduate), Residence Requirements, First Degree and Second Degree.
+
+ 
+________________
+
+
+6.1 Civil Engineering Program Regulations
+On this page
+            * 6.1.1 Civil Engineering Major
+________________
+
+
+6.1.1 Civil Engineering Major
+            * The full-time 141 credit hour Bachelor of Engineering (Co-operative), Civil Engineering Major, requires eight academic terms and four work terms.
+
+            * The 141 credit hours shall normally be taken in the academic terms and order as set out in Civil Engineering Major.
+
+Work terms shall normally be taken in the order as set out in Civil Engineering Major.
+
+
+
+**Engineering One Term** -
+   - Required Courses:
+     1. Chemistry 1050 or 1200
+     2. 3 credit hours in English at the 1000 level or any Critical Reading and Writing course
+     3. Mathematics 1000, 1001, 2050
+     4. Physics 1050, 1051
+   - Elective Courses:
+     1. ENGI 1010, 1020, 1030, 1040
+
+
+**Fall - Academic Term 3** -
+   - Required Courses:
+     1. CIV 3210, 3440, 3710, 3720
+   - Elective Courses:
+     1. ENGI 3101
+     2. Mechanical and Mechatronics Engineering 3301
+
+
+**Winter** -
+   - Required Courses:
+     1. ENGI 001W or 002W
+
+
+**Spring - Academic Term 4** -
+   - Required Courses:
+     1. CIV 4220, 4310, 4450, 4610
+   - Elective Courses:
+     1. ENGI 4421
+
+
+**Fall** -
+   - Required Courses:
+     1. ENGI 001W or 002W or 003W
+
+
+**Winter - Academic Term 5** -
+   - Required Courses:
+     1. CIV 5110, 5230, 5320, 5460, 5510
+
+
+**Spring** -
+   - Required Courses:
+     1. ENGI 002W or 003W or 004W
+
+
+**Fall - Academic Term 6** -
+   - Required Courses:
+     1. CIV 6120, 6330, 6470, 6520, 6810
+
+
+**Winter** -
+   - Required Courses:
+     1. ENGI 003W or 004W or 005W (optional)
+
+
+**Spring - Academic Term 7** -
+    - Required Courses:
+      1. CIV 7130, 7530, 7730
+      2. 6 credit hours from: CIV 7140, 7240, 7340, 7540, 7620, 7820 or other courses as specified by the Head of the Department of Civil Engineering
+
+
+**Fall** -
+    - Required Courses:
+      1. ENGI 004W or 005W (optional) or 006W (optional)
+
+
+**Winter - Academic Term 8** -
+    - Required Courses:
+      1. CIV 8000, 8830
+    - Elective Courses:
+      1. ENGI 8152
+      2. 9 credit hours from: CIV 8150, 8550, 8560, 8570, 8630 or other courses as specified by the Head of the Department of Civil Engineering
+
+
+ 
+6.2 Computer Engineering Program Regulations
+On this page
+               * 6.2.1 Computer Engineering Major
+               * 6.2.2 Minor in Computer Engineering
+________________
+
+
+6.2.1 Computer Engineering Major
+               * The full-time 141 credit hour Bachelor of Engineering (Co-operative), Computer Engineering Major, requires eight academic terms and four work terms.
+
+               * The 141 credit hours shall normally be taken in the academic terms and order as set out in Computer Engineering Major.
+
+               * Work terms shall normally be taken in the order as set out in Computer Engineering Major.
+
+               * The requirements for a minor in Physics in the Computer Engineering program are detailed under Faculty of Science, Minor in Physics. Students wishing to undertake a minor in Physics must obtain approval from the Head of the Department of Electrical and Computer Engineering for their course selection.
+
+ 
+Term
+	Required Courses
+	Elective Courses
+	Engineering One
+	Chemistry 1050 or 1200
+ENGI 1010, 1020, 1030, 1040
+3 credit hours in English at the 1000 level or any Critical Reading and Writing course
+Mathematics 1000, 1001, 2050
+Physics 1050, 1051
+	Students who are expecting to successfully complete the Engineering One requirements by the end of the Winter semester may apply to undertake a work term during the Spring semester. In this case, the prerequisite course ENGI 200W is expected to be successfully completed during the Fall semester. All other students are expected to successfully complete ENGI 200W in the Winter semester of Engineering One.
+	In addition to meeting the requirements outlined below, a student must successfully complete four Complementary Studies courses as described under Description of Program, Complementary Studies.
+	Fall
+Academic Term 3
+	ECE 3300, 3400, 3500
+ENGI 3101, 3424
+Physics 3000
+	 
+	Winter
+	ENGI 001W or 002W
+	 
+	Spring
+Academic Term 4
+	ECE 4110, 4300, 4400, 4500, 4600
+	 
+	Fall
+	ENGI 001W or 002W or 003W
+	 
+	Winter
+Academic Term 5 
+	ECE 5010, 5100, 5200, 5400, 5500 
+	 
+	Spring 
+	ENGI 002W or 003W or 004W 
+	 
+	Fall
+Academic Term 6 
+	ECE 6400, 6500, 6600, 6610 
+	Students in the Biomedical Stream:
+Human Kinetics and Recreation 2311
+All other students:
+3 credit hours from: ECE 6200 or other courses as specified by the Head of the Department of Electrical and Computer Engineering
+ 
+	Winter 
+	ENGI 003W or 004W or 005W (optional) 
+	 
+	Spring
+Academic Term 7
+ 
+	ECE 7010, 7400, 7600 
+	Students in the Biomedical Stream:
+Medicine 6250
+3 credit hours from: ECE 7200, 7410, 7420, Mechanical and Mechatronics Engineering 7204, other courses as specified by the Head of the Department of Electrical and Computer Engineering
+All other students:
+6 credit hours from: ECE 7200, 7410, 7420, 7500, Mechanical and Mechatronics Engineering 7204, other courses as specified by the Head of the Department of Electrical and Computer Engineering
+ 
+	Fall 
+	ENGI 004W or 005W (optional) or 006W (optional) 
+	 
+	Winter
+Academic Term 8
+ 
+	ECE 8010, 8400
+ENGI 8152
+ 
+	Students in the Biomedical Stream:
+Human Kinetics and Recreation 4703
+6 credit hours from: ECE 8410, 8420, 8600, other courses as specified by the Head of the Department of Electrical and Computer Engineering
+All other students:
+One free elective which must be a 2000-level or higher course from any academic unit. Selection of a course must be approved by the Head of the Department of Electrical and Computer Engineering.
+6 credit hours from: ECE 8210, 8410, 8420, 8600, 8620, 8900-8949, or other courses as specified by the Head of the Department of Electrical and Computer Engineering
+ 
+	________________
+
+
+6.2.2 Minor in Computer Engineering
+A student in an Engineering degree program at the University, except Computer Engineering, may apply to the Department of Electrical and Computer Engineering for admission to the Minor in Computer Engineering (Software). The Minor is focused on Computer Engineering aspects such as programming, software design, and related applications. Before applying for the Minor, a student must complete the necessary prerequisites to register for ECE 3400 and ECE 4110 (or Mathematics 2320).
+The Minor in Computer Engineering (Software) will consist of 24 credit hours, as follows:
+                  1. ECE 3400, ECE 4110 (or Mathematics 2320), ECE 4400, ECE 5010, ECE 5400, ECE 6400, and
+
+                  2. 6 credit hours chosen from: ECE 7400, ECE 7410, ECE 7420, ECE 8410, ECE 8420, or other courses subject to approval by the Head of the Department of Electrical and Computer Engineering.
+
+________________
+6.3 Electrical Engineering Program Regulations
+On this page
+                     * 6.3.1 Electrical Engineering
+                     * 6.3.2 Minor in Applied Science - Electrical Engineering for Physics Majors and Honours
+________________
+
+
+6.3.1 Electrical Engineering
+                     * The full-time 141 credit hour Bachelor of Engineering (Co-operative), Electrical Engineering Major, requires eight academic terms and four work terms.
+
+                     * The 141 credit hours shall normally be taken in the academic terms and order as set out in Electrical Engineering Major.
+
+                     * Work terms shall be taken in the order as set out in Electrical Engineering Major.
+
+                     * The requirements for a minor in Physics in the Electrical Engineering program are detailed under Faculty of Science, Minor In Physics. Students wishing to undertake a minor in Physics must obtain approval from the Head of the Department of Electrical and Computer Engineering for their course selection.
+
+ 
+Term
+	Required Course
+	Elective Courses
+	Engineering One
+	Chemistry 1050 or 1200
+ENGI 1010, 1020, 1030, 1040
+3 credit hours in English at the 1000 level or any Critical Reading and Writing course
+Mathematics 1000, 1001, 2050
+Physics 1050, 1051
+	Students who are expecting to successfully complete the Engineering One requirements by the end of the Winter semester may apply to undertake a work term during the Spring semester. In this case, the prerequisite course ENGI 200W is expected to be successfully completed during the Fall semester. All other students are expected to successfully complete ENGI 200W in the Winter semester of Engineering One.
+	In addition to meeting the requirements outlined below, a student must successfully complete four Complementary Studies courses as described under Description of Program, Complementary Studies.
+	Fall
+Academic Term 3
+	ECE 3300, 3400, 3500
+ENGI 3101, 3424
+Physics 3000
+	 
+	Winter
+	ENGI 001W or 002W
+	 
+	Spring
+Academic Term 4
+	ECE 4300, 4500, 4600, 4800
+ENGI 4430
+	 
+	Fall
+	ENGI 001W or 002W or 003W
+	 
+	Winter
+Academic Term 5
+	ECE 5000, 5100, 5200, 5300, 5700
+	 
+	Spring
+	ENGI 002W or 003W or 004W
+	 
+	Fall
+Academic Term 6
+ 
+	ECE 6200, 6600, 6700, 6800 
+	Students in the Biomedical Stream:
+Human Kinetics and Recreation 2311
+All other students:
+3 credit hours from: ECE 6610, 6810, or other courses as specified by the Head of the Department of Electrical and Computer Engineering
+ 
+	Winter 
+	ENGI 003W or 004W or 005W (optional) 
+	 
+	Spring
+Academic Term 7
+ 
+	ECE 7000, 7600 
+	Students in the Biomedical Stream:
+Medicine 6250
+3 credit hours from: ECE 7200, 7410, Mechanical and Mechatronics Engineering 7204, other courses as specified by the Head of the Department of Electrical and Computer Engineering
+3 credit hours from: ECE 7200, 7210, 7410, 7800, 7810, Mechanical and Mechatronics Engineering 7204, other courses as specified by the Head of the Department of Electrical and Computer Engineering
+All other students:
+9 credit hours from: ECE 7200, 7210, 7410, 7620, 7800, 7810, Mechanical and Mechatronics Engineering 7204, other courses as specified by the Head of the Department of Electrical and Computer Engineering
+ 
+	Fall 
+	ENGI 004W or 005W (optional) or 006W (optional) 
+	 
+	Winter
+Academic Term 8
+ 
+	ECE 8000, 8610
+ENGI 8152
+ 
+	Students in the Biomedical Stream:
+Human Kinetics and Recreation 4703
+6 credit hours from: ECE 8410, 8600, other courses as specified by the Head of the Department of Electrical and Computer Engineering
+All other students:
+One free elective which must be a 2000-level or higher course from any academic unit. Selection of a course must be approved by the Head of the Department of Electrical and Computer Engineering.
+6 credit hours from: ECE 5500, 8210, 8600, 8620, 8700, 8800, 8950-8999 or other courses as specified by the Head of the Department of Electrical and Computer Engineering 
+	________________
+
+
+6.3.2 Minor in Applied Science - Electrical Engineering for Physics Majors and Honours
+For Physics Majors and Honours students, a Minor in Applied Science - Electrical Engineering will consist of:
+                        1. ECE 3300 (or the former ENGI 3821 or Physics 3550)
+
+                        2. ECE 4300 (or the former ENGI 4854)
+
+                        3. Physics 3000 and
+
+                        4. 15 credit hours chosen from
+
+                           1. ECE 3500 (or the former ENGI 3861)
+
+                           2. ECE 4500 (or the former ENGI 4862)
+
+                           3. ECE 4600 (or the former ENGI 4823)
+
+                           4. ECE 4800 (or the former ENGI 4841)
+
+                           5. ECE 5000 (or the former ENGI 5800)
+
+                           6. ECE 6700 (or the former ENGI 6813 or Physics 4500)
+
+                           7. or other courses subject to approval by the Head of the Department of Physics and Physical Oceanography and the Head of the Department of Electrical and Computer Engineering.
+
+Completion of the Minor in Applied Science - Electrical Engineering does not qualify persons to hold the designation "Professional Engineer" as defined by various provincial acts governing the Engineering Profession.
+________________
+
+
+6.4 Mechanical Engineering Program Regulations
+On this page
+                              * 6.4.1 Mechanical Engineering Major
+                              * 6.4.1.1 Technical Streams
+________________
+
+
+6.4.1 Mechanical Engineering Major
+                              * The full-time 141 credit hour Bachelor of Engineering (Co-operative), Mechanical Engineering Major, requires eight academic terms and four work terms.
+
+                              * The 141 credit hours shall normally be taken in the academic terms and order as set out in Mechanical Engineering Major.
+
+                              * Work terms shall normally be taken in the order as set out in Mechanical Engineering Major.
+
+ 
+Term
+	Required Courses
+	Elective Courses
+	Engineering One 
+	Chemistry 1050 or 1200
+ENGI 1010, 1020, 1030, 1040
+3 credit hours in English at the 1000 level or any Critical Reading and Writing course
+Mathematics 1000, 1001, 2050
+Physics 1050, 1051
+ 
+	Students who are expecting to successfully complete the Engineering One requirements by the end of the Winter semester may apply to undertake a work term during the Spring semester. In this case, the prerequisite course ENGI 200W is expected to be successfully completed during the Fall semester. All other students are expected to successfully complete ENGI 200W in the Winter semester of Engineering One. 
+	In addition to meeting the requirements outlined below, a student must successfully complete four Complementary Studies courses as described under Description of Program, Complementary Studies.   
+	Fall
+Academic Term 3
+	ENGI 3101, 3424
+ME 3101, 3102, 3301, 3401
+ 
+	 
+	Winter 
+	ENGI 001W or 002W 
+	 
+	Spring
+Academic Term 4
+	ENGI 4430
+ME 4302, 4402, 4501, 4601
+ 
+	 
+	Fall 
+	ENGI 001W or 002W or 003W 
+	 
+	Winter
+Academic Term 5
+	ENGI 4421
+ME 5103, 5201, 5502, 5602
+ 
+	 
+	Spring 
+	ENGI 002W or 003W or 004W 
+	 
+	Fall
+Academic Term 6
+	ME 6202, 6303, 6403, 6701, 6702 
+	Students in the Biomedical Technical Stream must also take Human Kinetics and Recreation 2311 in Academic Term 6.
+Students in the Petroleum Technical Stream must also take Process Engineering 6202 in Academic Term 6.
+ 
+	Winter 
+	ENGI 003W or 004W or 005W (optional) 
+	 
+	Spring
+Academic Term 7
+ 
+	ME 7203, 7704 
+	6 credit hours from Technical Stream Required Courses, Academic Term 7
+For students in the Biomedical Technical Stream, one Technical Stream Required Course is replaced by Human Kinetics and Recreation 2311, taken in Academic Term 6.
+For students in the Petroleum Technical Stream, one Technical Stream Required Course is replaced by Process Engineering 6202, taken in Academic Term 6.
+3 credit hours from Technical Stream Elective Courses.
+One free elective which must be a 2000-level or higher course from any academic unit. Selection of a course must be approved by the Head of the Department of Mechanical and Mechatronics Engineering and must be completed before Academic Term 8.
+ 
+	Fall 
+	ENGI 004W or 005W (optional) or 006W (optional) 
+	 
+	Winter
+Academic Term 8
+	ENGI 8152
+ME 8705
+ 
+	3 credit hours from Technical Stream Required Courses, Academic Term 8
+6 credit hours from Technical Stream Elective Courses
+ 
+	________________
+
+
+6.4.1.1 Technical Streams
+                                 * A student must select one of the Technical Streams in the areas of Biomedical, Mechanics and Materials, Mechatronics, Petroleum, and Thermo-Fluids.
+
+                                 * Technical Stream required courses must be chosen according to the student's stream as outlined below in the Technical Stream Required Courses Table.
+
+                                 * Technical Stream elective courses must be chosen according to the student's stream as outlined below in the Technical Stream Elective Courses Table.
+
+A student must choose one course in Academic Term 7 and two courses in Academic Term 8 according to the student's stream from the Technical Stream Elective Courses Table or other courses as approved by the Head of the Department of Mechanical and Mechatronics Engineering.
+
+                                 * The selection of a course as a technical stream course from outside these lists requires the approval of the Head of the Department of Mechanical and Mechatronics Engineering.
+
+ 
+Stream
+	Academic Term 6
+	Academic Term 7
+	Academic Term 8
+	Biomedical
+	Human Kinetics and Recreation 2311
+	Medicine 6250
+	Human Kinetics and Recreation 4703
+	Mechanics and Materials
+	 
+	ME 7104
+ME 7703
+	ME 8604
+	Mechatronics
+	 
+	ME 7205
+ME 7703
+	ME 8305
+	Petroleum
+	Process Engineering 6202
+	Process Engineering 7291
+	Process Engineering 8291
+	Thermo-Fluids
+	 
+	ME 7404
+ME 7405
+	ME 8406
+	
+
+Stream
+	Elective Courses
+	Biomedical
+	Electrical and Computer Engineering 7410
+Electrical and Computer Engineering 8410
+ME 7204
+ME 7205
+ME 7603
+ME 8504
+	Mechanics and Materials
+	ME 7105
+ME 7603
+ME 8106
+ME 8304
+ME 8605
+ME 8606
+	Mechatronics
+	Electrical and Computer Engineering 7200
+Electrical and Computer Engineering 7410
+Electrical and Computer Engineering 8410
+Electrical and Computer Engineering 8610
+ME 7204
+ME 8304
+	Petroleum
+	Civil Engineering 8580
+ME 7405
+ME 7503
+ME 8106
+Process Engineering 7171
+Process Engineering 8292
+Process Engineering 8276
+	Thermo-Fluids
+	ME 7503
+ME 7603
+ME 8407
+ME 8504
+ME 8505
+ME 8506
+	6.5 Mechatronics Engineering Program Regulations
+On this page
+                                    * 6.5.1 Mechatronics Engineering Major
+________________
+
+
+6.5.1 Mechatronics Engineering Major
+                                    * The full-time 141 credit hour Bachelor of Engineering (Co-operative), Mechatronics Engineering Major, requires eight academic terms and four work terms.
+
+                                    * The 141 credit hours shall normally be taken in the academic terms and order as set out in Mechatronics Engineering Major.
+
+                                    * Work terms shall normally be taken in the order as set out in Mechatronics Engineering Major.
+
+ 
+Term
+	Required Courses
+	Elective Courses
+	Engineering One
+	Chemistry 1050 or 1200
+ENGI 1010, 1020, 1030, 1040
+3 credit hours in English at the 1000 level or any Critical Reading and Writing course
+Mathematics 1000, 1001, 2050
+Physics 1050, 1051
+	Students who are expecting to successfully complete the Engineering One requirements by the end of the Winter semester may apply to undertake a work term during the Spring semester. In this case, the prerequisite course ENGI 200W is expected to be successfully completed during the Fall semester. All other students are expected to successfully complete ENGI 200W in the Winter semester of Engineering One.
+	In addition to meeting the requirements outlined below, a student must successfully complete four Complementary Studies courses as described under Description of Program, Complementary Studies.
+	Fall
+Academic Term 3
+	Electrical and Computer Engineering 3300, 3400
+ENGI 3101, 3424
+ME 3102, 3301
+	 
+	Winter
+	ENGI 001W or 002W
+	 
+	Spring
+Academic Term 4
+	Electrical and Computer Engineering 4300, 4510
+ENGI 4430
+ME 4302, 4601
+	 
+	Fall
+	ENGI 001W or 002W or 003W
+	 
+	Winter
+Academic Term 5
+	Civil Engineering 6470
+Electrical and Computer Engineering 5300, 5610
+ENGI 4421
+ME 5602
+ 
+	 
+	Spring 
+	ENGI 002W or 003W or 004W 
+	 
+	Fall
+Academic Term 6
+	Electrical and Computer Engineering 6810
+ME 6202, 6303, 6701, 6702
+ 
+	 
+	Winter 
+	ENGI 003W or 004W or 005W (optional) 
+	 
+	Spring
+Academic Term 7
+	ME 4501, 7205, 7705 
+	6 credit hours from ME 7204, 7210, 7220, 7230, 7603, 7703, Electrical and Computer Engineering 7200, 7410, Computer Science 4766, or other courses as specified by the Head of the Department of Mechanical and Mechatronics Engineering. 
+	Fall 
+	ENGI 004W or 005W (optional) or 006W (optional) 
+	 
+	Winter
+Academic Term 8
+ 
+	ENGI 8152
+ME 8706
+ 
+	9 credit hours from ME 8304, 8305, Electrical and Computer Engineering 5500, 8210, 8410, 8610, 8630, Ocean and Naval Architectural Engineering 8055, Computer Science 6915, or other courses as specified by the Head of the Department of Mechanical and Mechatronics Engineering. 
+	________________
+
+
+6.6 Ocean and Naval Architectural Engineering Program Regulations
+On this page
+                                       * 6.6.1 Ocean and Naval Architectural Engineering Major
+________________
+
+
+6.6.1 Ocean and Naval Architectural Engineering Major
+                                       * The full-time 141 credit hour Bachelor of Engineering (Co-operative), Ocean and Naval Architectural Engineering Major, requires eight academic terms and four work terms.
+
+                                       * The 141 credit hours shall normally be taken in the academic terms and order as set out in Ocean and Naval Architectural Engineering Major.
+
+                                       * Work terms shall normally be taken in the order as set out in Ocean and Naval Architectural Engineering Major.
+
+                                       * Ocean and Naval Architectural Engineering students may complete a minor in Mathematics as outlined under Faculty of Science, Mathematics, Minor in Mathematics.
+
+ 
+Term
+	Required Courses
+	Elective Courses
+	Engineering One
+	Chemistry 1050 or 1200
+ENGI 1010, 1020, 1030, 1040
+3 credit hours in English at the 1000 level or any Critical Reading and Writing course
+Mathematics 1000, 1001, 2050
+Physics 1050, 1051
+	Students who are expecting to successfully complete the Engineering One requirements by the end of the Winter semester may apply to undertake a work term during the Spring semester. In this case, the prerequisite course ENGI 200W is expected to be successfully completed during the Fall semester. All other students are expected to successfully complete ENGI 200W in the Winter semester of Engineering One.
+	In addition to meeting the requirements outlined below, a student must successfully complete four Complementary Studies courses as described under Description of Program, Complementary Studies.
+	Fall
+Academic Term 3
+	ENGI 3101
+Mathematics 2000
+Mechanical and Mechatronics Engineering 3301, 3401
+ONAE 3001, 3054
+	 
+	Winter
+	ENGI 001W or 002W
+	 
+	Spring
+Academic Term 4
+	Mathematics 2260
+ONAE 4002, 4007, 4011, 4020
+	 
+	Fall 
+	ENGI 001W or 002W or 003W 
+	 
+	Winter
+Academic Term 5
+	Mathematics 3202
+ONAE 5020, 5022, 5034
+Physics 3300
+ 
+	 
+	Spring 
+	ENGI 002W or 003W or 004W 
+	 
+	Fall
+Academic Term 6
+	ONAE 6002, 6005, 6036, 6046, 6055 
+	 
+	Winter 
+	ENGI 003W or 004W or 005W (optional) 
+	 
+	Spring
+Academic Term 7
+	ONAE 7000, 7002, 7033, 7036 
+	3 credit hours from ONAE 7003, 7046, Process Engineering 7171 or other courses as specified by the Head of the Department of Ocean and Naval Architectural Engineering 
+	Fall 
+	ENGI 004W or 005W (optional) or 006W (optional) 
+	 
+	Winter
+Academic Term 8
+	ENGI 8152
+ONAE 8000
+ 
+	One free elective which must be a 2000-level or higher course from any academic unit. Selection of a course must be approved by the Head of the Department of Ocean and Naval Architectural Engineering.
+9 credit hours from ENGI 8150, ONAE 8034, 8046, 8054, 8055, 8074, 8075, or other courses as specified by the Head of the Department of Ocean and Naval Architectural Engineering
+ 
+	________________
+
+
+6.7 Process Engineering Program Regulations
+On this page
+                                          * 6.7.1 Process Engineering Major
+                                          * 6.7.1.1 Technical Streams
+                                          * 6.7.2 Minor in Applied Science - Process Engineering for Chemistry Majors and Honours
+________________
+
+
+6.7.1 Process Engineering Major
+                                          * The full-time 141 credit hour Bachelor of Engineering (Co-operative), Process Engineering Major, requires eight academic terms and four work terms.
+
+                                          * The 141 credit hours shall normally be taken in the academic terms and order as set out in Process Engineering Major.
+
+                                          * Beginning in Academic Term 6, a student will follow the Chemical and Bioprocess Stream or the Mineral and Energy Resources Stream with elective course options as outlined in Process Engineering Major.
+
+                                          * Work terms shall normally be taken in the order as set out in Process Engineering Major.
+
+                                          * Process Engineering students may complete a minor in Chemistry as outlined under Faculty of Science, Chemistry, Minor in Chemistry.
+
+ 
+Term
+	Required Courses
+	Elective Courses
+	Engineering One
+	Chemistry 1050 or 1200
+ENGI 1010, 1020, 1030, 1040
+3 credit hours in English at the 1000 level or any Critical Reading and Writing course
+Mathematics 1000, 1001, 2050
+Physics 1050, 1051
+	Students who are expecting to successfully complete the Engineering One requirements by the end of the Winter semester may apply to undertake a work term during the Spring semester. In this case, the prerequisite course ENGI 200W is expected to be successfully completed during the Fall semester. All other students are expected to successfully complete ENGI 200W in the Winter semester of Engineering One.
+	In addition to meeting the requirements outlined below, a student must successfully complete four Complementary Studies courses as described under Description of Program, Complementary Studies.
+	Fall
+Academic Term 3
+	Chemistry 1051, 2400
+ENGI 3101, 3424
+Mechanical and Mechatronics Engineering 3401
+PROC 3000
+	 
+	Winter
+	ENGI 001W or 002W
+	 
+	Spring
+Academic Term 4
+	ENGI 4430
+PROC 4002, 4021, 4025, 4061
+	 
+	Fall
+	ENGI 001W OR 002W OR 003W
+	 
+	Winter
+Academic Term 5 
+	ENGI 4421
+PROC 5001, 5002, 5071, 5092
+	 
+	Spring 
+	ENGI 002W or 003W or 004W 
+	 
+	Fall
+Academic Term 6 
+	PROC 6025, 6031, 6061, 6071 
+	3 credit hours from Technical Streams courses, Academic Term 6 
+	Winter 
+	ENGI 003W or 004W or 005W (optional) 
+	 
+	Spring
+Academic Term 7 
+	PROC 7021, 7040, 7077 
+	6 credit hours from Technical Streams courses, Academic Term 7 
+	Fall 
+	ENGI 004W or 005W (optional) or 006W (optional) 
+	 
+	Winter
+Academic Term 8 
+	ENGI 8152
+PROC 8040
+	One free elective which must be a 2000-level or higher course from any academic unit. Selection of a course must be approved by the Head of the Department of Process Engineering.
+9 credit hours from Technical Streams courses, Academic Term 8
+	________________
+
+
+6.7.1.1 Technical Streams
+                                             * Technical Streams are available in the areas of Chemical and Bioprocess, and Mineral and Energy Resources.
+
+                                             * A student may experience scheduling difficulties if courses are selected from more than one Technical Stream.
+
+                                             * The selection of a course as a technical stream course from outside these lists requires the approval of the Head of the Department of Process Engineering.
+
+ 
+Term
+	Required Courses
+	Elective Courses
+	Academic Term 6
+	PROC 6151
+	 
+	Academic Term 7
+Between Term 7 and Term 8 a student must choose four courses from the Elective Courses.
+	 
+	PROC 7125, 7131, 7141, 7171
+	Academic Term 8
+Between Term 7 and Term 8 a student must choose four courses from the Elective Courses.
+	PROC 8125
+	Electrical and Computer Engineering 8210
+PROC 8141, 8151, 8170
+	
+
+Term
+	Required Courses
+	Elective Courses
+	Academic Term 6
+	PROC 6202
+	 
+	Academic Term 7
+	PROC 7291, 7293
+	 
+	Academic Term 8
+A student must choose three courses from the Elective Courses.
+	 
+	PROC 8125, 8276, 8291, 8292, 8293
+	________________
+
+
+6.7.2 Minor in Applied Science - Process Engineering for Chemistry Majors and Honours
+For Chemistry Majors or Honours students, a Minor in Applied Science - Process Engineering will consist of
+                                                1. Chemistry 1051;
+
+                                                2. PROC 3000 (or the former ENGI 3600)
+
+                                                3. PROC 4021 (or the former ENGI 4621)
+
+                                                4. PROC 4002 (or the former ENGI 4602 or Chemistry 2301)
+
+                                                5. PROC 4025 (or the former ENGI 4625)
+
+                                                6. PROC 4061 (or Mechanical and Mechatronics Engineering 4501 or the former ENGI 4661 or the former ENGI 4961) and
+
+                                                7. 6 credit hours chosen from:
+
+                                                   1. PROC 5001 (or the former ENGI 5601)
+
+                                                   2. PROC 6025 (or the former ENGI 6621 or the former PROC 6021)
+
+                                                   3. PROC 6031 (or the former ENGI 6631)
+
+                                                   4. PROC 6151 (or the former ENGI 6651)
+
+                                                   5. PROC 7021 (or the former ENGI 7621)
+
+                                                   6. PROC 7171 (or the former ENGI 8671).
+
+Completion of the Minor in Applied Science - Process Engineering does not qualify persons to hold the designation "Professional Engineer" as defined by various provincial acts governing the Engineering Profession.
+________________
+
+
+Course Description
+11.1 Engineering One
+Engineering One courses are designated by ENGI.
+ENGI 1010 Engineering Statics
+is the first course in Engineering mechanics. Forces and moments are described with vector algebra, leading to a description of the equilibrium conditions for particles and solid bodies. The importance of free body diagrams is highlighted. This knowledge is then applied to the analysis of trusses, frames and machines. Additional topics include an examination of friction and the concepts of centre of force, centroids and second moments of area.
+CO:
+Mathematics 1000
+CR:the former ENGI 1313
+OR:tutorial 1 hour per week
+PR:Level III Physics or Physics 1020 or equivalent
+ 
+ENGI 1020 Introduction to Programming
+is an introduction to algorithmic problem solving techniques and computer programming, including basic program control structures (sequence, call, branch, loop) and data representations, functional decomposition, and design by contract. Exercises and examples are drawn from a variety of engineering disciplines and are implemented using a standard modern programming language.
+CR:the former ENGI 2420
+LH:at least four 2-hour sessions per semester
+PR:eligibility to register for Mathematics 1000
+ 
+ENGI 1030 Engineering Graphics and Design
+provides two complementary competencies. Firstly, it provides an introduction to the fundamentals of graphic communication, including orthographic projections, three dimensional pictorials, sectioning and dimensioning. Both sketching and CAD are utilized. Secondly, the course introduces students to standard design methodologies. The graphics and design competencies are reinforced through lab and project exercises.
+LH:3
+PR:eligibility to register for Mathematics 1000
+ 
+ENGI 1040 Mechanisms and Electric Circuits
+is offered in two serial modules, including laboratory and workshop practice, and a team project to expose students to the concept of system integration involving electrical and mechanical systems. The electrical module provides an introduction to dc circuits, with an analysis of dc circuits used in control, measurement and instrumentation systems. The mechanism module provides an introduction to machine components such as belts, pulleys, gears, and simple linkages. The laboratory and workshop component introduces students to hands-on practice in basic laboratory instruments, tools and safety procedures. A team project involves the construction, assembly and testing of a simple mechanism.
+LH:3
+PR:Level III Physics or Physics 1051 (which may be taken concurrently) and Mathematics 1000 (which may be taken concurrently).
+ 
+AR = Attendance requirement as noted.
+CH = Credit hours: unless otherwise noted, a course normally has a credit value of 3 credit hours.
+CO = Co-requisite(s): course(s) listed must be taken concurrently with or successfully completed prior to the course being described.
+CR = Credit restricted: The course being described and the course(s) listed are closely related but not equivalent.  Credit is limited to one of these courses.  Normally, these courses cannot be substituted, one for the other, to satisfy program requirements.
+EQ = Equivalent: the course being described and the course(s) listed are equal for credit determination.  Credit is limited to one of these courses.  These courses can be substituted, one for the other, to satisfy program requirements.
+	LC = Lecture hours per week: lecture hours are 3 per week unless otherwise noted.
+LH = Laboratory hours per week.
+OR = Other requirements of the course such as tutorials, practical sessions, or seminars.
+PR = Prerequisite(s): course(s) listed must be successfully completed prior to commencing the course being described.
+UL = Usage limitation(s) as noted.
+	________________
+
+
+11.2 Civil Engineering
+Civil Engineering courses are identified by a four-digit numbering system, the first two digits signifying the following:
+The first digit denotes the academic term during which the course is normally offered.
+The second digit denotes the primary areas of study, namely:
+0: Capstone courses
+	1: Hydrotechnical & Water Resources
+	2: Geotechnical courses
+	3: Mechanics & Structural Analysis
+	4: Mathematics and Science
+	5: Design and Civil cross-disciplinary courses
+	6: Environmental courses
+	7: Highways and Construction Materials
+	8: Construction
+	9: Special Topics
+	Civil Engineering courses are designated by CIV.
+Non-departmental Engineering courses are designated by ENGI.
+CIV 3210 Earth Sciences for Civil Engineering
+is an introduction to basic concepts in geology with emphasis on applications in Civil, Geological, Mining and Environmental Engineering through the study of basic concepts and case histories. It includes the study of rocks, minerals, sediments and their physical properties in laboratory exercises.
+EQ:the former ENGI 3610
+LH:3
+ 
+CIV 3440 Mathematics for Civil Engineering I
+includes functions of a single parameter, conic sections, polar coordinates, partial differentiation, multiple integrals, sequences & series, and an introduction to first order ordinary differential equations.
+EQ:the former ENGI 3425
+OR:tutorial 1 hour per week
+PR:Mathematics 1001 and 2050
+ 
+CIV 3710 Surveying and Geomatics
+includes distance, elevation, and angle measurements; horizontal curves; plane survey calculations; area and volume computations; introduction to photogrammetry; global positioning (GPS) and geographical information systems (GIS). A surveying field school to introduce students to the use of surveying equipment and mapping will be held in the first two weeks of the term.
+EQ:the former ENGI 3703
+LH:nine 3-hour sessions per semester
+OR:18 hours of field school which occurs in the first two weeks of the semester
+ 
+CIV 3720 Materials for Construction
+includes structure of metals and nonmetals; deformation of metals; strengthening mechanisms in metals; concrete and cementitious materials; admixtures; iron and steel; brick masonry; concrete masonry; mortar grout and plaster; wood and wood products.
+EQ:the former ENGI 3731
+LH:nine 3-hour sessions per semester
+ 
+CIV 4220 Geotechnical Engineering I
+includes an introduction to soil as a three-phase material and examines physical and mechanical properties; particle size distribution; soil plasticity and structure; classification of soils; soil compaction; hydraulic properties; permeability; flow of water in soil; flownets; effective stress concept in soils; stresses in soils beneath loaded areas; and one-dimensional consolidation theory.
+EQ:the former ENGI 4723
+LH:3
+OR:twelve 1-hour tutorials per semester
+PR:CIV 3210 or the former ENGI 3610
+ 
+CIV 4310 Mechanics of Solids I
+examines force analysis of structures and structural components, free body diagrams of structure, components and section of a components, definition of a stress at point, stress notation, complementary property of shear stress, definition of strain, normal strain, shear strain, thermal strain, mechanical properties of materials, analysis of prismatic members due to axial, bending and torsion loading, analysis of beams, shear force and bending moment diagrams, combined loads; and the transformation of stresses and strains.
+CR:Mechanical and Mechatronics Engineering 4601, the former ENGI 4934
+EQ:the former ENGI 4312
+LH:four 1-hour sessions per semesterup to ten 1-hour tutorials per semester
+PR:ENGI 1010
+ 
+CIV 4450 Mathematics for Civil Engineering II
+examines the analytical solutions of ordinary differential equations of the first and higher orders and numerical methods: errors, round off and stability, solution to nonlinear equations, curve fitting and interpolation methods, numerical differentiation and integration.
+CR:the former ENGI 4422
+EQ:the former ENGI 4425
+OR:tutorial 1 hour per week
+PR:CIV 3440 or the former ENGI 3425
+ 
+CIV 4610 Applied Environmental Science and Engineering
+examines the nature and scope of environmental problems; concept of sustainable development; basic concepts of environmental quality parameters and standards; water and wastewater treatment; solid and hazardous wastes; atmospheric, water and noise, pollution, their measurements, and mitigation control.
+EQ:the former ENGI 4717
+LH:six 3-hour sessions per semester
+OR:two 3-hour tutorials per semester
+PR:Chemistry 1050 or Chemistry 1200, CIV 3210 or the former ENGI 3610
+ 
+CIV 5110 Fluid Mechanics
+examines fluid properties; fluid statics; buoyancy and stability; kinematics; pressure measurement; continuity, energy and momentum principles; control volume analysis; energy and hydraulic grade lines; free jets; laminar and turbulent flow; dimensional analysis; drag on immersed bodies; flow measurement; head loss in pipes; and an introduction to flow in pipe systems.
+CR:Mechanical and Mechatronics Engineering 4501, the former ENGI 4913, the former ENGI 4961, the former ENGI 5961
+EQ:the former ENGI 5713
+LH:five 2-hour sessions per semester
+OR:twelve 1-hour tutorials per semester
+PR:CIV 4450 or the former ENGI 4425
+ 
+CIV 5230 Geotechnical Engineering II
+examines shear strength of soil; types of laboratory and in-situ soil shear strength tests; lateral earth pressure on retaining structures; slope stability analysis; soil bearing capacity for shallow foundations; introduction to pile foundations and limit state design in geotechnical engineering.
+CR:the former ENGI 6723
+EQ:the former ENGI 5723
+LH:3
+OR:twelve 1-hour tutorials per semester
+PR:CIV 4220 or the former ENGI 4723
+ 
+CIV 5320 Mechanics of Solids II
+includes a review of earlier concepts; strain transformation; failure theories; deflections of beams; energy methods; buckling of columns and the inelastic behaviour of beam cross-sections.
+EQ:the former ENGI 5312
+LH:four 3-hour sessions per semester
+OR:twelve 1 hour tutorials per semester
+PR:CIV 4310 or the former ENGI 4312
+ 
+CIV 5460 Applied Mathematical Analysis
+examines numerical and analytical solutions of applied mathematical problems in Civil Engineering, problems with higher order ordinary differential equations, stiff equations, systems of ODE, Runge-Kutta methods, boundary value problems, applications of eigen value problems (numerical solutions), Fourier analysis, elliptic, parabolic and hyperbolic partial differential equations and their numerical solutions with engineering applications.
+EQ:the former ENGI 5434
+PR:CIV 4450 or the former ENGI 4425
+ 
+CIV 5510 Design of Concrete Structures
+begins with a review of mechanical properties of concrete. Topics include design methods and requirements, strength of reinforced concrete sections in bending, balanced condition at ultimate strength with tension reinforcement, bending with both tension and compression reinforcement; serviceability, deflections, flexural crack control for beams and one-way slabs; shear strength, inclined cracking, and shear reinforcement; bond stress and development of reinforcement; members in compression and bending; short columns.
+EQ:the former ENGI 5706
+LH:five 3-hour sessions per semester
+OR:twelve 1-hour tutorials per semester
+PR:CIV 4310 or the former ENGI 4312
+ 
+CIV 6120 Hydraulics
+examines flow in pipe systems and networks; uniform and non-uniform flow in open channels; hydraulic machinery and associated conduits; design and analysis of culverts; and pipeline/pump system optimization.
+EQ:the former ENGI 6713
+LH:four 3-hour sessions per semester
+PR:ENGI 4102, CIV 5110 or the former ENGI 5713
+ 
+CIV 6330 Structural Analysis I
+examines structure classification and loads, building code provisions, the analysis of statically determinate frames, arches and cables, stability and determinacy of planar structures, shear and moment diagrams for frames, influence lines for statically determinate structures, the force method of analysing indeterminate structures, the slope deflection method, and moment distribution method.
+EQ:the former ENGI 6705
+LH:six 3-hour sessions per semester
+OR:twelve 1-hour tutorials per semester
+PR:CIV 5320 or the former ENGI 5312
+ 
+CIV 6470 Thermal Sciences
+examines fundamental concepts associated with thermodynamics, fluid dynamics and heat transfer; first and second laws of thermodynamics; system and control volume analysis; classification of flows; introduction to boundary layers and drag; convection, conduction and radiation heat transfer; thermal insulation and calculation of R-values; and cooling of electrical components.
+CR:the former ENGI 4322
+EQ:the former ENGI 6322
+ 
+CIV 6520 Design of Concrete and Masonry Structures
+examines the design of slender columns, design methods for reinforced concrete two-way slabs, two-way slabs supported on walls and stiff beams, direct design method, design of foundation systems, footing design, design of concrete retaining walls, engineered masonry, mortar stress, analysis and design of flexural members, axial load and bending in unreinforced and reinforced walls.
+EQ:the former ENGI 6707
+LH:2
+OR:twelve 1-hour tutorials per semester
+PR:CIV 5510 or the former ENGI 5706
+ 
+CIV 6810 Construction Planning Equipment and Methods
+includes construction equipment selection and utilization; earthmoving including use of explosives; case studies of major civil projects; principles of project planning and control; computer applications to the construction industry.
+CR:the former ENGI 8749
+EQ:the former ENGI 6749
+PR:ENGI 4102, completion of Academic Term 5 of the Civil Engineering program
+ 
+CIV 7130 Hydrology and Water Resources
+examines basic hydrometeorological processes, evapotranspiration, precipitation, intensity-duration-frequency (IDF) analysis and development, snowmelt, infiltration, runoff and streamflow; statistical treatment of hydrologic data; hydrograph analysis and synthesis; design storms and design floods; reservoir storage and flood routing; urban run-off and drainage; use of hydrologic modelling software.
+EQ:the former ENGI 7713
+LH:four 2-hour sessions per semester
+PR:CIV 5110 or the former ENGI 5713
+ 
+CIV 7140 Hydrotechnical Engineering
+examines the theory and application of steady gradually-varied flow in artificial and natural open channels together with an introduction to appropriate software; erosion protection and mobile-boundary hydraulics; problems with ice in rivers, the design of spillways, energy dissipaters, and culverts. There is an introduction to water hammer and surge tanks.
+EQ:the former ENGI 7716
+LH:four 3-hour sessions per semester
+PR:CIV 6120 or the former ENGI 6713
+ 
+CIV 7240 Geotechnical Engineering III
+examines geotechnical engineering analysis and design methods; subsurface investigation; limit state design of shallow foundations and mat foundations in soil and rock; foundations in cold regions; design of axially and laterally loaded piles; and flexible retaining structures (sheet piles).
+EQ:the former ENGI 7723
+PR:CIV 5230 or the former ENGI 5723
+ 
+CIV 7340 Finite Element Structural Analysis
+includes a review of basic concepts required for FEA, basics of stiffness formulation, direct stiffness method, displacement method, one dimensional elements, trusses and frames. Topics include 1-D fluid and heat transfer elements, automated analysis and modelling concepts, higher order elements, two dimensional elements - plane stress and plane strain, introduction to 3D and other types. - introduction to advanced topics and isoparametric formulation.
+EQ:the former ENGI 7706
+LH:at least eight 2-hour sessions per semester
+PR:CIV 6330 or the former ENGI 6705 or approval of the Head of the Department
+ 
+CIV 7530 Design of Steel Structures
+begins with a review of design concepts, standards and products. Topics include design of members and connections, tension members, bolted joints, welded joints, compression members, stability and effective length, flexural members including beams & beam-columns, plate girders, composite beams, introduction to serviceability through deflections of beams.
+EQ:the former ENGI 7704
+LH:five 3-hour sessions per semester
+OR:twelve 1-hour tutorials per semester
+PR:CIV 5510 or the former ENGI 5706 and CIV 5320 or the former ENGI 5312, or approval of the Head of the Department
+ 
+CIV 7540 Reliability and Environmental Loading on Offshore Structures
+begins with an introduction to natural phenomena that cause loading and influence the design of marine structures. Topics include the interpretation and utilization of field data for the determination of design loads for wind, waves currents and ice and case studies of load analysis for the design of offshore structures in Atlantic Canada.
+EQ:the former ENGI 7707
+PR:CIV 5320 or the former ENGI 5312
+ 
+CIV 7620 Environmental Geotechniques
+examines soil characteristics; soil water interactions; soil contaminants; advection, diffusion, dispersion, adsorption, and biodegradation; contaminated site characterization; soil and groundwater remediation; waste containment and minimization.
+EQ:the former ENGI 6718, the former ENGI 7718
+OR:six 1-hour tutorials per semester
+PR:CIV 5230 or the former ENGI 5723
+ 
+CIV 7730 Highway Engineering
+examines highways transportation systems including driver, vehicle and road characteristics; geometric design of highways; subgrade and base materials; highway drainage features; design of flexible and rigid pavement; fundamentals of traffic flow and queuing theory; traffic control and analysis of signalized intersections; travel demand and traffic forecasting.
+EQ:the former ENGI 7745
+LH:four 3-hour sessions per semester
+PR:CIV 3710 or the former ENGI 3703, CIV 5230 or the former ENGI 5723
+ 
+CIV 7820 Project Planning and Control
+includes an introduction to types of contracts, project delivery approaches, and prevailing contractual relationships. The course examines basic project management techniques for network planning and scheduling (CPM and PERT); principles of resource productivity databases, preliminary estimating, and detailed bid preparation; quantitative approaches for effective control of time, cost, resource, quality, and value of constructed facilities; use of computer software for scheduling, estimating, and control.
+EQ:the former ENGI 7748
+PR:completion of Academic Term 6 of the Civil Engineering program
+ 
+CIV 8000 Civil Engineering Project
+is a practically oriented design project integrated over the five areas in which Civil programs are offered. Students will operate in consultant groups and will complete a design for a typical Civil Engineering undertaking.
+EQ:the former ENGI 8700
+LC:
+scheduled as required
+OR:1 client meeting per week, 1 tutorial per week
+PR:completion of Term 7 of the Civil Engineering program
+ 
+CIV 8150 Municipal Engineering
+includes water supply system overview; water consumption estimation; groundwater and surface water sources; oxygen demand and transfer; water treatment processes; water distribution systems and design software; sewer systems and design software; wastewater treatment processes; sludge handling; decentralized and on-site wastewater treatment.
+EQ:the former ENGI 8713
+PR:CIV 7140 or the former ENGI 7716
+ 
+CIV 8550 Structural Building Systems
+examines geometries, loads, safety and serviceability, procedure of using the national building code for evaluating the governing loads on structural members; approximate analysis of structures; structural forms for low rise structures; design of low rise and steel buildings; lateral load-resisting elements and bracing systems.
+EQ:the former ENGI 8705
+LH:2
+OR:1 hour tutorial per week
+PR:CIV 7530 or the former ENGI 7704
+ 
+CIV 8560 Offshore Structural Design
+examines guidelines and international codes and standards for offshore structural design; understanding design constraints and concepts of offshore fixed and floating structures; design consideration for fixed offshore concrete platform; design consideration for offshore platform and floating production system design, and analysis of various support systems of the offshore structure.
+EQ:the former ENGI 8708
+PR:CIV 7540 or the former ENGI 7707
+ 
+CIV 8570 Coastal and Ocean Engineering
+examines the coastal and ocean environment; ocean circulation and properties; waves and tides; instrumentation and measurement. Additional topics will be drawn from the areas of hydraulic, geotechnical and structural engineering. Relevant field exercises will be conducted.
+EQ:the former ENGI 8751
+PR:CIV 6120 or the former ENGI 6713
+ 
+CIV 8580 Subsea Pipeline Engineering
+provides an introduction to subsea pipeline engineering with a focus on the mechanical design of offshore pipelines. Stress-based, design-based and limit-states design for strength and stability are examined. Other fundamental pipeline engineering design issues such as materials specification, flow assurance and installation are reviewed. Principles of geotechnical engineering and pipeline/soil interaction analysis techniques are investigated. Special topics are also reviewed.
+EQ:the former ENGI 8673
+LH:2
+PR:one of CIV 5320, the former ENGI 5312, Mechanical and Mechatronics Engineering 5602, the former ENGI 5931, Ocean and Naval Architectural Engineering 7002, the former ENGI 6003 or the former ENGI 7002
+ 
+CIV 8630 Environmental Assessment, Monitoring and Control
+covers pollution monitoring, and sampling network design; water quality and air quality modelling; environmental risk assessment; environmental impact assessment; site remediation and hazardous waste management, and environmental statistical analysis. There are relevant field trips to local wastewater treatment and landfill facilities, as well as case studies.
+EQ:the former ENGI 8717
+OR:at least 2 field trips
+PR:CIV 4610 or the former ENGI 4717
+ 
+CIV 8830 Contract Law and Labour Relations
+is an introduction to law as it applies to engineering activity; the nature of law and legal processes, including standard forms; liens, bonds and insurances; the labour movement in North America; examination of union philosophies and managerial attitudes; labour law and collective bargaining; disputes and settlements.
+CR:the former ENGI 6740
+EQ:the former ENGI 8740
+PR:completion of Term 7 of the Civil Engineering program
+ 
+CIV 8900-8999 Special Topics in Civil Engineering
+will have topics to be studied announced by the Department.
+ 
+AR = Attendance requirement as noted.
+CH = Credit hours: unless otherwise noted, a course normally has a credit value of 3 credit hours.
+CO = Co-requisite(s): course(s) listed must be taken concurrently with or successfully completed prior to the course being described.
+CR = Credit restricted: The course being described and the course(s) listed are closely related but not equivalent.  Credit is limited to one of these courses.  Normally, these courses cannot be substituted, one for the other, to satisfy program requirements.
+EQ = Equivalent: the course being described and the course(s) listed are equal for credit determination.  Credit is limited to one of these courses.  These courses can be substituted, one for the other, to satisfy program requirements.
+	LC = Lecture hours per week: lecture hours are 3 per week unless otherwise noted.
+LH = Laboratory hours per week.
+OR = Other requirements of the course such as tutorials, practical sessions, or seminars.
+PR = Prerequisite(s): course(s) listed must be successfully completed prior to commencing the course being described.
+UL = Usage limitation(s) as noted.
+	________________
+
+
+11.3 Electrical and Computer Engineering
+In accordance with Senate's Policy Regarding Inactive Courses, the course descriptions for courses which have not been offered in the previous three academic years and which are not scheduled to be offered in the current academic year have been removed from the following listing. For information about any of these inactive courses, please contact the Head of the Department. (or the Associate Dean (Undergraduate Studies) of the Faculty in the case of ENGI courses).
+Electrical and Computer Engineering courses are identified by a four-digit numbering system, the first two digits signifying the following:
+The first digit denotes the academic term during which the course is normally offered.
+The second digit denotes the primary areas of study, namely:
+0: Design
+	1: Mathematics
+	2: Controls
+	3: Circuits
+	4: Software
+	5: Digital Hardware
+	6: Signals & Communications
+	7: Electromagnetism
+	8: Power & Machines
+	9: Special Topics
+	Electrical and Computer Engineering courses are designated by ECE.
+Non-departmental Engineering courses are designated by ENGI.
+ECE 3300 Circuit Analysis
+begins with a review of basic circuit analysis including dependent sources, then considers wye-delta transformation, bridge circuits, transient analysis of first- and second -order circuits, sinusoidal steady state analysis, phasor diagrams, sinusoidal steady-state power, complex power and maximum power transfer.
+CO:
+ENGI 3424. Students completing a Minor in Applied Science - Electrical Engineering may successfully complete Mathematics 2260 as the co-requisite instead of ENGI 3424.
+CR:Physics 3550
+EQ:the former ENGI 3821
+LH:eight 3-hour sessions per semester
+OR:tutorial 1 hour per week
+PR:ENGI 1040, Mathematics 1001, Mathematics 2050. Students completing a Minor in Applied Science - Electrical Engineering may complete Physics 2055 as the prerequisite instead of ENGI 1040.
+ 
+ECE 3400 Foundations of Programming
+introduces fundamental concepts in object-oriented programming and develops vocational programming skills in C++. Topics include abstraction, types, contracts, object-oriented design, C++ language features including key elements of the standard library and practical programming and debugging skills.
+CR:Computer Science 2510
+EQ:the former ENGI 3891
+LH:at least four 2-hour sessions per semester
+OR:tutorial one hour per week
+PR:ENGI 1020
+ 
+ECE 3500 Digital Logic
+includes number systems and Boolean algebra; minimization techniques for Boolean functions; basic combinational logic circuit analysis and design; flip-flops, state machine design and implementation; decoders, multiplexors, registers, counters; simple arithmetic and logic units (ALUs); digital system design of small systems.
+CR:the former Computer Science 3723
+EQ:the former ENGI 3861
+LH:six 3-hour sessions per semester
+OR:twelve 1-hour tutorial sessions per semester
+PR:ENGI 1040. Students completing a Minor in Applied Science - Electrical Engineering may successfully complete Physics 2055 as the prerequisite instead of ENGI 1040.
+ 
+ECE 4110 Discrete Mathematics for Computer Engineering
+is an introduction to discrete mathematics including a selection of topics such as propositional logic, introductory predicate logic, mathematical reasoning, induction, sets, relations, functions, integers, graphs, trees, and models of computation.
+CR:Computer Science 1002, or the former Computer Science 2740, the former ENGI 3422, Mathematics 2320
+EQ:the former ENGI 4424
+OR:tutorial 1 hour per week
+PR:Mathematics 1001 or Mathematics 2050
+ 
+ECE 4300 Electronic Circuits I
+provides an introduction to semiconductor electronic devices and circuits. Topics covered include internal structure of electronic devices; working principles, dc and small-signal models and analysis of p-n junction diodes, bipolar junction transistors and field effect transistors; introduction to digital electronics; differential and multistage amplifier circuits; Miller’s theorem; frequency response of discrete amplifiers; practical applications including power supplies, amplifiers and switching circuits. CAD tools are used to illustrate the analysis and design of electronic circuits.
+EQ:the former ENGI 4854
+LH:eight 3-hour sessions per semester
+OR:tutorial 1 hour per week
+PR:ECE 3300 or the former ENGI 3821. Students completing a Minor in Applied Science - Electrical Engineering may successfully complete Physics 3550 as the prerequisite instead of ECE 3300.
+ 
+ECE 4400 Data Structures
+examines fundamental data structures; recursive structures and generic programming techniques; modularity and reusability; time complexity and efficient data structures; procedural abstraction; data abstraction and precise documentation of data structures.
+CO:
+ECE 4110 or Mathematics 2320 or the former ENGI 4424
+EQ:the former ENGI 4892
+OR:tutorial 1 hour per week
+PR:ECE 3400 or the former ENGI 3891
+ 
+ECE 4500 Microprocessors
+includes microprocessor architecture; assembly language programming: addressing modes, table look up; memory mapped devices; interfacing techniques: parallel, serial; timing control; analog input and output, and computer displays.
+EQ:the former ENGI 4862
+LH:eight 3-hour sessions per semester
+OR:nine 1-hour tutorial sessions per semester
+PR:ECE 3500 or the former ENGI 3861
+ 
+ECE 4510 Microprocessors and Digital Logic
+includes number systems, logic gates, Boolean algebra, Karnaugh maps and combinational logic design, sequential logic and state machines, microprocessor architectures, micro-processor programming, GPIO, analog input and output, and serial communication.
+CR:ECE 3500, ECE 4500
+LH:five 3-hour sessions per semester
+OR:tutorial 1 hour per week
+PR:ECE 3300 or the former ENGI 3821, ENGI 1040, ENGI 3424
+ 
+ECE 4600 Introduction to Systems and Signals
+begins with an introduction to systems and signals, and includes mechanical and electrical analogues; principles of linear superposition and time-invariance; definitions, properties, and use of the delta function; applications of complex variables and functions; impulse and step responses; input-output relations of continuous-time systems in terms of convolution and transfer functions; frequency response plots; the Fourier transform and applications; Laplace transforms with application to filtering, communications, and controls.
+EQ:the former ENGI 4823
+OR:tutorial 1 hour per week
+PR:ECE 3300 or the former ENGI 3821, ENGI 3424. Students completing a Minor in Applied Science - Electrical Engineering may successfully complete Physics 3820 as a prerequisite instead of ENGI 3424 and may successfully complete Physics 3550 as a prerequisite instead of ECE 3300.
+ 
+ECE 4800 Electromechanical Devices
+includes an introduction to fundamental principles of energy conversion; review of single-phase AC circuits; three-phase AC circuits; magnetic fields and circuits; transformer models, performance and applications; basic concepts of rotating machines; performance and control of DC motors.
+CR:the former ENGI 5842
+EQ:the former ENGI 4841
+LH:six 3-hour sessions per semester
+OR:tutorial 1 hour per week
+PR:ECE 3300 or the former ENGI 3821, ENGI 3424. Students completing a Minor in Applied Science - Electrical Engineering may successfully complete Physics 3820 as a prerequisite instead of ENGI 3424 and may successfully complete Physics 3550 as a prerequisite instead of ECE 3300.
+ 
+ECE 5000 Electrical Engineering Design
+students work, normally in pairs, on small design projects that require them to follow a hierarchical design process including general product definition, specifications and requirements, functional-block diagrams, specification of functional blocks for circuit-level synthesis and implementation, system integration, simulation or modelling, testing and verification. The small projects are designed to encourage and motivate students to learn and practise the process of design. The course culminates in a large design project.
+CO:
+ECE 5200 or the former ENGI 5821, ECE 5300 or the former ENGI 5854. There is no co-requisite for students completing a minor in Applied Science - Electrical Engineering.
+EQ:the former ENGI 5800
+LC:
+18 lecture hours per semester
+LH:ten 3-hour sessions per semester
+OR:meetings with project supervisor as required
+PR:ECE 4300 or the former ENGI 4854, ECE 4500 or the former ENGI 4862, ECE 4800 or the former ENGI 4841
+ 
+ECE 5010 Software Design
+examines the development process: requirement analysis, design, iterative development, design documentation; an introduction to the Unified Modelling Language: use cases, class diagrams and sequence diagrams; an introduction to software design patterns: creational patterns, structural patterns and behavioural patterns; object oriented, modular decomposition. The course includes a major design project.
+EQ:the former ENGI 5895
+LC:
+25 lecture hours per semester
+LH:six 3-hour sessions per semester
+OR:meetings with project supervisor as required
+PR:ECE 4400 or the former ENGI 4892
+ 
+ECE 5100 Probability and Random Processes
+includes basic concepts in probability, random variables, multiple random variables, descriptive statistics, random processes and selected applications for engineering.
+EQ:the former ENGI 5420
+OR:twelve 1-hour tutorial sessions per semester
+PR:ECE 4600 or the former ENGI 4823
+ 
+ECE 5200 Control Systems I
+includes an introduction to control systems with negative feedback; mathematical modelling and transfer functions of electromechanical systems; block diagram and signal flow graphs; controller realization; transient response analysis; Routh's stability criterion; basic control actions and response of control systems; root locus analysis and design; frequency response analysis; Bode diagram; gain and phase margins; compensator design in frequency domain; Nyquist stability criterion; digital implementations of analog compensators; and an introduction to PID controller tuning methods.
+EQ:the former ENGI 5821
+LH:four 3-hour sessions per semester
+OR:six 1-hour tutorials per semester
+PR:ECE 4600 or the former ENGI 4823
+ 
+ECE 5300 Electronic Circuits II
+provides an introduction to circuits using operational amplifiers. Topics covered include operational amplifier configurations, analysis, and design; transient and frequency response of amplifier circuits; feedback amplifier analysis and design, stability and compensation techniques; noise and distortion in electronic circuits; analysis and design of data converters; and an introduction to analog filter design. CAD tools are used to illustrate the analysis and design of electronic circuits.
+EQ:the former ENGI 5854
+LH:eight 3-hour sessions per semester
+OR:tutorial 1 hour per week
+PR:ECE 4300 or the former ENGI 4854, ECE 4600 or the former ENGI 4823. Students in the Mechatronics Engineering program may complete ECE 5610 as a corequisite instead of ECE 4600.
+ 
+ECE 5400 Algorithms: Correctness and Complexity
+presents fundamental theories and practices for the design of correct and efficient computing systems, including specification of computing systems and their components, correctness with respect to specifications; methods of verification; algorithmic problem solving strategies (such as divide and conquer, dynamic programming); tractability and intractability of computational problems.
+EQ:the former ENGI 5892, the former ENGI 6892
+OR:tutorial one hour per week
+PR:ECE 4110 or the former ENGI 4424, ECE 4400 or the former ENGI 4892
+ 
+ECE 5500 Digital Systems
+includes concepts, language, tools, and issues pertaining to specification, modelling, analysis, simulation, testing and synthesis of digital systems, including PLD, FPGA, and ASIC devices. Industry standard CAD tools will be used in this course to facilitate system design and testing.
+EQ:the former ENGI 5865
+LH:ten 3-hour sessions per semester
+PR:ECE 3400 or the former ENGI 3891, ECE 4500 or ECE 4510 or the former ENGI 4862
+ 
+ECE 5610 Sensors and Instrumentation
+involves modelling, analysis, and design of mechanical measurement systems. Topics covered include Laplace transforms, lumped parameter modelling of electro-mechanical systems, static and dynamic characteristics of sensors, sampling and anti-aliasing, classification and selection of sensors for motion and process, op-amps and signal conditioning and processing, and data acquisition system design.
+CR:ECE 4600, Mechanical and Mechatronics Engineering 7203, the former ENGI 5952, the former ENGI 7930
+LH:five 3-hour sessions per semester
+OR:tutorial 1 hour per week
+PR:ECE 3300 or the former ENGI 3821, ENGI 1040, ENGI 3424
+ 
+ECE 5700 Basic Electromagnetics
+includes a review of relevant vector calculus, including the divergence, gradient and curl operators in Cartesian, cylindrical and spherical coordinates, divergence theorem, Stokes' theorem, and Laplace's and Poisson's equations. Topics in electrostatics include Coulomb's law, potential and energy, conductors, dielectrics, capacitance and electric field boundary conditions. Topics for magnetism include the steady magnetic field, the Biot-Savart law and Ampère's law.
+CR:Physics 3500
+EQ:the former ENGI 5812
+OR:tutorial 1 hour per week
+PR:ECE 3300 or the former ENGI 3821, ENGI 4430
+ 
+ECE 6200 Industrial Controls and Instrumentation
+examines control and instrumentation system components; transducers and signal processing circuits, linear variable differential transformers, power oscillators; electromechanical actuators, solenoids, power drives; A/D and D/A conversion, standard PC interfaces; real-time operating systems; design of discrete-time feedback controllers on a PC platform; system integration, control system tweaking and troubleshooting; programming soft-PLC's using IEC61131.
+CR:the former ENGI 7858
+EQ:the former ENGI 6855
+LH:at least eight 3-hour sessions per semester
+PR:ECE 5200 or the former ENGI 5821
+ 
+ECE 6400 Software Development Practice
+introduces the student to software development processes, practices, and tools. It includes software project management using agile processes; development tools and practices; architectural level design; deployment and operations; and verification via static analysis, formal verification, and testing.
+EQ:the former ENGI 6893
+LH:six 3-hour sessions per semester
+PR:ECE 5010 or the former ENGI 5895, ECE 5400 or the former ENGI 5892
+ 
+ECE 6500 Computer Architecture
+begins with a review of microprocessors and computer organization. Topics include fundamentals of computer design: performance metrics and cost; instruction set architecture; memory hierarchy design: cache, main memory and virtual memory; pipelining: hazards, parallelism; special purpose processors; multiprocessors and thread-level parallelism.
+EQ:the former ENGI 6861
+OR:tutorial 1 hour per week
+PR:ECE 5500 or the former ENGI 5865
+ 
+ECE 6600 Communication Principles
+begins with a review of signal representation and analysis and includes distortionless signal transmission, analog modulation (AM, FM and PM), super-heterodyne receiver, sampling theorem, pulse amplitude modulation (PAM), pulse code modulation (PCM), delta modulation.
+EQ:the former ENGI 6871
+LH:four 3-hour sessions per term
+PR:ECE 4600 or the former ENGI 4823, ECE 5100 or the former ENGI 5420
+ 
+ECE 6610 Communication Networks
+is an introduction to communication networks such as the telephone and computer networks. Topics include circuit and packet switching, network protocols and layered architecture, physical layer, data link layer, network layer, error control; local area networks, and internetworking.
+EQ:the former ENGI 6876
+PR:ECE 5100 or the former ENGI 5420
+ 
+ECE 6700 Electromagnetic Fields
+is a continuation of the topics started in ECE 5700, including a review of electrostatics and magnetostatics, Maxwell’s equations, Lorentz force, Poynting's theorem, plane waves, and applications including two-wire transmission lines.
+CR:Physics 4500
+EQ:the former ENGI 6813
+OR:tutorial 1 hour per week
+PR:ECE 5700 or the former ENGI 5812. Students completing a Minor in Applied Science - Electrical Engineering may successfully complete Physics 3500 as the prerequisite instead of ECE 5700.
+ 
+ECE 6800 Rotating Machines
+examines the fundamentals of rotating machines; design of machine windings; polyphase and single phase induction motor theory and applications; synchronous machine theory; stability and control of synchronous generators; introduction to permanent magnet machines; introduction to AC motor drives.
+EQ:the former ENGI 6843
+LH:six 3-hour sessions per semester
+OR:eight 1-hour tutorial sessions per semester
+PR:ECE 4800 or the former ENGI 4841
+ 
+ECE 6810 Power Electronics
+is an overview of power semiconductor switches, an introduction to energy conversion and control techniques and examination of controlled rectifiers; phase-controlled converters; switch-mode dc/dc converters; variable frequency dc/ac inverters; ac/ac converters; gate and base drive circuits; design of driver and snubber circuits; thermal models and heat sink design.
+CR:the former ENGI 7846
+EQ:the former ENGI 6856
+LH:eight 3-hour sessions per semester
+OR:eight 1-hour tutorial sessions per semester
+PR:ECE 5300 or the former ENGI 5854
+ 
+ECE 7000 Electrical Engineering Design Project I
+provides an opportunity for senior students to integrate the knowledge that they have acquired through the junior terms and apply it to solving an electrical engineering design problem. Students work in small teams with the assistance of a faculty mentor to define an appropriate design problem and propose a method of solution to the problem. The project is continued in ECE 8000.
+CR:the former ENGI 7800
+EQ:the former ENGI 7803
+LC:
+at least 10 lecture hours per semester
+OR:weekly meetings with project supervisor
+PR:ENGI 4102, completion of Academic Term 6 of the Electrical Engineering program
+ 
+ECE 7010 Computer Engineering Design Project I
+provides an opportunity for senior students to integrate the knowledge that they have acquired through the junior terms and apply it to solving a computer engineering design problem. Students work in small teams with the assistance of a faculty mentor to define an appropriate design problem and propose a method of solution to the problem. The project is continued in ECE 8010.
+CR:the former ENGI 7800
+EQ:the former ENGI 7804
+LC:
+at least 10 lecture hours per semester
+OR:weekly meetings with project supervisor
+PR:ENGI 4102, completion of Academic Term 6 of the Computer Engineering program
+ 
+ECE 7200 Control Systems II
+examines state space models for multi-input/output systems; observability, controllability; state feedback without and with integral controller structure, state observers; quadratic optimal regulator and tracking control strategies; discrete-time state equations; and an introduction to optimal control.
+CR:the former ENGI 6825
+EQ:the former ENGI 7825
+PR:ECE 5200 or the former ENGI 5821, or Mechanical and Mechatronics Engineering 6202 or the former ENGI 6951
+ 
+ECE 7210 Process Control and Instrumentation
+begins with an introduction to feedback control systems, and instrumentation. Topics include modelling thermal, gas, liquid and chemical processes; sensors and transmitters, controller design and simulation in Matlab /Simulink, industrial feedback controllers; design of feedback control loops, tuning of feedback controllers; cascade, ratio, digital controller design; feedforward control; multivariable process control; fuzzy logic control and tuning, instrumentation electronics design, and process system identification using Matlab /Simulink.
+EQ:the former ENGI 8680
+LH:twelve 3-hour sessions per semester
+PR:ECE 5200 or the former ENGI 5821
+ 
+ECE 7400 Concurrent Programming
+surveys parallel and distributed architectures and examines patterns of concurrent program design; correctness of concurrent programs: safety and liveness properties, proof of properties; synchronization using locks, semaphores, and monitors; communication using message passing and remote procedures; parallelization for high-performance computation and advanced topics such as scientific applications, distributed systems, model checking, and transaction processing.
+CR:the former ENGI 8893
+EQ:the former ENGI 7894
+PR:ECE 5400 or the former ENGI 5892 or the former ENGI 6892
+ 
+ECE 7410 Image Processing and Applications
+presents fundamental theoretical and practical concepts of image processing and analysis. These concepts include image enhancement and filtering, frequency domain analysis, morphological image operations, image segmentation, and feature extraction. The course enables the use of these concepts to automatically process and analyze images and videos from various real-world applications such as biomedical imaging, visual surveillance, and robotics.
+CR:the former Computer Science 4756
+EQ:the former ENGI 7854
+LH:at least four 3-hour sessions per semester
+ 
+ECE 7420 Computer Security
+introduces students to key computer security concepts for applications, hosts, networks and the Web. Students will learn to employ the primitives provided by programming languages, cryptography, operating systems and network protocols for protecting engineered systems and their users.
+EQ:the former ENGI 7864
+LH:at least eight 3-hour sessions per semester
+PR:ECE 5010 or the former ENGI 5895, ECE 5400 or the former ENGI 5892 or the former ENGI 6892
+ 
+ECE 7500 Introduction to VLSI Design
+is an introduction to ASICs and ASIC design methodology and includes basic concepts of digital logic design tools and ASIC technology libraries; partitioning for logic synthesis and VHDL coding; constraining designs, synthesizing, simulation and optimization; design for testability; layout and post-layout optimization and SDF generation; and static timing analysis.
+CR:the former Computer Science 4725
+EQ:the former ENGI 8863
+LH:nine 3-hour sessions per semester
+OR:eight 1-hour tutorial sessions per semester
+PR:ECE 5500 or the former ENGI 5865
+ 
+ECE 7600 Introduction to Digital Signal Processing
+examines sampling theory; elementary discrete-time signals; discrete-time linear and time-invariant systems; linear constant-coefficient difference equations; the convolution sum; the discrete-time Fourier series; the discrete-time Fourier transform; the z-transform; the frequency response of discrete-time systems; the discrete Fourier transform; the efficient fast Fourier transform algorithm; an introduction to digital filter design techniques; and digital signal processing applications.
+EQ:the former ENGI 7824
+OR:tutorial 1 hour per week
+PR:ECE 6600 or the former ENGI 6871
+ 
+ECE 7610 Communications Electronics
+- inactive course.
+ 
+ECE 7620 Digital Communications
+is a review of baseband transmission and basic digital modulation schemes, detection (optimum receiver, matched filter, correlator), error performance, intersymbol interference (ISI), equalization, the concept of information and entropy, source coding including Huffman coding and linear predictive coding, channel coding including block and convolutional error correcting codes, modulation and coding trade-offs, bandwidth and power efficiency.
+EQ:the former ENGI 8879
+PR:ECE 6600 or the former ENGI 6871
+ 
+ECE 7800 Power System Analysis
+begins with an introduction to electric power systems. Topics include per unit quantities; transmission line parameters; modelling of power system components; single line diagrams; network equations formulation; bus impedance and admittance matrices; load flow analysis and control; design of reactive power compensation for power system performance enhancement; tap changing, auto and control transformers for power system application; economic dispatch and optimal power flow studies.
+EQ:the former ENGI 7844
+LH:six 3-hour sessions per semester
+PR:ECE 6800 or the former ENGI 6843
+ 
+ECE 7810 Renewable Energy Systems
+examines the assessment of wind energy potential, wind turbine aerodynamics, types, modelling and control strategies; hybrid energy systems; energy storage; solar energy systems; photovoltaic, PV system engineering, stand-alone and grid connected systems, sizing and maximum power tracking; solar water pumping; micro-hydro systems and control; tidal power, wave energy converters, ocean thermal systems. Applications of hybrid energy system sizing software are also included in the course.
+EQ:the former ENGI 7856
+LH:eight 3-hour sessions per semester
+PR:ECE 6800 or the former ENGI 6843
+ 
+ECE 8000 Electrical Engineering Design Project II
+continues ECE 7000 and provides an opportunity for senior students to integrate the knowledge that they have acquired through the junior terms and apply it to solving an electrical engineering design problem. Students work in small teams with the assistance of a faculty mentor to complete detailed design, implementation and testing of an electrical engineering system to solve the problem as defined in ECE 7000.
+CR:the former ENGI 8800
+EQ:the former ENGI 8853
+LC:
+0
+OR:weekly meetings with project supervisor
+PR:ECE 7000 or the former ENGI 7803
+ 
+ECE 8010 Computer Engineering Design Project II
+continues ECE 7010 and provides an opportunity for senior students to integrate the knowledge that they have acquired through the junior terms and apply it to solving a computer engineering design problem. Students work in small teams with the assistance of a faculty mentor to complete detailed design, implementation and testing of an computer engineering system to solve the problem as defined in ECE 7010.
+CR:the former ENGI 8800
+EQ:the former ENGI 8854
+LC:
+0
+OR:weekly meetings with project supervisor
+PR:ECE 7010 or the former ENGI 7804
+ 
+ECE 8210 Supervisory Control and Data Acquisition
+examines data acquisition and intelligent field devices; distributed systems and fieldbus technology; programmable logic controllers and programming standards; operator control interface; supervisory control and data acquisition; and enterprise organization.
+EQ:the former ENGI 7680
+LH:at least four 3-hour sessions per semester
+PR:ECE 5200 or the former ENGI 5821, or Mechanical and Mechatronics Engineering 6202 or the former ENGI 6951, or Process Engineering 7021 or the former ENGI 7621
+ 
+ECE 8400 Real-time Operating Systems
+examines real-time process scheduling; memory and device management; I/O communications; real-time systems; operating system and hardware concurrency issues; kernel architectures; device drivers; and a survey of available real-time operating systems and embedded platforms.
+CR:Computer Science 4721, the former ENGI 7863
+EQ:the former ENGI 8894
+LH:four 3-hour sessions per semester
+PR:ECE 6500 or the former ENGI 6861, ECE 7400 or the former ENGI 7894
+ 
+ECE 8410 Computer Vision
+studies how to develop methods that enable a machine to "understand" or analyze images. The course introduces the fundamental problems in computer vision and the state-of-the-art approaches that address them. Topics include feature detection and matching, geometric and multi-view vision, structure from X, segmentation, object tracking and visual recognition.
+EQ:Computer Science 4301, the former ENGI 8814
+LH:six 3-hour sessions per semester
+PR:Computer Science 3301 or ECE 7410 or the former ENGI 7854 or permission of the instructor
+ 
+ECE 8420 Cryptography
+examines the techniques used to provide security in communication networks and computer systems. The course focuses on topics in cryptography required to provide privacy, authentication, and integrity, including symmetric key ciphers, public key ciphers, message authentication, and digital signature schemes.
+EQ:the former ENGI 8868
+PR:ECE 5400 or the former ENGI 5892 or the former ENGI 6892
+ 
+ECE 8600 Design of Digital Signal Processing Systems
+is a review of introductory digital signal processing (DSP) principles, including sampling theory and discrete-time systems and signals. Topics include transform analysis of DSP systems; issues in the implementation of DSP systems; design of IIR and FIR digital filters; computable transforms and their use in the frequency analysis of digital signals; and design of DSP systems for current and emerging applications of digital signal processing.
+EQ:the former ENGI 8821
+PR:ECE 7600 or the former ENGI 7824
+ 
+ECE 8610 Filter Synthesis
+introduces analog filters. Topics include transfer functions and frequency response of filters; design of first order passive and active filters; design and analysis of filter circuits such as biquad circuit, Sallen-Key circuit, multiple feedback circuit and state variable filter; RC-CR transformation; cascade design principle; design of Butterworth, Chebyshev and elliptic filters, Bessel-Thomson filters, switched capacitor filters; and the use of Matlab for design of analog filters.
+EQ:the former ENGI 8826
+LH:at least four 3-hour sessions per semester
+PR:ECE 5300 or the former ENGI 5854
+ 
+ECE 8620 Wireless and Mobile Communications
+covers the fundamentals and main concepts of wireless and mobile communication systems focusing on the system level design and performance. Main topics to be covered include Introduction to Wireless Communication Systems, Wireless Channel Models, Frequency Reuse Concept, Wireless Multiple Access Techniques (TDMA, FDMA, CDMA), Orthogonal Frequency Division Multiplexing (OFDM), Wireless Systems (GSM, 3G, LTE, etc.).
+EQ:the former ENGI 8804, the former ENGI 8877
+PR:ECE 6600 or the former ENGI 6871, ECE 6610 or the former ENGI 6876
+ 
+ECE 8630 Introduction to the Internet of Things
+introduces the architectures, protocols, standards, and applications of the Internet of Things (IoT). Topics include: IoT concepts, architectures, and standards, communication and networking, computing and IoT data management, security and privacy, IoT applications, digital twins, and next generation cellular networks and their impact on IoTs. Through this course, students will be able to understand the key challenges of the IoT systems and develop proper conceptual and technological solutions to real-world problems.
+LH:at least four 3-hour sessions per semester
+PR:ECE 4510, ECE 5610
+ 
+ECE 8700 Antennas
+examines the fundamentals of electromagnetic radiation; potentials; small antennas and antenna parameters; thin linear wire antennas and antenna arrays; antenna impedance and ground effects; Friis transmission formula; and aperture antennas.
+EQ:the former ENGI 7811
+LH:three 3-hour simulation and demonstration sessions per semester
+OR:tutorial 1 hour per week
+PR:ECE 6700 or the former ENGI 6813
+ 
+ECE 8800 Power System Operation
+examines symmetrical components; power system fault analysis; power system stability; and power system protection.
+EQ:the former ENGI 8845
+LH:four 3-hour sessions per semester
+PR:ECE 7800 or the former ENGI 7844
+ 
+ECE 8900-8949 Special Topics in Computer Engineering
+will have topics to be studied announced by the Department.
+ 
+ECE 8950-8999 Special Topics in Electrical Engineering
+will have topics to be studied announced by the Department.
+ 
+AR = Attendance requirement as noted.
+CH = Credit hours: unless otherwise noted, a course normally has a credit value of 3 credit hours.
+CO = Co-requisite(s): course(s) listed must be taken concurrently with or successfully completed prior to the course being described.
+CR = Credit restricted: The course being described and the course(s) listed are closely related but not equivalent.  Credit is limited to one of these courses.  Normally, these courses cannot be substituted, one for the other, to satisfy program requirements.
+EQ = Equivalent: the course being described and the course(s) listed are equal for credit determination.  Credit is limited to one of these courses.  These courses can be substituted, one for the other, to satisfy program requirements.
+	LC = Lecture hours per week: lecture hours are 3 per week unless otherwise noted.
+LH = Laboratory hours per week.
+OR = Other requirements of the course such as tutorials, practical sessions, or seminars.
+PR = Prerequisite(s): course(s) listed must be successfully completed prior to commencing the course being described.
+UL = Usage limitation(s) as noted.
+	________________
+
+
+11.4 Mechanical and Mechatronics Engineering
+Mechanical and Mechatronics Engineering courses are identified by a four-digit numbering system, the first two digits signifying the following:
+The first digit denotes the academic term during which the course is normally offered.
+The second digit denotes the primary areas of study, namely:
+1: Materials Science
+	2: Mechatronics
+	3: Dynamics
+	4: Thermal Science
+	5: Fluid Mechanics
+	6: Solid Mechanics
+	7: Design/Project courses
+	8: Other regular courses
+	9: Special Topics
+	Non-departmental Engineering courses are designated by ENGI.
+Mechanical and Mechatronics Engineering courses are designated by ME.
+ME 3101 Chemistry and Physics of Engineering Materials I
+is an introduction to the structure and properties of engineering materials, in particular materials, semiconductors, ceramics, glasses and polymers. Topics include a review of atomic bonding, discussion of basic crystalline and amorphous structures, point and line defects, and the role these structural features play in elastic and plastic deformations, yield, fracture, glass transition, thermal conductivity, thermal expansion, specific heat and electrical conductivity.
+CR:Process Engineering 5092, the former ENGI 2205
+EQ:the former ENGI 3911
+LH:at least four 3-hour sessions per semester
+OR:tutorial 1 hour per week
+PR:Chemistry 1050 or Chemistry 1200
+ 
+ME 3102 Production Technology
+includes an overview of production: production strategies; dimensioning and tolerancing; basic material removal process; forming and shaping process; casting; molding, extrusion and joining processes; computer aided machining; new technologies; design for manufacture.
+EQ:the former ENGI 3941
+LH:at least eight 3-hour sessions per semester
+ 
+ME 3301 Dynamics
+includes kinematics and kinetics of particles using rectangular, normal/tangential and polar coordinates; relative motion using rotating axes; two-dimensional kinematics and kinetics of rigid bodies; force-acceleration, work-energy and impulse-momentum methods.
+CR:the former ENGI 2313
+EQ:the former ENGI 3934
+OR:tutorial 1 hour per week
+PR:ENGI 1010, Mathematics 1001
+ 
+ME 3401 Thermodynamics I
+is a macroscopic approach to heat, work, and energy; properties of pure substances; conservation of mass, energy for open and closed systems; thermal efficiency and coefficient of performance; second law of thermodynamics; and its corollaries; entropy; second law analysis of thermodynamic systems; second law efficiency; and an introduction to simple thermodynamic cycles.
+EQ:the former ENGI 3901
+OR:tutorial 1 hour per week
+PR:Mathematics 1001
+ 
+ME 4302 Mechanisms and Machines
+includes an overview of mechanisms within machines; analytical and computer-aided methods for position, velocity, and acceleration analysis of moving mechanisms; power transmission; kinematics and kinetics of planar mechanisms; static and dynamic loads on mechanisms and an introduction to mechanism synthesis. Students will complete an analysis project.
+CR:the former ENGI 3933
+EQ:the former ENGI 4932
+LH:two or three 2-hour computer simulation laboratory sessions per semester
+OR:tutorial 1 hour per week
+PR:ME 3301 or the former ENGI 3934
+ 
+ME 4402 Thermodynamics II
+examines thermodynamic cycles: power and refrigeration applications; human comfort and air conditioning: mixture of gases and vapours, humidity, psychrometrics; chemically reacting mixtures and combustion; exergy analysis.
+EQ:the former ENGI 4901
+LH:at least three 1.5-hour sessions per semester
+OR:tutorial 1 hour per week
+PR:ME 3401 or the former ENGI 3901
+ 
+ME 4501 Fluid Mechanics I
+examines fluid statics; fluid flow phenomena; control volume analysis; conservation of mass, momentum, and energy; Bernoulli equation; head losses, applications of conservation laws: flow measurement devices; pipe networks; momentum devices, dimensional analysis, boundary layer phenomena, lift and drag.
+CR:the former ENGI 4661, the former ENGI 4913
+EQ:the former ENGI 4961, the former ENGI 5961
+LH:five 1-hour sessions per semester
+OR:tutorial 1 hour per week
+PR:ME 3301 or the former ENGI 3934, ME 3401 or the former ENGI 3901
+ 
+ME 4601 Mechanics of Solids I
+examines stress and strain analysis applied to bars and beams in axial, torsion and bending; beam deflection, plane stress and strain, stress and strain transformations in two dimensions and Mohr’s circle.
+CR:the former ENGI 4312
+EQ:the former ENGI 4934
+LH:at least four 1-hour sessions per semester
+OR:tutorial 1 hour per week
+PR:ENGI 1010
+ 
+ME 5103 Chemistry and Physics of Engineering Materials II
+examines aspects of chemical and physical processes and microscopic structure relevant to the production and use of engineering materials, focussing on metals, alloys, silicates, Portland cement, plastics and adhesives, composites, and wood. Topics include solid-state solutions and compounds, alloy structures, phase diagrams, reaction rates, solid-state transformations, polymerization, oxidation and corrosion, hardness, creep, fatigue, fracture toughness and visco-elastic deformation.
+CR:Process Engineering 5092, the former ENGI 3205
+EQ:the former ENGI 5911
+LH:at least four 3-hour sessions per semester
+OR:tutorial 1 hour per week
+PR:ME 3101 or the former ENGI 3911
+ 
+ME 5201 Mechatronics I
+involves modelling of electro-mechanical systems and introduction to basic analog and digital electronic devices. Topics covered include lumped-parameter modelling of electro-mechanical systems, basic electronic components and semiconductors, introduction to op amps, digital logic and number systems, microcontroller technology and interfacing (switches, LEDs, steppers, solenoids, A/D and D/A conversion).
+CR:the former ENGI 4951
+EQ:the former ENGI 5952
+LH:five 3-hour sessions per semester
+OR:tutorial 1 hour per week
+PR:ENGI 1040, ENGI 3424
+ 
+ME 5502 Fluid Mechanics II
+examines differential analysis of fluid motion; conservation of mass: continuity equation; conservation of momentum: Navier-Stokes equations; conservation of energy; basic film lubrication theory, boundary layer flows; compressible flows.
+CR:the former ENGI 5913, the former ENGI 6661, the former ENGI 6961
+EQ:the former ENGI 5962
+LH:at least three 1-hour sessions per semester
+OR:tutorial 1 hour per week
+PR:ME 4501 or the former ENGI 4961 or the former ENGI 5961
+ 
+ME 5602 Mechanics of Solids II
+examines stresses due to combined loads, asymmetric bending, transformation of stresses and strains, principal stresses and strains (in two and three dimensions), static failure theories, stress concentration, energy methods, method of superposition, buckling of columns, thin- and thick-walled pressure vessels and contact stresses.
+CR:the former ENGI 5312
+EQ:the former ENGI 5931
+LH:at least four 1-hour sessions per semester
+OR:tutorial 1 hour per week
+PR:ME 4601 or the former ENGI 4934
+ 
+ME 6202 Control Systems I
+examines modeling, analysis and design of feedback control systems using classical controller design methods. Topics covered include linear system modelling using Laplace transforms, control system stability, time domain analysis - root locus design, frequency domain analysis - bode diagram and Nyquist design, PID Control.
+CR:the former ENGI 6925
+EQ:the former ENGI 6951
+LH:at least three 1-hour sessions per semester
+OR:1-hour tutorial per week
+PR:ME 5201 or Electrical and Computer Engineering 5610 or the former ENGI 5951 or the former ENGI 5952
+ 
+ME 6303 Mechanical Vibrations
+examines single degree of freedom systems: free vibration, energy methods, response to harmonic excitation, response to arbitrary inputs, rotating unbalance, vibration isolation; two degree of freedom systems: natural frequencies and mode shapes, vibration absorption.
+CR:the former ENGI 5932
+EQ:the former ENGI 6933
+LH:at least four 2-hour sessions per semester
+PR:ME 3301 or the former ENGI 3934
+ 
+ME 6403 Heat Transfer I
+examines modes of heat transfer; conduction: steady 1-D conduction, thermal resistance, extended surfaces (fins), lumped capacitance analysis, 1-D transient conduction; convection: Newton’s law of cooling, convection heat transfer coefficient, external boundary layer flows, internal flows; radiation: principles, properties, exchange factors, black body radiation, and enclosures, radiation shields.
+CR:the former ENGI 5602
+EQ:the former ENGI 6901
+LH:at least one 3-hour session per semester
+OR:tutorial 1 hour per week
+PR:ME 4402 or the former ENGI 4901, ME 5502 or the former ENGI 5962
+ 
+ME 6701 Computer Aided Engineering Applications
+introduces a variety of Computer Aided Engineering (CAE) applications based on advanced 3D CAD modelling. The fundamentals of 3D modelling are covered. CAE include assembly modelling, mechanism animation and finite element analysis. Applications include Computer Aided Manufacturing (CAM); model based inspection; reverse engineering; document/drawing production; data exchange; and data management. Lab exercises provide exposure to solid modelling and CAE applications using CAD/CAM/CAE tools.
+CR:the former ENGI 7962
+EQ:the former ENGI 6928, the former ENGI 7928
+LH:at least ten 2-hour computer laboratory sessions per semester
+PR:ENGI 1030, ME 3102 or the former ENGI 3941
+ 
+ME 6702 Mechanical Component Design I
+examines adequacy assessment and synthesis of machine elements with a focus on failure prevention, safety factors, and strength; static failure and fatigue analysis of components. Topics include the design of power screws, bolted connections, welds, and shafts.
+CR:the former ENGI 5926
+EQ:the former ENGI 5927, the former ENGI 6929
+LH:at least four 3-hour computer laboratory sessions per semester
+PR:ME 5602 or the former ENGI 5931
+ 
+ME 7104 Industrial Materials
+includes metals and alloy systems, strengthening mechanisms of metals, iron-carbon alloys, corrosion resistant alloys, light metals and their alloys, copper and nickel base alloys, super alloys, the function of alloying elements in metals, heat treatments, surface hardening, and surface modification.
+CR:the former ENGI 6972
+EQ:the former ENGI 7911
+LH:at least five 3-hour laboratory sessions per semester
+PR:ME 5103 or the former ENGI 5911
+ 
+ME 7105 Welding and Joining Processes
+introduces modern welding and joining processes for metallic materials, polymers, and ceramics. Fundamentals of materials joining processes and the impact of the process parameters on the weld geometry, mechanical properties, and quality are discussed. Laboratory exercises will provide hands-on experience with some industrially significant welding processes.
+EQ:the former ENGI 8971
+LH:seven 3-hour sessions per semester
+PR:ME 4601 or the former ENGI 4934, ME 5103 or the former ENGI 5911
+ 
+ME 7203 Instrumentation and Experimental Design
+involves analysis and design of mechanical measurement systems and multi factor experiments. Topics covered include static and dynamic characteristics of sensors, Fourier transforms, sampling theorem and signal conditioning, uncertainty analysis of sensors, sensors for motion control, load sensing and process control, one factor vs multi factor experiments, factorial design and analysis, partial factorial design and blocking, response surface methodology (RSM).
+EQ:the former ENGI 7930
+LH:at least four 3-hour sessions per semester
+OR:tutorial 1 hour per week
+PR:ENGI 4421 or Statistics 2550, ME 6202 or the former ENGI 6951
+ 
+ME 7204 Robotics and Automation
+provides the fundamentals in robotic manipulators and arms. The course provides basic understanding in coordinate transformations for spatial description, both kinematical and kinetic analysis, forces and dynamics and finally trajectory generations and path planning.
+CR:the former ENGI 7944
+EQ:the former ENGI 7952
+LH:at least three 3-hour sessions per semester
+PR:ENGI 4430
+ 
+ME 7205 Mechatronics II
+emphasizes the integration of the core technologies on which contemporary, mechatronic designs are based. Topics covered include combinational logic circuit design, sequential logic circuit design, modelling and control of servo motors, selection, sizing, and modelling of servo valves and hydraulic actuators, microcontroller technology and interfacing (relays, timers, PWM control, interrupts, digital communication).
+CR:the former ENGI 5951
+EQ:the former ENGI 7953
+LH:five 3-hour sessions per semester
+OR:tutorial 1 hour per week
+PR:ME 6202 or the former ENGI 6951
+ 
+ME 7210 Industrial Automation
+introduces programmable logic controllers (PLC) and ladder logic programming, sensor and actuator interfaces, DC and AC motors, pneumatic circuits, fluid power actuators and control, industrial data communication, supervisory control and data acquisition (SCADA) and human machine interface (HMI).
+LC:
+minimum of 2 lecture hours per week
+LH:five 3-hour sessions per semester
+PR:ME 6202 or the former ENGI 6951, ME 6701 or the former ENGI 6928 or the former ENGI 7928
+ 
+ME 7220 Guidance, Navigation, and Control
+provides applied knowledge in the design of navigation algorithms used in aerial autonomy, marine robotics, and self-driving applications. Topics covered include modelling platform and sensor dynamics, stochastic processes, linear state space GN&C solutions, nonlinear GN&C solutions, optimal filtering, trajectory optimization, factor graphs, and performance analysis.
+LH:at least three 3-hour sessions per semester
+PR:ENGI 4421, ME 6202 or the former ENGI 6951
+ 
+ME 7230 Introduction to MEMS
+provides the fundamentals in micro-electro-mechanical systems (MEMS) using examples from industrial MEMS applications. Topics include essential electrical and mechanical concepts for MEMS; fabrication processes for MEMS devices; basic MEMS governing equations in different energy domains (mechanical, electrical and thermal); methods for layout, design and modelling of MEMS devices; simulation techniques; techniques for testing and characterization of MEMS devices; thermal sensing and actuation; surface micro machining; and case studies.
+LH:at least three 3-hour sessions per semester
+PR:ME 6202 or the former ENGI 6951
+ 
+ME 7404 Heat Transfer II
+examines advanced topics in heat transfer; multidimensional heat conduction: shape factors, numerical methods, moving heat sources; phase change heat transfer: melting, solidification, condensation, and boiling; natural convection: external flows, internal flows; multimode heat transfer; and environmental radiation.
+EQ:the former ENGI 7901
+LH:at least three 2-hour computer laboratory sessions per semester
+PR:ME 6403 or the former ENGI 6901
+ 
+ME 7405 Mechanical Equipment
+examines performance characteristics of mechanical equipment; fluid power devices: pipes; valves; turbomachinery: pumps; fans; blowers; compressors; heat transfer devices: heat exchangers; boilers, and cooling towers.
+EQ:the former ENGI 7903
+LH:at least four 1.5-hour sessions per semester
+PR:ME 6403 or Process Engineering 5002 or the former ENGI 5602 or the former ENGI 6901
+ 
+ME 7503 Gas Dynamics
+begins with an introduction to compressible gas flows, then considers fundamental laws of compressible fluid flow; wave propagation in compressible fluids; isentropic flow of a perfect gas; normal and oblique shock waves; Prandtl-Meyer flows; external compressible flows; flow in ducts, flow with friction (Fanno) and heat transfer (Rayleigh); imperfect gas effects; and measurement of compressible flows.
+EQ:the former ENGI 8970
+PR:ME 5502 or the former ENGI 5962
+ 
+ME 7603 Finite Element Analysis
+includes a review of basic concepts required for FEA, basics of stiffness formulation, direct stiffness method, displacement method, one dimensional elements, trusses and frames. Topics include 1D fluid and heat transfer elements, automated analysis and modelling concepts, higher order elements, two dimensional elements - plane stress and plane strain, introduction to 3D elements, introduction to advanced topics and isoparametric formulation.
+EQ:the former ENGI 7934
+LH:2
+OR:tutorial 1 hour per week
+PR:ENGI 4430, ME 5602 or the former ENGI 5931
+ 
+ME 7703 Mechanical Component Design II
+is a continuation of the ME 6702 course in analysis and synthesis of machinery, including advanced analysis of machine elements such as clutches, brakes, couplings, journal bearings and gears. Advanced machine design concepts are examined, such as reliability, optimization and techniques for stimulating innovative design. A synthesis project involving the machine elements studied is usually included.
+CR:the former ENGI 6926
+EQ:the former ENGI 6927, the former ENGI 7929
+LH:at least five 3-hour computer laboratory sessions per semester
+PR:ME 6702 or the former ENGI 5927 or the former ENGI 6929
+ 
+ME 7704 Mechanical Design Project I
+is the first of two capstone design courses in Mechanical Engineering. In this course mechanical students are organized into small groups or teams, which must complete a design challenge. The project is presented as an open-ended problem statement with specific performance objectives. The system must be designed, prototyped and tested during the semester. Each team is a small consulting firm and is required to document its object planning as well as its design.
+CR:the former ENGI 7936
+EQ:the former ENGI 7926
+LC:
+minimum of 2 lecture hours per week
+LH:at least three 2-hour sessions per semester
+PR:ENGI 4102, completion of Term 6 of the Mechanical Engineering Program
+ 
+ME 7705 Mechatronics Design Project I
+provides an opportunity for senior students to integrate the knowledge that they have acquired through the junior terms and apply it to solving a mechatronics engineering design problem. Students work in small teams with the assistance of a faculty mentor to define an appropriate design problem and propose a method of solution to the problem. The project is continued in ME 8706.
+CR:the former ENGI 7926, the former ENGI 7936
+LC:
+at least 10 lecture hours per semester
+LH:scheduled as required
+OR:weekly meetings with project supervisor
+PR:ENGI 4102, completion of Term 6 of the Mechatronics Engineering Program
+ 
+ME 8106 Corrosion and Corrosion Control
+examines forms of corrosion; the electrochemical nature of the corrosion process; the mixed potential theory, Purbaix diagrams and Evan diagrams; corrosion testing, control use by use of materials, selection, cathodic protection, inhibitors, and coatings. There are case studies of selected corrosion problems.
+CR:the former ENGI 8962
+EQ:the former ENGI 8911
+LH:at least four 3-hour sessions per semester
+PR:ME 5103 or Ocean and Naval Architectural Engineering 4007 or the former ENGI 4007 or the former ENGI 5911
+ 
+ME 8304 Machine Dynamics
+reviews mechanism kinematics and inverse dynamics (prediction of unknown forces and torques required to create a known motion) and continues with forward dynamic analysis of mechanisms (predicting unknown motion due to applied forces and torques) using student-generated computer code and commercial software. Practical applications of dynamics are explored, such as engine shaking forces, balancing of machinery, shaft vibration, design of flywheels, and gyroscopic effects.
+CR:the former ENGI 7945
+EQ:the former ENGI 8937
+PR:ME 4302 or the former ENGI 4932, ME 6303 or the former ENGI 6933
+ 
+ME 8305 Modelling and Simulation of Dynamic Systems
+emphasizes interdisciplinary system models, equation formulation and structure, and model complexity. The bond graph modelling language will be introduced to simulate systems containing mechanical, electrical, thermal, hydraulic, and magnetic components.
+EQ:the former ENGI 8946
+PR:ME 5201 or Electrical and Computer Engineering 5610 or the former ENGI 5952, ME 6303 or the former ENGI 6933
+ 
+ME 8406 Design of Thermal Systems
+examines thermal system design; modeling of thermal systems; steady and transient system simulation; single and multi-variable optimization; overall system performance; thermodynamic optimization; selected design case studies.
+EQ:the former ENGI 8903
+PR:ME 7404 or the former ENGI 7901, ME 7405 or the former ENGI 7903
+ 
+ME 8407 Sustainable Energy Systems
+examines thermo-fluid features of energy conversion and storage technologies. Topics include nuclear power, wind power, biorenewable and nonconventional fuels, fuel cells, carbon capture and sequestration, photovoltaics, solar thermal, energy storage, and hydroelectric power systems.
+EQ:the former ENGI 8984
+PR:ME 4402 or the former ENGI 4901, ME 7404 or the former ENGI 7901
+ 
+ME 8504 Computational Fluid Dynamics
+begins with a review of the equations governing viscous fluid flows and heat transfer. The course includes heat conduction, convection-diffusion, and fluid flow equations; gridding, dependent variable interpolation, discretized equations, solution of the discretized equations, transients and nonlinearities; testing and validation of CFD codes, standard test problems.
+EQ:the former ENGI 8947
+PR:ME 5502 or the former ENGI 5962 or the former ENGI 6961, ME 7404 or the former ENGI 7901
+ 
+ME 8505 Fluid Structure Interactions
+examines structural vibrations generated by fluid flow. These vibrations can be transient or they can take the form of instability or resonance. The course deals with the following fluid structure interactions: (1) Flow induced vibration of structures (2) Unsteady flow in pipe networks (3) Water wave interactions with structures.
+CR:the former ENGI 8904
+EQ:the former ENGI 8964
+LH:at least three 3-hour sessions per semester
+PR:ME 5502 or the former ENGI 5962 or the former ENGI 6961, ME 6303 or the former ENGI 6933
+ 
+ME 8506 Advanced Fluid Dynamics
+includes fluid kinematics; equations of fluid dynamics: Navier-Stokes equations, Euler's equations, Stokes' equations, vorticity transport; advanced topics in: low Reynolds flows, unsteady viscous flows, boundary layer analysis, potential flows; introduction to turbulent flow; free shear flows.
+EQ:the former ENGI 8965
+PR:ME 5502 or the former ENGI 5962 or the former ENGI 6961
+ 
+ME 8604 Fatigue and Fracture Mechanics
+is an introduction to fatigue and fracture analysis of metallic components, failure mechanisms, fracture mechanisms, effects of cracks, notches, collapse; linear elastic fracture mechanic analysis; design of components to avoid fracture; fatigue crack propagation, fracture initiation, crack arrest; and fracture toughness measurements.
+EQ:the former ENGI 8933
+OR:tutorial 1 hour per week
+PR:ME 5602 or the former ENGI 5931
+ 
+ME 8605 Pressure Component Design
+includes pressure vessel design philosophy; membrane theory of shells; stress categories; discontinuous stresses; design of pressure vessel components according to ASME Boiler and pressure vessel and piping codes. There is a design project involving pressure vessel components.
+EQ:the former ENGI 8935
+OR:at least 1 tutorial hour per week
+PR:ME 5602 or the former ENGI 5931, ME 6702 or the former ENGI 6929
+ 
+ME 8606 Mechanical Behaviour of Composites
+includes stress-strain behaviour of composites, properties of matrix and reinforcing materials, mechanics of fibre-reinforced composites, lamina and laminate analysis, and an introduction to manufacturing methods.
+EQ:the former ENGI 8982
+OR:tutorial 1 hour per week
+PR:ME 5602 or the former ENGI 5931
+ 
+ME 8705 Mechanical Design Project II
+is the Mechanical Engineering capstone project, building on skills acquired in ME 7704. Student teams choose a unique design challenge and proceed to generate a solution. Problems are often drawn from industry and, where possible, interdisciplinary interaction is encouraged. The problem proponent will act as the “client” and the team is expected to generate a solution. Emphasis is placed on oral and written communication and technical aspects. Wherever possible, elements should be prototyped and tested.
+CR:the former ENGI 8936
+EQ:the former ENGI 8926
+LC:
+scheduled as required
+LH:scheduled as required
+PR:ME 7704 or the former ENGI 7926
+ 
+ME 8706 Mechatronics Design Project II
+continues ME 7705 and provides an opportunity for senior students to integrate the knowledge that they have acquired through the junior terms and apply it to solving a mechatronics engineering design problem. Students work in small teams with the assistance of a faculty mentor to complete detailed design, implementation and testing of a mechatronics engineering system to solve the problem as defined in ME 7705.
+CR:the former ENGI 8926, the former ENGI 8936
+LC:
+scheduled as required
+LH:scheduled as required
+PR:ME 7705
+ 
+ME 8801 Production & Operations Management
+is an overview of production and operations management, and an examination of decision making and operations strategy; process design and improvement, process flow analysis/simulation, capacity planning; design of value chains, lean systems, plant layout and process planning; operating value chains, MIS systems, inventory and resource management; Relevant computer laboratory exercises are conducted.
+CR:the former ENGI 7943
+EQ:the former ENGI 8945
+PR:ME 6403 or the former ENGI 6901
+ 
+ME 8900-8999 Special Topics in Mechanical and Mechatronics Engineering
+will have topics to be studied announced by the Department.
+ 
+AR = Attendance requirement as noted.
+CH = Credit hours: unless otherwise noted, a course normally has a credit value of 3 credit hours.
+CO = Co-requisite(s): course(s) listed must be taken concurrently with or successfully completed prior to the course being described.
+CR = Credit restricted: The course being described and the course(s) listed are closely related but not equivalent.  Credit is limited to one of these courses.  Normally, these courses cannot be substituted, one for the other, to satisfy program requirements.
+EQ = Equivalent: the course being described and the course(s) listed are equal for credit determination.  Credit is limited to one of these courses.  These courses can be substituted, one for the other, to satisfy program requirements.
+	LC = Lecture hours per week: lecture hours are 3 per week unless otherwise noted.
+LH = Laboratory hours per week.
+OR = Other requirements of the course such as tutorials, practical sessions, or seminars.
+PR = Prerequisite(s): course(s) listed must be successfully completed prior to commencing the course being described.
+UL = Usage limitation(s) as noted.
+	________________
+
+
+11.5 Ocean and Naval Architectural Engineering
+Ocean and Naval Architectural Engineering courses are identified by a four-digit numbering system, the first two digits signifying the following:
+The first digit denotes the academic term during which the course is normally offered.
+The second digit denotes the primary areas of study, namely:
+0: Regular courses
+	9: Special Topics courses
+	Non-departmental Engineering courses are designated by ENGI.
+Ocean and Naval Architectural Engineering courses are designated by ONAE.
+ONAE 3001 Ocean/Naval Design
+introduces design and operation for ships and marine structures. Technology evolution in ship and offshore structures is reviewed, emphasizing service needs. Structural concepts, materials and construction methods are examined, including design for manufacturing. The design spiral and trade-offs between design characteristics are explored and modelling methods as tools in the design process are introduced. There is a minimum of six laboratory sessions including ship tours, a design project or research paper.
+EQ:the former ENGI 3001
+LH:at least six 3-hour sessions per semester
+ 
+ONAE 3054 Ocean Engineering Hydrostatics
+is an introductory course to naval architecture and marine engineering. It discusses the basic principles of the statics of rigid floating or submerged structures. These include: ships, offshore platforms and submersibles. Methods of analysis of the hydrostatics, stability and trim, damage stability and the statics of mooring systems are introduced. Applications are also discussed.
+EQ:the former ENGI 3054
+LH:at least nine 3-hour sessions per semester
+PR:ENGI 1010, Mathematics 1001
+ 
+ONAE 4002 Mechanics of Solids for Marine Structures
+introduces mechanical properties of materials and stress/strain analysis. These concepts are applied to the design and analysis of bars, beams, and built-up ship frames in axial tension/compression, torsion, shear and bending. In particular, the concepts of plane stress, plane strain, stress and strain transformations in two dimensions, Mohr’s circle, and shear force and bending moment diagrams are examined. Elastic column buckling and the design of hull structures are also introduced.
+CO:
+ONAE 4007
+CR:Civil Engineering 4310, Mechanical and Mechatronics Engineering 4601, the former ENGI 4312, the former ENGI 4934
+LH:at least four 1-hour sessions per semester
+OR:up to ten 1-hour tutorials per semester
+PR:ENGI 1010, ONAE 3001
+ 
+ONAE 4007 Marine Materials
+examines the properties and uses of steel, aluminum and composite materials in marine applications. Topics include: review of mechanics of materials, Hooke’s Law, material failure models; carbon steel - fundamentals, processes, preparation, design, drawings, certification; joining of aluminum; riveting and welding; corrosion phenomena; composites - classification, production, and mechanical properties.
+CR:the former ENGI 7007
+EQ:the former ENGI 4007
+LH:at least 4 three-hour sessions per semester
+PR:Chemistry 1050 or Chemistry 1200, ENGI 1010, ONAE 3001 or the former ENGI 3001
+ 
+ONAE 4011 Resistance and Propulsion
+examines ship resistance and some factors considered in the design of marine screw propellers. Topics include the resistance due to friction, wave making, form appendage, wind and waves, squat, blockage, shallow water effects, and the estimation of powering using methodical series and statistical methods. Topics considered in the design of marine screw propellers include propeller theory, blade sections, blade strength, methodical series charts, efficiency elements, lifting line calculations, cavitation, and propellers in non-uniform flow.
+CR:the former ENGI 5011
+EQ:the former ENGI 4011
+LH:3
+OR:tutorial 1 hour per week
+PR:ONAE 3054 or the former ENGI 3054
+ 
+ONAE 4020 Marine Fluid Dynamics
+includes fluid statics; fluid flow phenomena, in general and in marine applications; control volume analysis of fluid motion; conservation of mass, momentum and energy; differential approach to flow analysis; head losses; applications of conservation laws; external vs. internal flow; dimensional analysis and scaling; fluid-structure interaction concepts; potential flow theory, lift and Kutta-Joukowski theorem; viscous flow, boundary layers and drag.
+CR:Mathematics 4180, Physics 4205
+EQ:the former ENGI 4020
+LH:at least four 3-hour sessions per semester
+OR:tutorial 1 hour per week
+PR:ONAE 3054 or the former ENGI 3054
+ 
+ONAE 5020 Marine Propulsion
+is a second course in marine propellers and ship powering. Design and analysis of marine screw propellers and other propulsion devices are covered. Conventional and unconventional propulsion systems are introduced. Methods and philosophy of propeller design are included. Design of fixed-pitch propellers based on lifting line theory and the design of ducted propellers are emphasized. Design of other propulsion systems such as waterjets and sails is also incorporated.
+CR:the former ENGI 6020
+EQ:the former ENGI 5020
+LH:at least two 3-hour sessions per semester
+PR:ONAE 4011 or the former ENGI 4011, ONAE 4020 or the former ENGI 4020
+ 
+ONAE 5022 Probability and Random Processes in Ocean Engineering
+includes basic concepts in probability, random variables, multiple random variables, descriptive statistics. The random processes component reviews mathematics of functions; introduces system input-output relations of continuous-time systems; contrasts time vs frequency domain representations; introduces frequency response plots and the Fourier transform. A probabilistic approach to ship damage, representation of ocean waves (in time and frequency domains), Response Amplitude Operators (RAO), and acceptable levels of risk for design are introduced and applied.
+EQ:the former ENGI 5022
+OR:tutorial one hour per week
+PR:Mathematics 2260 or the former Mathematics 3260, ONAE 3001 or the former ENGI 3001
+ 
+ONAE 5034 Marine Vibrations
+provides an introduction to mechanical vibration with a focus on vibration of marine machinery and on the dynamic response of marine structures. Topics include: single degree of freedom systems – free vibration, energy methods, response to harmonic excitation, response to arbitrary inputs; multi degree of freedom systems – natural frequencies and mode shapes, response to harmonic excitation; frequency response functions; on-board sources of vibration, vibration measurement techniques and instrumentation.
+CR:the former ENGI 5932, the former ENGI 6933, Mechanical and Mechatronics Engineering 6303
+EQ:the former ENGI 5034
+LH:at least four 2-hour sessions per semester
+PR:Mathematics 2260, Mechanical and Mechatronics Engineering 3301 or the former ENGI 3934
+ 
+ONAE 6002 Ship Structures I
+examines longitudinal strength, still water and wave bending moment, shear and bending moment curves, Smith Correction, section modulus calculation, torsion and racking forces; bulkhead and girder scantlings, portal frame analysis by moment distribution and energy method; finite element analysis and the use of Classification Society rules for design of midship section. Laboratory sessions cover use of analysis software to illustrate structural behaviour concepts.
+CR:the former ENGI 5003
+EQ:the former ENGI 6002
+LH:at least five 3-hour sessions per semester
+PR:Civil Engineering 4310 or the former ENGI 4312, ONAE 4007 or the former ENGI 4007 or the former ENGI 7007
+ 
+ONAE 6005 Floating Ocean Structures Design
+introduces floating structures used in the offshore petroleum industry, along with functional requirements, such as drilling and production, of the platforms. Field development criteria are discussed in the context of platform concept selection and synthesis. Environmental loads are examined, focussing on wave loads and ice loads. Diffraction theory and its application on offshore structures is presented. Offshore safety is discussed in terms of major hazards, risk management, and case studies.
+CR:the former ENGI 7005
+EQ:the former ENGI 6005
+LH:1
+PR:ONAE 3001 or the former ENGI 3001, ONAE 3054 or the former ENGI 3054
+ 
+ONAE 6036 Dynamics of Ocean Vehicles
+examines applications of the linearized equations of motion to ocean vehicle problems with single and multiple degrees of freedom in waves; dynamics of marine vehicles: motions in waves; hydrodynamics effects such as added mass, radiation and viscous damping; strip theory; irregular seaway and motions.
+CR:the former ENGI 6030, the former ENGI 7035
+EQ:the former ENGI 6036
+LH:at least two 3-hour sessions per semester
+OR:1 tutorial hour per week
+PR:ONAE 4020 or the former ENGI 4020, ONAE 5022 or the former ENGI 5022, ONAE 5034 or the former ENGI 5034 or the former ENGI 5932 or the former ENGI 6933 or Mechanical and Mechatronics Engineering 6303
+ 
+ONAE 6046 Marine Engineering Systems
+examines shafting system design; shafting system vibration analysis, study of exciting forces and moments, and balancing of reciprocating and rotating machinery; heat transfer and marine heat exchangers; incompressible fluid flow and piping system design and selection of appropriate pumping devices.
+EQ:the former ENGI 6046, the former ENGI 7045
+LH:1
+PR:Mechanical and Mechatronics Engineering 3401 or the former ENGI 3901, ONAE 5034 or the former ENGI 5034
+ 
+ONAE 6055 Marine Cybernetics
+examines propulsion and motion control of ships, submersibles and offshore structures. Building upon the student’s knowledge of mathematics, mechanics and hydrodynamics provides an introduction to control systems and mathematical modeling of marine systems. Course components include: basic control actions and response of control systems; simulation and design of control systems; dynamic positioning; power management; marine automation.
+EQ:the former ENGI 6055
+LH:at least four 2-hour sessions per semester
+PR:ONAE 4011 or the former ENGI 4011, ONAE 5034 or the former ENGI 5034 or the former ENGI 5932 or the former ENGI 6933 or Mechanical and Mechatronics Engineering 6303
+ 
+ONAE 7000 Ocean Systems Design
+develops concept design methods for marine systems from need definition through to solution selection, including weight, cost and power requirements estimating, selection of principal design characteristics and evaluation of alternative solutions. Students develop a proposal for a marine system design project which will include a statement of requirements, a parametric study, a work plan and schedule. This design project will be completed as a full design in ONAE 8000.
+CR:the former ENGI 7052
+EQ:the former ENGI 7000
+LH:3
+PR:ENGI 4102, completion of Academic Term 6 of the Ocean and Naval Architectural Engineering program
+ 
+ONAE 7002 Ship Structures II
+is an introduction to ship structural safety and rational design. Topics include local strength analysis, elastic, plastic and ultimate strength of plating, frames and grillages, buckling of plates/grillages and fatigue and fracture in ships. Laboratory exercises include structural analysis software and physical experiments.
+EQ:the former ENGI 6003, the former ENGI 7002
+LH:at least five 3-hour sessions per semester
+PR:ONAE 5022 or the former ENGI 5022, ONAE 6002 or the former ENGI 6002 or the former ENGI 5003
+ 
+ONAE 7003 Small Craft Design
+presents fundamentals of naval architecture and design methodology for small craft. Emphasis is on recreational craft, with special emphasis on sailing vessels. Construction materials, scantlings, performance prediction and seaworthiness are covered. Design problems unique to small craft such as mast design, sail area determination and performance prediction are covered. Students will do a small craft design of their choice. Small weekly design studies will be required.
+EQ:the former ENGI 7003, the former ENGI 8003
+PR:completion of Academic Term 6 of the Ocean and Naval Architectural Engineering program
+ 
+ONAE 7033 Marine Hydrodynamics
+examines the fundamental equations of hydrodynamics, boundary layers; potential flow, added mass, damping, circulation, and vorticity; numerical methods for hydrodynamic coefficients; water waves and loading for regular and irregular seas.
+EQ:the former ENGI 7033
+LH:at least one 3-hour session per semester
+OR:one tutorial hour per week
+PR:Mathematics 3202, ONAE 5020 or the former ENGI 5020 or the former ENGI 6020
+ 
+ONAE 7036 Manoeuvring of Ocean Vehicles
+examines manoeuvrability of ocean vehicles; derivation of linear and nonlinear equations of motion and hydrodynamic coefficients; stability of motion; standard maneuvers such as turning circle, turning spiral, and PMM test; modelling and simulations of engine, propulsion, rudder and transmission systems during manoeuvring; systems for course keeping, autopilot, motion control and dynamic positioning.
+CR:the former ENGI 6030, the former ENGI 7035
+EQ:the former ENGI 7036
+LH:at least two 3-hour sessions per semester
+OR:1 tutorial hour per week
+PR:ONAE 6036 or the former ENGI 6036
+ 
+ONAE 7046 Ship Production Management
+examines management and business models for shipyards and relationships with ship owners. Reviews development of related worker skills and technologies and introduces project management methods needed to construct ships in a timely and cost-effective way. Considers contracts, trade union collective agreements and health and safety requirements. May include invited guest lectures from practicing industry professionals. Focus is on a wide range of topics including shipyard operations, classification societies, and other service industries related to shipbuilding.
+EQ:the former ENGI 7046
+PR:ENGI 4102, ONAE 5022 or the former ENGI 5022
+ 
+ONAE 8000 Ocean and Naval Architectural Engineering Project
+completes the design project selected and approved in ONAE 7000 The project must illustrate the application and integration of previous design related courses, i.e., decision methods, impact assessments and application of technology. The subject may be ship or offshore structure design, marine system, directed research or a unique design solution. Lectures will be scheduled as required.
+EQ:the former ENGI 8000
+LH:3
+PR:ONAE 7000 or the former ENGI 7000
+ 
+ONAE 8034 Applied Acoustics
+provides an introduction to acoustic engineering. Topics include: sound in fluids and solids, wave phenomena, mathematical models of sound waves, sources of sound, frequency analysis, levels and decibels, introduction to psychoacoustics, sound waves in rooms, reverberation time, sound absorbers, sound insulation, room acoustical design, introduction to underwater acoustics, acoustic measurement techniques and instrumentation.
+EQ:the former ENGI 8034
+LH:at least four 3-hour sessions per semester
+PR:ONAE 5034 or the former ENGI 5034
+ 
+ONAE 8046 Marine Engineering II
+builds on the fundamental marine engineering aspects covered in ONAE 6046 to include engineering factors onboard the ship, such as electrical generation, lighting, heating and air conditioning, as well as special systems needed on board the ship for operation, cargo management and navigation.
+EQ:the former ENGI 8046
+PR:ONAE 6046 or the former ENGI 6046
+ 
+ONAE 8054 Advanced Marine Vehicles
+examines the concepts used in the design of advanced marine vehicles. Emphasis will be given to: structural design of craft constructed from fibre reinforced plastics; high speed marine vehicles (powering, structures, seakeeping and model testing); small craft.
+EQ:the former ENGI 8054
+LH:at least 9 hours per semester
+PR:ONAE 6002 or the former ENGI 5003 or the former ENGI 6002
+ 
+ONAE 8055 Design and Control of Unmanned Marine Vehicles
+examines the formulation of mission statement and design constraints of unmanned marine vehicles, surface and underwater. Major subsystems, including propulsion, power, communication, navigation and control, are introduced. Principles of navigation and control as they pertain to unmanned systems are examined. This course includes hands on experimentation including the design of a small unmanned platform for tank experiments.
+EQ:the former ENGI 8055
+LH:at least four 3-hour sessions per semester
+PR:ONAE 6055 or the former ENGI 6055 or approval of the instructor
+ 
+ONAE 8074 Arctic Ocean Engineering
+examines marine ice load on ships and marine structures designed for ice covered waters. Topics include types of naturally occurring ice; sea ice formation and characteristics; mechanical strength of sea ice under common modes of ice failure; modes of ice interaction with ships and marine structures; estimation of ice forces on offshore structures; powering requirements for ice breaking ships; regulations and standards for design of ships and offshore structures in arctic environments.
+EQ:the former ENGI 8074, the former ENGI 8674
+LH:at least four 3-hour sessions per semester
+PR:Civil Engineering 4310 or the former ENGI 4312, Mechanical and Mechatronics Engineering 3301 or the former ENGI 3934
+ 
+ONAE 8075 Finite Element Analysis of Marine Structures
+examines application of the finite element method (FEM) to the design and assessment of marine hull structures. Simulation of static, quasi-static, and impact loads on hull structures is discussed. Linear and nonlinear analyses are explored. Practical considerations for finite element model design are discussed.
+EQ:the former ENGI 8075
+LH:12 weekly 3-hour lab sessions
+PR:ONAE 7002 or the former ENGI 7002 or the former ENGI 6003
+ 
+ONAE 8900-8999 Special Topics in Ocean and Naval Architectural Engineering
+will have topics to be studied announced by the Department.
+ 
+AR = Attendance requirement as noted.
+CH = Credit hours: unless otherwise noted, a course normally has a credit value of 3 credit hours.
+CO = Co-requisite(s): course(s) listed must be taken concurrently with or successfully completed prior to the course being described.
+CR = Credit restricted: The course being described and the course(s) listed are closely related but not equivalent.  Credit is limited to one of these courses.  Normally, these courses cannot be substituted, one for the other, to satisfy program requirements.
+EQ = Equivalent: the course being described and the course(s) listed are equal for credit determination.  Credit is limited to one of these courses.  These courses can be substituted, one for the other, to satisfy program requirements.
+	LC = Lecture hours per week: lecture hours are 3 per week unless otherwise noted.
+LH = Laboratory hours per week.
+OR = Other requirements of the course such as tutorials, practical sessions, or seminars.
+PR = Prerequisite(s): course(s) listed must be successfully completed prior to commencing the course being described.
+UL = Usage limitation(s) as noted.
+	________________
+
+
+11.6 Process Engineering
+In accordance with Senate's Policy Regarding Inactive Courses, the course descriptions for courses which have not been offered in the previous three academic years and which are not scheduled to be offered in the current academic year have been removed from the following listing. For information about any of these inactive courses, please contact the Head of the Department. (or the Associate Dean (Undergraduate Studies) of the Faculty in the case of ENGI courses).
+Process Engineering courses are identified by a four-digit numbering system, the first two digits signifying the following:
+The first digit denotes the academic term during which the course is normally offered.
+The second digit denotes the primary areas of study, namely:
+0: Process Engineering courses common to both technical streams
+	1: Chemical and Bioprocess Stream
+	2: Mineral and Energy Resources Stream
+	9: Special Topics
+	Non-departmental Engineering courses are designated by ENGI.
+Process Engineering courses are designated by PROC.
+PROC 3000 Introduction to Sustainable Process Engineering
+familiarizes students with the principles and the practical aspects of organic, inorganic, and biochemical processes including the major unit operations and equipment used. It emphasizes process flow sheeting, process variable identification, component and overall material balances, and process design. The course uses extensive examples from industrial processes. In laboratory sessions students are introduced to the laboratory scale process equipment and use HYSYS software to study process characteristics.
+CO:
+Chemistry 1051
+EQ:the former ENGI 3600
+LH:at least five 2-hour sessions per semester
+ 
+PROC 4002 Process Engineering Thermodynamics
+extends the study started in Mechanical and Mechatronics Engineering 3401 of thermodynamics, with special reference to chemical process applications: basic laws, thermodynamic properties of pure fluids and mixtures, heat engines, multicomponent systems, thermal/mechanical equilibrium, chemical equilibrium, and thermodynamics of chemical processes. Special emphasis is placed on the application of thermodynamics to practical problems in chemical engineering such as phase equilibria, solutions and reaction equilibria in separations and reaction engineering.
+CR:the former Chemistry 2300, the former Chemistry 3300
+EQ:the former ENGI 4602
+PR:Mechanical and Mechatronics Engineering 3401 or the former ENGI 3901
+ 
+PROC 4021 Process Mathematical Methods
+introduces numerical methods in chemical engineering processes, solution of sets of linear algebraic equations, solution of non-linear equations, curve fitting and interpolation, numerical integration, numerical differentiation, first order and higher order ordinary differential equations, boundary value problems and partial differential equations. It provides applications of the methods to different aspects of process engineering such as reactor design, separation, process modeling, equipment design and analysis.
+CO:
+PROC 4025 or the former ENGI 4625
+EQ:the former ENGI 4621
+LH:eight 2.5-hour sessions per semester
+PR:ENGI 3424 (or Mathematics 2000, Mathematics 2050, and Mathematics 2260)
+ 
+PROC 4025 Process Engineering Calculations
+is an introduction to the analysis of chemical processes with an emphasis on mass and energy balances. Stoichiometric relationships, ideal and real gas behaviour are also covered. The course will help Process Engineering majors in their second year to develop a framework for the analysis of flow sheet problems and will present systematic approaches for manual and computer-aided solution of full scale balance problems.
+CO:
+PROC 4002 or the former ENGI 4602. There is no co-requisite for students completing a minor in Applied Science - Process Engineering.
+EQ:the former ENGI 4625
+PR:Mechanical and Mechatronics Engineering 3401 or the former ENGI 3901. Students completing a minor in Applied Science - Process Engineering must successfully complete Chemistry 2301 as the prerequisite instead of Mechanical and Mechatronics Engineering 3401.
+ 
+PROC 4061 Process Fluid Dynamics I
+provides process engineering students with fundamentals of fluid mechanics/dynamics. Topics covered include fluid properties; Newtonian and non-Newtonian fluids; pressure; hydrostatics; control volume and system representation; mass and momentum conservation laws; Euler and Bernoulli equations; viscous fluid flows; laminar and turbulent flow; flow through conduits and pipes; pipe networks; flow measurement devices; momentum devices; concept of boundary layers; dimensional analysis; lift and drag on objects; fluid transportation (pumps and compressors).
+CR:the former ENGI 4913, the former ENGI 4961, the former ENGI 5961
+EQ:the former ENGI 4661
+LH:five 1-hour sessions per semester
+ 
+PROC 5001 Mass Transfer
+covers diffusive as well as convective mass transfer, mass transfer correlations, and the application to absorption and membrane separations.
+EQ:the former ENGI 5601
+LH:at least seven 2-hour sessions per semester
+PR:PROC 4002 or the former ENGI 4602 (or Chemistry 2301)
+ 
+PROC 5002 Process Heat Transfer
+is a study of concepts involved in heat transfer. Topics include applications of continuity and energy equations, fundamentals of heat transfer, modes of heat transfer, conduction, convection and radiation heat transfer, boiling and condensation, evaporation, and heat exchanger analysis and design.
+CR:the former ENGI 6901
+EQ:the former ENGI 5602
+LH:one 3-hour session per semester
+PR:PROC 4002 or the former ENGI 4602, PROC 4061 or the former ENGI 4661 or Mechanical and Mechatronics Engineering 4501 or the former ENGI 4961 or the former ENGI 5961
+ 
+PROC 5071 Process Equipment Design I
+introduces the principles of unit operations, grouped into four sections: fluid mechanics, heat transfer, mass transfer and equilibrium stages, and operations involving particulate solids. It also includes design and operation fundamentals of unit operations: size reduction, filtration, evaporation, drying, crystallization, and humidification, and membrane separation.
+CO:
+PROC 5001 or the former ENGI 5601
+EQ:the former ENGI 5671
+LH:at least six 3-hour sessions per semester
+PR:PROC 4021 or the former ENGI 4621, PROC 4025 or the former ENGI 4625
+ 
+PROC 5092 Chemistry and Physics of Engineering Materials
+introduces the structure and properties of engineering materials, in particular metals, alloys, semiconductors, ceramics, glasses and polymers. Topics include a review of atomic bonding, discussion of basic crystalline and amorphous structures, phase diagram, mechanical properties of the materials. Selection of materials for process engineering applications, corrosion and degradation of material will be also covered in the course.
+CR:Mechanical and Mechatronics Engineering 3101, Mechanical and Mechatronics Engineering 5103
+PR:Chemistry 1050 or Chemistry 1200
+ 
+PROC 6025 Process Modelling and Simulation
+introduces the concepts of process model building and its application in design and process operations. It includes the fundamentals of process modelling, lumped parameter dynamic models, distributed parameter dynamic models, application of process models, and computer aided process design. The course provides hands on experience to use a process simulator effectively for development and analysis of flowsheets, mass and energy balances, sizing of individual equipment and process units including reactor, separator, and heat exchangers.
+CR:the former ENGI 5621, the former ENGI 6621, the former PROC 6021
+LH:ten 3-hour sessions per semester
+PR:PROC 4021 or the former ENGI 4621, PROC 4025 or the former ENGI 4625
+ 
+PROC 6031 Chemical Reaction Engineering
+will cover the fundamentals of chemical kinetics and reaction rate expressions as well as the types of reactors, homogeneous and heterogeneous (catalytic) reactors, and the interrelation between transport phenomena and reaction engineering as it applies to process design. It also includes an overview of non-ideal reactors and an introduction to bio reactors.
+EQ:the former ENGI 6631
+LH:four 2-hour sessions per semester
+PR:PROC 4021 or the former ENGI 4621, PROC 4061 or the former ENGI 4661 or Mechanical and Mechatronics Engineering 4501 or the former ENGI 4961 or the former ENGI 5961
+ 
+PROC 6061 Process Fluid Dynamics II
+builds upon the materials introduced in Process Fluid Dynamics I. The course covers important aspects of fluid dynamics principles and applications in process engineering, including; continuity equation; differential governing equations of fluid momentum; conservation laws in chemical/process engineering; ideal and non-ideal flow; compressible and incompressible flow; boundary layer theory for laminar and turbulent flow; multiphase flow; introduction to CFD; turbomachinery; fluid flow features of unit operations.
+CR:the former ENGI 5913, the former ENGI 5962, the former ENGI 6961
+EQ:the former ENGI 6661
+LH:three 1-hour sessions per semester
+PR:PROC 4061 or the former ENGI 4661 or Mechanical and Mechatronics Engineering 4501 or the former ENGI 4961 or the former ENGI 5961
+ 
+PROC 6071 Process Equipment Design II
+will cover design and operation of equilibrium stage separation processes including distillation, extraction, and leaching. It will also cover advanced concept of equipment design such as heterogeneous system, multiphase system, absorption, and adsorption operation and computer assisted design. This course will use HYSIS and other process equipment design tools.
+EQ:the former ENGI 6671
+LH:at least four 2-hour sessions per semester
+PR:PROC 5001 or the former ENGI 5601, PROC 5071 or the former ENGI 5671
+ 
+PROC 6151 Sustainable Engineering in Processing Industries
+will introduce students to sustainable development and its application to processing operations. Areas such as traditional economic growth, materials cycles, methods for measuring environmental impact, life cycle analysis, waste treatment technologies and recycling technologies will be covered. In addition, the concept of industrial ecology will be included.
+EQ:the former ENGI 6651
+PR:PROC 4025 or the former ENGI 4625, PROC 5001 or the former ENGI 5601
+ 
+PROC 6202 Natural Resources Geology and Formation Evaluation
+covers the fundamentals of petroleum geology, formation evaluation and well logging. Topics include rock types; economic minerals; sedimentary basins and formation; hydrocarbon traps and seals; reservoir fluids; well and core logging fundamentals; in situ stress; lithology identification and permeability; formation and fluid identification; formation density and porosity; pore fluids and saturation; integrated logging and resource evaluation.
+EQ:the former ENGI 6602
+PR:PROC 4061 or the former ENGI 4661 or Mechanical and Mechatronics Engineering 4501 or the former ENGI 4961 or the former ENGI 5961 or Civil Engineering 5110 or the former ENGI 5713
+ 
+PROC 7021 Process Dynamics and Control
+familiarizes students with the scientific and engineering principles of process dynamics and control. Students will apply and integrate knowledge of chemical engineering to identify, formulate and solve process dynamics problems and develop control systems. Modern computational techniques and tools will be used for solving chemical process control problems. Also students will become familiar with industrial control systems.
+EQ:the former ENGI 7621
+LH:at least six 2-hour sessions per semester
+PR:PROC 6025 or the former PROC 6021 or the former ENGI 6621 or the former ENGI 5621
+ 
+PROC 7040 Process Engineering Project I
+gives students the opportunity to apply the knowledge gained in previous design and technical courses to complete a high-level design of a process plant or major modification to a process plant. The goal is to expose students to process design, practical design issues, and to provide experience in the complete design process as applied to real devices. Students will work in groups to design a process system. This course is a precursor to PROC 8040.
+EQ:the former ENGI 7640
+LC:
+scheduled as required
+PR:ENGI 4102, PROC 6071 or the former ENGI 6671, completion of academic term 6 of the Process Engineering program
+ 
+PROC 7077 Process Plant Design and Economics
+will provide a comprehensive picture of the availability and design of both traditional and current process equipment. Economic and optimization issues relevant to investment, product-cost estimation, and profitability analysis will also be addressed. The course will provide students with tools to evaluate the economics of process industries reflecting current economic criteria, and provide helpful guidelines to approaching, defining, and solving optimization problems.
+EQ:the former ENGI 8677
+PR:PROC 6071 or the former ENGI 6671
+ 
+PROC 7123 Process Simulation
+- inactive course.
+ 
+PROC 7125 Process Data Analytics
+covers all necessary elements, beginning from data collection to model development, to conduct a data analysis project in a process plant. The course focuses on data quality evaluation and preprocessing of data to ensure the fidelity of data. A range of unsupervised techniques including several variants of principal component analysis (PCA), support vector machine (SVM) and clustering algorithms will be covered. Students will also receive hands on training on various Matlab toolboxes and Python libraries.
+CR:the former ENGI 7623, the former PROC 7123
+PR:ENGI 4421 or Statistics 2550
+ 
+PROC 7131 Advanced Reactor Design
+will build on previous courses in reaction engineering with more analysis of reactor designs involving complex fluid flow and/or complex kinetics and catalysts. The course will also cover bioreactor design.
+PR:PROC 6031 or the former ENGI 6631
+ 
+PROC 7141 Bioprocess Engineering I
+covers the fundamentals of chemical engineering applied to biomass/biological based processes, from valorisation of virgin/waste biomass to biomass as the bioprocess. The focus is in bioprocessing as it relates to the natural resource industries and associated markets. This course covers the fundamentals related to biomass and bioprocessing including: composition of biomass and biomass processing (biochemical, thermochemical, chemical, and physical), and associated products. The course will highlight “green” processes that minimize waste and energy.
+PR:PROC 5001 or the former ENGI 5601, PROC 5002 or the former ENGI 5602, PROC 6031 or the former ENGI 6631
+ 
+PROC 7171 Safety and Risk Engineering
+begins with an overview of safety and risk issues in the offshore oil and gas industry. The course examines regulatory requirements; hazards and structured analysis tools; risk terminology and quantified risk analysis (QRA) techniques; and safety assessment studies. The course includes project and case studies.
+EQ:the former ENGI 8671
+PR:ENGI 4421 or Statistics 2550 or registration in the Minor in Applied Science - Process Engineering
+ 
+PROC 7291 Sustainable Oil Production & Gas Storage I
+examines the fundamentals to sustainably producing fossil fuels, in-situ carbon utilization and sequestration, and hydrogen storage. Students will be able to describe rock and fluid properties then use their knowledge of Darcy’s Law and apply it to determine how much CO2/H2 can be stored or oil/gas produced. Students will learn material balances of single phase flow in porous media, natural forces, well inflow and performance, and how to predict and maximize fluid injection and production.
+EQ:the former ENGI 8691
+PR:PROC 6061 or the former ENGI 6661 or Mechanical and Mechatronics Engineering 5502 or the former ENGI 5962 or Civil Engineering 5110 or the former ENGI 5713
+ 
+PROC 7293 Mineral Processing and Tailings Management
+covers the fundamentals of mineral processing and emerging practices and technologies that result in the generation of a mineral concentrate. Topics include rock fragmentation leading to run-of-mine ore, comminution and mineral liberation, sensor-based ore sorting, gravity separation, magnetic separation, electrical separation, froth flotation, dewatering, and tailings transportation and storage. Advanced topics include process simulation and control, practical processes of metallic and non-metallic ore dressing.
+LH:at least five 3-hour sessions per semester
+PR:PROC 5071 or the former ENGI 5671
+ 
+PROC 8040 Process Engineering Project II
+is a design project that illustrates the application of previous engineering science and design related courses. Projects will be done by teams of students with individuals concentrating their participation in their own engineering discipline. The project topic will be from the process industry which includes the offshore oil and gas industry, mining and metal processing industry and chemical process industry.
+EQ:the former ENGI 8640
+LC:
+scheduled as required
+PR:PROC 7040 or the former ENGI 7640
+ 
+PROC 8125 Artificial Intelligence in Process Engineering
+covers the fundamentals of machine learning and artificial intelligence relevant to process and petroleum engineering systems. Topics will include regression analysis, concepts of optimization for machine learning, Neural Network, Convolution Networks, Recurrent and Recursive Nets, Reinforcement Learning, as well as Statistical Machine Learning with a focus on the use of process data.
+PR:ENGI 4421 or Statistics 2550
+ 
+PROC 8141 Bioprocess Engineering II
+focuses on the introduction of downstream bioprocessing, with applications covering biopharmaceutical manufacturing, extraction of oils from natural sources, minerals bioprocessing, and environmental applications. Bioseparation techniques using supercritical fluid extraction, crystallization and liquid and ion-exchange chromatography will be covered in this course.
+PR:PROC 7141
+ 
+PROC 8151 Industrial Pollution Prevention and Control
+is designed to introduce methods of industrial pollution assessment and control. Topics include waste characterization, water pollution assessment, water pollution control, air pollution assessment and control, solid waste assessment and control, pollution prevention, environmental risk assessment and risk based decision making.
+EQ:the former ENGI 7651
+PR:PROC 6151 or the former ENGI 6651, PROC 6071 or the former ENGI 6671
+ 
+PROC 8170 Reliability Engineering
+is an introduction to reliability engineering; physics of failure and failure mechanism, reliability measures and assessment; reliability of components and parts; complex system reliability and availability analysis; and field reliability assessment. The course includes case studies and a project.
+EQ:the former ENGI 8670, the former PROC 8270
+PR:ENGI 4421 or Statistics 2550
+ 
+PROC 8276 Decarbonization Strategies in Gas Industry
+investigates the carbon emitted from the gas industry and how to reduce it. The course describes gas processes, design methods, operating procedures, and challenges of gas production, carbon capture facilities and their use in blue hydrogen production. The course covers separation operations, hydrate prevention and control, gas dehydration, NGL recovery and dew point control, gas transmission and pipeline design and transportation systems.
+EQ:the former ENGI 8676
+PR:PROC 6061 or the former ENGI 6661 or Mechanical and Mechatronics Engineering 5502 or the former ENGI 5962 or Civil Engineering 5110 or the former ENGI 5713
+ 
+PROC 8291 Sustainable Oil Production & Gas Storage II
+continues to examine flow in porous media expanding to multiphase flow and the challenges of producing and injecting fluids into a reservoir accounting for capillary pressure and phase behaviour. Flow assurance challenges, enhanced recovery methods, CO2 utilization and storage, as well as strategies to optimize production and gas injection
+EQ:the former ENGI 8690, the former PROC 8290
+PR:PROC 7291
+ 
+PROC 8292 Drilling Engineering
+covers both offshore and onshore drilling operations and includes: rotary drilling rig operations, well construction sequence, drill string, drill bits, well bore hydraulics, casing and well heads, cementing, well control, directional and horizontal drilling, well planning and fishing operations, and extended reach, horizontal and multilateral well drilling techniques.
+EQ:the former ENGI 8692, the former PROC 7292
+LH:two 3-hour lab sessions per semester
+PR:PROC 6202 or the former ENGI 6602
+ 
+PROC 8293 Extractive Metallurgy
+covers the fundamentals of pyrometallurgy, hydrometallurgy and electrometallurgy that extract metals from ores and mineral concentrates. Topics include thermodynamics and reaction kinetics of extractive metallurgical processes; electrolytic reduction of molten salts; metal refining processes; materials preparation in the metallurgical industry; equipment selection and operation; and sustainable technologies and practices.
+CR:the former ENGI 7691, the former PROC 8191
+LH:at least four 2-hour sessions per semester
+PR:PROC 7293
+ 
+PROC 8294 Downstream Processing
+- inactive course.
+ 
+PROC 8296 Petroleum Refining Engineering
+- inactive course.
+ 
+PROC 8900-8999 Special Topics in Process Engineering
+will have topics to be studied announced by the Department.
+ 
+AR = Attendance requirement as noted.
+CH = Credit hours: unless otherwise noted, a course normally has a credit value of 3 credit hours.
+CO = Co-requisite(s): course(s) listed must be taken concurrently with or successfully completed prior to the course being described.
+CR = Credit restricted: The course being described and the course(s) listed are closely related but not equivalent.  Credit is limited to one of these courses.  Normally, these courses cannot be substituted, one for the other, to satisfy program requirements.
+EQ = Equivalent: the course being described and the course(s) listed are equal for credit determination.  Credit is limited to one of these courses.  These courses can be substituted, one for the other, to satisfy program requirements.
+	LC = Lecture hours per week: lecture hours are 3 per week unless otherwise noted.
+LH = Laboratory hours per week.
+OR = Other requirements of the course such as tutorials, practical sessions, or seminars.
+PR = Prerequisite(s): course(s) listed must be successfully completed prior to commencing the course being described.
+UL = Usage limitation(s) as noted.

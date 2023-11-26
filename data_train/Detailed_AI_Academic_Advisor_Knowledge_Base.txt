@@ -1,0 +1,29 @@
+Question: Can you tell me about the advanced topics in Physics 3050?
+Answer: Physics 3050 delves into quantum mechanics, covering concepts like wave-particle duality, quantum states, and uncertainty principles. It's a challenging but rewarding course, especially if you're interested in modern physics theories. Would you like more specifics on any topic, or information on related courses?
+
+Question: What skills can I expect to develop in Business 1010?
+Answer: In Business 1010, you'll develop foundational skills in business management, including basic accounting, marketing, and strategic planning. It's a great course to start building your business acumen. Are there particular business skills you're looking to enhance?
+
+Question: Is there a focus on practical experiments in Physics 2020?
+Answer: Absolutely, Physics 2020 heavily emphasizes practical experiments. You'll get hands-on experience in the lab, which is crucial for understanding theoretical concepts in physics. Do you have any specific experiments or lab techniques you're curious about?
+
+Question: How does Business 3000 prepare me for real-world business challenges?
+Answer: Business 3000 is designed to simulate real-world business scenarios, preparing you for challenges like market analysis, project management, and ethical decision-making. It's a highly interactive course. Are there specific business challenges you're concerned about?
+
+Question: Can non-physics majors enroll in Physics 1010?
+Answer: Yes, Physics 1010 is accessible to non-physics majors. It covers basic principles and is a good introduction to the subject. Are you considering a minor in physics, or just looking to broaden your knowledge?
+
+Question: What are the career prospects after completing a degree in physics?
+Answer: A degree in physics opens doors to a variety of careers, such as research, engineering, education, and even finance. Physics graduates are valued for their problem-solving skills and analytical abilities. Do you have a specific career path in mind, or are you exploring options?
+
+Question: What kind of group projects are involved in Business 2100?
+Answer: In Business 2100, you'll engage in group projects that focus on developing business plans and marketing strategies. These projects simulate teamwork in a corporate setting. Are you looking for advice on team collaboration or project management?
+
+Question: Are advanced mathematics courses required for a Physics major?
+Answer: Yes, advanced mathematics courses like calculus and linear algebra are essential for a Physics major. They provide the necessary tools for understanding complex physical phenomena. Would you like recommendations on specific math courses?
+
+Question: How does the internship program in the Business department work?
+Answer: The internship program pairs you with businesses relevant to your area of study, offering hands-on experience. It's a valuable opportunity to apply classroom knowledge in a real-world setting. Are you interested in particular types of internships?
+
+Question: Is there a focus on renewable energy in any of the Physics courses?
+Answer: Yes, courses like Physics 3070 focus on renewable energy sources and their physical principles. These courses are becoming increasingly relevant in today's world. Are you specifically interested in solar, wind, or another type of renewable energy?

@@ -1,0 +1,12 @@
+
+    <script>
+        let {
+            hash, host, hostname, href, origin, pathname, port, protocol, search
+        } = window.location
+
+        let url = pathname + search.replace('?_sectionNo=', '?sectionNo=') + hash;
+        window.location.href = url;
+    </script>
+
+
+    

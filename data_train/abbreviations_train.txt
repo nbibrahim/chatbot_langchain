@@ -1,0 +1,11 @@
+﻿ABBREVIATIONS USED FOR COURSE INFORMATION-
+AR = Attendance requirement as noted.
+CH = Credit hours: unless otherwise noted, a course normally has a credit value of 3 credit hours.
+CO = Co-requisite(s): course(s) listed must be taken concurrently with or successfully completed prior to the course being described.
+CR = Credit restricted: The course being described and the course(s) listed are closely related but not equivalent.  Credit is limited to one of these courses.  Normally, these courses cannot be substituted, one for the other, to satisfy program requirements.
+EQ = Equivalent: the course being described and the course(s) listed are equal for credit determination.  Credit is limited to one of these courses.  These courses can be substituted, one for the other, to satisfy program requirements.
+LC = Lecture hours per week: lecture hours are 3 per week unless otherwise noted.
+LH = Laboratory hours per week.
+OR = Other requirements of the course such as tutorials, practical sessions, or seminars.
+PR = Prerequisite(s): course(s) listed must be successfully completed prior to commencing the course being described.
+UL = Usage limitation(s) as noted.

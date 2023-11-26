@@ -1,0 +1,384 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="appstart">
+	<meta name="author" content="ccwebworks">
+	<title>MUN Cinema Series</title>
+
+	<link href="http://fonts.googleapis.com/css?family=Duru+Sans" rel="stylesheet" type="text/css">
+
+	<!-- Bootstrap core CSS
+	================================================== -->
+	<link rel="stylesheet" type="text/css" href="//clf.mun.ca//bootstrap/3.0.3/css/bootstrap.min.css" />
+
+	<!-- MUN Cinema Specific CSS
+	================================================== -->
+	<link rel="stylesheet" type="text/css" href="tpl/default/cinema.css" />
+	<link rel="stylesheet" type="text/css" href="//clf.mun.ca/jquery/plugins/fancybox/2.1.5/jquery.fancybox.css" />
+
+
+
+	<!-- Bootstrap core JavaScript
+	================================================== -->
+	<script type="text/javascript" src="//clf.mun.ca/jquery/jquery-1.10.2.min.js"></script>
+	<script type="text/javascript" src="//clf.mun.ca/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="//clf.mun.ca/jquery/plugins/fancybox/2.1.5/jquery.fancybox.pack.js"></script>
+	<script type="text/javascript" src="//clf.mun.ca/jquery/plugins/jqueryform/jquery-form-3.27.0.js"></script>
+
+	<!-- MUN Cinema Specfic JS
+	================================================== -->
+	<script type="text/javascript" src="include/jquery-scrollto.js"></script>
+	<script>
+		function contactFormComplete(response)
+		{
+			$('#loadingContact').css('display', 'none');
+			res = response.split(':');
+			console.log(res[0]);
+			switch (res[0])
+			{
+				case '200':
+					$('#contactEmail').val('');
+					$('#contactMessage').val('');
+					$('#contactUsMessage').html('<span class="glyphicon glyphicon-envelope"></span> Thank you.  Your message has been sent.');
+					$('#contactUsMessage').css('display', 'block');
+					break;
+				case '400':
+					$('#contactUsMessage').html('<span class="glyphicon glyphicon-warning-sign"></span> Please ensure you enter both an email address and message.');
+					$('#contactUsMessage').css('display', 'block');
+					break;
+				case '402':
+					$('#contactUsMessage').html('<span class="glyphicon glyphicon-warning-sign"></span> We were unable to send your message.  Please try again later.');
+					$('#contactUsMessage').css('display', 'block');
+					break;
+			}
+		}
+		function loadingContact(){
+			$('#loadingContact').css('display', 'inline-block');
+		}
+
+	</script>
+
+
+	<!-- HTML5 shim for IE backwards compatibility -->
+	<!--[if lt IE 9]>
+	<script src="//clf.mun.ca/misc/html5shiv/html5shiv-3.7.0.js"></script>
+	<link rel="stylesheet" href="tpl/default/ie-fix.css">
+	<![endif]--></head><body>
+<div id="mun-cinema-banner-container" >
+	<div class="container" >
+		<div class="row pull-left">
+			<a href="index.php"><h1>MUN <span>Cinema Series</span></h1></a>
+		</div>
+		<div id="mun-logo" class="pull-right"><a href="http://www.mun.ca/"><img src="tpl/default/images/mun-logo.png" alt="Memorial University Logo" width="117" height="69" /></a></div>
+		<nav class="navbar navbar-inverse " role="navigation">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="index.php">MUN <span>Cinema Series</span></a>
+			</div>
+
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="index.php">Home</a></li>
+					<li><a href="prices.php">Prices/Times</a></li>
+					<li><a href="faq.php">FAQ</a></li>
+					<li><a href="archive.php">Archive</a></li>
+					<li><a href="http://twitter.com/MunCinema"><img src="bird_blue_32.png" alt="Follow us on Twitter"></a></li>
+				</ul>
+			</div><!-- /.navbar-collapse -->
+		</nav>
+
+	</div>
+
+</div>
+
+
+<div id="large-movie-container">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<!-- large movie html -->
+
+<h3>Polarized</h3>
+<div class="pull-right"><a href="http://www.imdb.com/title/tt6800566" class="imdb"></a></div>
+<h4>December 06, 2023</h4>
+<img src="assets/images/f2023/tt6800566.400.jpg" class="pull-left img-responsive" />
+<div class="large-movie-details">
+	<div class="large-movie-sub-text">
+		<p>(United Kingdom, Canada 2023) 104 min<br />
+			Directed by Shamim Sarif<br />
+			With Holly Deveaux, Maxine Denis, Hesham Hammoud et al.
+					</p>
+	</div>
+	<div class="large-movie-description">
+		<p>We are here to honour the best Canadian films you’re never seeing in theatres near you. We might have experienced a joyous Pride month this year, but we also know that not so far from the surface is a viciously anti-LGBTQ+ current of hostility. Set in rural Manitoba, <b>POLARIZED</b>, as the title makes plain, focuses on the oppositional dynamic generated by two women who fall in love with each other. Their families, rooted in ethnic and religious differences, set up impossible and irrational barriers, but if love doesn’t conquer all at least it helps to soften hard attitudes. Director Sarif turned her own threatened relationship with her producer, Hanan Kattan, into this beautifully shot ode to hope and forgiveness.</p>
+	</div>
+</div>
+<!-- /large movie html -->
+
+			</div>
+		</div>
+	</div>
+</div>
+
+<b>
+<p>
+<center>
+<h2>
+Screenings are Wednesday evenings at 7pm at Scotiabank Cineplex Theatres.
+</h2>
+</center>
+<br><br>
+</b>
+<div id="small-movie-container">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<h3>Season Schedule</h3>
+			</div>
+		</div>
+		<!-- small movie html -->
+<div class="small-movie" id="movie-tt13238346">
+	<div class="row">
+		<div class="col-sm-12">
+			<div class="pull-left"><h4>September 13, 2023</h4></div>
+			<div class="pull-right"><a href="http://www.imdb.com/title/tt13238346" class="imdb"></a></div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-12">
+			<a href="assets/images/f2023/tt13238346.400.jpg" class="fancybox"><img src="assets/images/f2023/tt13238346.100.jpg" /></a>
+			<div class="small-movie-title">Past Lives</div>
+			<div class="small-movie-sub-text">(United States, South Korea 2023) 105 min <br />
+				Directed by Celine Song<br />
+				With Greta Lee, Teo Yoo, John Magaro et al.
+							</div>
+			<div class="small-movie-description">
+				<p>Arguably the best film to emerge from Sundance this year, <b>PAST LIVES</b> is one of those films that keeps surprising you with its quiet, steady revelations of truths. There is an element of “sliding doors” here, as we meet two youngsters, girl and boy, who grew up together, laughed and played together. Fate takes one of them, Nora, from Korea to Canada, while Hae Sung stays behind. Their lives intersect again over the years, even as they pursue separate paths. Director Celine Song celebrates the bittersweet nature of their connection, compelled to be at once deeply bonded and irreconcilably apart. The sense of what might have been always hovers, a familiar play of the head and the heart. Probably not a good idea to see this film with an old flame.</p>
+			</div>
+		</div>
+	</div>
+	<div class="back-to-top"></div>
+</div>
+<!-- /small movie html -->
+<!-- small movie html -->
+<div class="small-movie" id="movie-tt13923216">
+	<div class="row">
+		<div class="col-sm-12">
+			<div class="pull-left"><h4>September 27, 2023</h4></div>
+			<div class="pull-right"><a href="http://www.imdb.com/title/tt13923216" class="imdb"></a></div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-12">
+			<a href="assets/images/f2023/tt13923216.400.jpg" class="fancybox"><img src="assets/images/f2023/tt13923216.100.jpg" /></a>
+			<div class="small-movie-title">Showing Up</div>
+			<div class="small-movie-sub-text">(United States 2022) 107 min <br />
+				Directed by Kelly Reichardt<br />
+				With Michelle Williams, Hong Chau, André 3000 et al.
+							</div>
+			<div class="small-movie-description">
+				<p>We love anything director Reichardt does. This is funny and wry in all the right places. Reichardt collaborates again with fine actor, Michelle Williams, centering on the day-to-day life of a sculptor residing in the laid-back off-centre city of Portland, Oregon. Lizzy has exhibition conflicts, a broken water heater, a lame landlady, and an astonishingly frumpy wardrobe. You just know Reichardt deeply understands this artist’s world, but she isn’t satirizing it, just showing us a slice of life and what it takes to survive in it with an understated resilience. Bring an artist you like to this one.</p>
+			</div>
+		</div>
+	</div>
+	<div class="back-to-top"></div>
+</div>
+<!-- /small movie html -->
+<!-- small movie html -->
+<div class="small-movie" id="movie-tt26440619">
+	<div class="row">
+		<div class="col-sm-12">
+			<div class="pull-left"><h4>October 11, 2023</h4></div>
+			<div class="pull-right"><a href="http://www.imdb.com/title/tt26440619" class="imdb"></a></div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-12">
+			<a href="assets/images/f2023/tt26440619.400.jpg" class="fancybox"><img src="assets/images/f2023/tt26440619.100.jpg" /></a>
+			<div class="small-movie-title">Afire</div>
+			<div class="small-movie-sub-text">(Germany 2023) 102 min <br />
+				Directed by Christian Petzold<br />
+				With Thomas Schubert, Paula Beer, Enno Trebs et al.
+				<br />German with English subtitles			</div>
+			<div class="small-movie-description">
+				<p>This is another quiet but highly affecting character study (aka a film for adults). Four people gather in a cottage on the Baltic shore, young people with dreams, wit, passion, and, of course, all the human flaws we own. The title refers to a nearby forest fire, almost frighteningly familiar to anyone experiencing the smoke and flames of 2023, but it also hints at the emotional intensity of the relationships under scrutiny. German audiences well know director Petzold’s oeuvre to date, and <b>AFIRE</b> is part of a series he is creating about the complexity of human behaviour. Note that <b>AFIRE</b> won a major award at this year’s Berlin film festival, a measure of the film’s powerful intelligence.</p>
+			</div>
+		</div>
+	</div>
+	<div class="back-to-top"></div>
+</div>
+<!-- /small movie html -->
+<!-- small movie html -->
+<div class="small-movie" id="movie-tt13456340">
+	<div class="row">
+		<div class="col-sm-12">
+			<div class="pull-left"><h4>October 25, 2023</h4></div>
+			<div class="pull-right"><a href="http://www.imdb.com/title/tt13456340" class="imdb"></a></div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-12">
+			<a href="assets/images/f2023/tt13456340.400.jpg" class="fancybox"><img src="assets/images/f2023/tt13456340.100.jpg" /></a>
+			<div class="small-movie-title">Riceboy Sleeps</div>
+			<div class="small-movie-sub-text">(Canada 2022) 117 min <br />
+				Directed by Anthony Shim<br />
+				With Choi Seung-yoon, Ethan Hwang, Dohyun Noel Hwang et al.
+							</div>
+			<div class="small-movie-description">
+				<p>Some of the best new film and literary material is about the immigrant experience, and this lovely Canadian feature takes a place of honour in the genre. What was it like to come to Canada as a young Korean boy in the Nineties, with a lot of innocence and smelly food. This story certainly punctures the myth of Canada as a welcoming, non-racist country, but it is gorgeously shot and beautifully framed in all ways, carefully balancing the harshness of immigrant experience against the promise of hope and connection. <b>RICEBOY SLEEPS</b> is a stellar debut and deserves a lot more attention.</p>
+			</div>
+		</div>
+	</div>
+	<div class="back-to-top"></div>
+</div>
+<!-- /small movie html -->
+<!-- small movie html -->
+<div class="small-movie" id="movie-tt14641542">
+	<div class="row">
+		<div class="col-sm-12">
+			<div class="pull-left"><h4>November 08, 2023</h4></div>
+			<div class="pull-right"><a href="http://www.imdb.com/title/tt14641542" class="imdb"></a></div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-12">
+			<a href="assets/images/f2023/tt14641542.400.jpg" class="fancybox"><img src="assets/images/f2023/tt14641542.100.jpg" /></a>
+			<div class="small-movie-title">The Eight Mountains</div>
+			<div class="small-movie-sub-text">(Italy, Belgium, France, United Kingdom 2022) 147 min <br />
+				Directed by Felix van Groeningen, Charlotte Vandermeersch<br />
+				With Lupo Barbiero, Cristiano Sassella, Elena Lietti et al.
+							</div>
+			<div class="small-movie-description">
+				<p>If you need some convincing, first visit The Guardian’s five-star review of this film <a href=https://www.theguardian.com/film/2022/may/19/le-otto-montagne-the-eight-mountains-review-cannes-film-festival>here</a>. None other than Peter Bradshaw celebrates the beauty and power of this feature about two men, childhood friends, for whom fate, class, and circumstance have shaped an adult friendship. Yes, it has a long running time, but, please please come see this stunning film shot in the Italian Alps which serve as an important natural frame for this moving study of what makes us human.</p>
+			</div>
+		</div>
+	</div>
+	<div class="back-to-top"></div>
+</div>
+<!-- /small movie html -->
+<!-- small movie html -->
+<div class="small-movie" id="movie-tt15428940">
+	<div class="row">
+		<div class="col-sm-12">
+			<div class="pull-left"><h4>November 15, 2023</h4></div>
+			<div class="pull-right"><a href="http://www.imdb.com/title/tt15428940" class="imdb"></a></div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-12">
+			<a href="assets/images/f2023/tt15428940.400.jpg" class="fancybox"><img src="assets/images/f2023/tt15428940.100.jpg" /></a>
+			<div class="small-movie-title">Jules</div>
+			<div class="small-movie-sub-text">(USA 2023) 87 min <br />
+				Directed by Marc Turtletaub<br />
+				With Ben Kingsley, Harriet Sansom Harris, Jane Curtin et al.
+							</div>
+			<div class="small-movie-description">
+				<p>Veteran actors fill the screen with a view to charming even the most crooked audiences into a state of pleasant acceptance. What could have been a sappy story about a lonely older man, Milton (Sir Ben Kingsley) with hints of dementia, is instead a light-hearted treatment of what happens when one’s world is totally upended. A space ship lands in this small Pennsylvania community and an alien emerges named Jules. Before you can say take-me-to-your-7/11, Milton befriends him. Hilarity doesn’t ensue but a charming soft comedy does emerge to take us on an easy ride into the unknown.</p>
+			</div>
+		</div>
+	</div>
+	<div class="back-to-top"></div>
+</div>
+<!-- /small movie html -->
+<!-- small movie html -->
+<div class="small-movie" id="movie-tt6800566">
+	<div class="row">
+		<div class="col-sm-12">
+			<div class="pull-left"><h4>December 06, 2023</h4></div>
+			<div class="pull-right"><a href="http://www.imdb.com/title/tt6800566" class="imdb"></a></div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-12">
+			<a href="assets/images/f2023/tt6800566.400.jpg" class="fancybox"><img src="assets/images/f2023/tt6800566.100.jpg" /></a>
+			<div class="small-movie-title">Polarized</div>
+			<div class="small-movie-sub-text">(United Kingdom, Canada 2023) 104 min <br />
+				Directed by Shamim Sarif<br />
+				With Holly Deveaux, Maxine Denis, Hesham Hammoud et al.
+							</div>
+			<div class="small-movie-description">
+				<p>We are here to honour the best Canadian films you’re never seeing in theatres near you. We might have experienced a joyous Pride month this year, but we also know that not so far from the surface is a viciously anti-LGBTQ+ current of hostility. Set in rural Manitoba, <b>POLARIZED</b>, as the title makes plain, focuses on the oppositional dynamic generated by two women who fall in love with each other. Their families, rooted in ethnic and religious differences, set up impossible and irrational barriers, but if love doesn’t conquer all at least it helps to soften hard attitudes. Director Sarif turned her own threatened relationship with her producer, Hanan Kattan, into this beautifully shot ode to hope and forgiveness.</p>
+			</div>
+		</div>
+	</div>
+	<div class="back-to-top"></div>
+</div>
+<!-- /small movie html -->
+	</div>
+</div>
+
+</div>
+<div id="contact-container">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h3>Contact Us <div id="loadingContact"></div></h3>
+				<div id="contactUsMessage"></div>
+
+			</div>
+			<div class="col-sm-6">
+				<p>For more information please contact</p>
+
+				<p>Noreen Golfman<br />
+				<a href="mailto:ngolfman@mun.ca">ngolfman@mun.ca</a><br />
+				<a href="mailto:cinema@mun.ca">cinema@mun.ca</a></p>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="out"></div>
+
+	<!-- Alert -->
+	<div id="top-alert-template">
+		<div id="top-alert" class="alert alert-info hidden">
+			<button type="button" class="close" aria-hidden="true">&times;</button>
+			<h4 id="top-alert-heading" class="alert-heading"></h4>
+			<div id="top-alert-body"></div>
+		</div>
+	</div>
+
+	<!-- Modal -->
+	<div id="amm-modal" class="modal fade">
+		<div class="modal-dialog">
+			<div id="modal-content" class="modal-content">
+			</div><!-- /.modal-content -->
+		</div><!-- /.modal-dialog -->
+	</div><!-- /.modal -->
+
+	<script>
+		$(document).ready(function() {
+			var options = {
+				beforeSubmit: loadingContact,
+				success:contactFormComplete
+			};
+			$('#contact-form').ajaxForm(options);
+		});
+	</script>
+
+
+</body>
+</html>
+<script>
+	$( document ).ready(function() {
+		$('.med-movie').on('click', function(e){
+			e.preventDefault();
+			$($(this).data('jump-to')).ScrollTo();
+		});
+		$('.back-to-top').on('click', function(e){
+			e.preventDefault();
+			$('#mun-cinema-banner-container').ScrollTo();
+		});
+		$("a.fancybox").fancybox();
+	});
+
+</script>

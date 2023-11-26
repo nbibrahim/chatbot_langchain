@@ -1,0 +1,2962 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta name="GENERATOR" content="Mozilla/4.76 [en] (Win95; U) [Netscape]">
+  <meta name="Author" content="Dr. Steven M. Carr"><title>Principles of Human Population Genetics</title></head>
+<body style="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); background-image: url(http://www.mun.ca/biology/scarr/Sewall_Wright_fade200.jpg);" alink="#ff0000" link="#0000ee" vlink="#551a8b">
+<br>
+<!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75"
+ o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_s1026" type="#_x0000_t75" alt="" style='position:absolute;
+ margin-left:0;margin-top:0;width:150pt;height:194.25pt;z-index:1;
+ mso-wrap-distance-left:0;mso-wrap-distance-right:0;mso-position-horizontal:left;
+ mso-position-horizontal-relative:text;mso-position-vertical-relative:line'
+ o:allowoverlap="f">
+ <v:imagedata src="http://www.mun.ca/biology/scarr/Carr2y.gif"/>
+ <w:wrap type="square"/>
+</v:shape><![endif]--><!--[if !vml]--><img style="width: 200px; height: 259px;" src="Carr2y.gif" v:shapes="_x0000_s1026" title="" alt="Steven M. Carr" align="left"><!--[endif]--><br>
+<b><span style="font-family: Arial;">Dr. Steven M. Carr</span></b> <br>
+<b><span style="font-family: Arial;">Department of Biology</span></b> <br>
+<b><span style="font-family: Arial;"><a href="http://www.mun.ca/">Memorial
+University of Newfoundland</a></span></b> <br>
+<b><span style="font-family: Arial;">St. John's NL A1B 3X9, </span></b><st1:country-region><st1:place><b><span style="font-family: Arial;">Canada</span></b></st1:place></st1:country-region>
+<br>
+<b><span style="font-family: Arial;">&nbsp; e-mail: <a href="mailto:scarr@mun.ca">scarr@mun.ca</a></span></b>
+<br>
+&nbsp; <br>
+&nbsp; <br>
+&nbsp; <br>
+&nbsp; <br>
+&nbsp; <br>
+&nbsp; <br>
+<br>
+<br>
+<br>
+<b><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp;&nbsp; <a href="Research.html">Genetic Research in my lab</a></span></b>
+<br>
+<span style="font-family: Arial;"></span><b><span style="font-family: Arial;"></span></b><b><span style="font-family: Arial;"><br>
+</span></b>
+<hr style="width: 100%; height: 2px;"><b><font face="Arial,Helvetica"><font color="#009900"><font size="+2">Med6390 - Principles
+of Human Population Genetics
+<hr style="color: rgb(0, 0, 0);" width="100%"><small style="color: rgb(0, 0, 0);">Index<br>
+</small></font></font></font></b><small style="font-weight: bold;"><font face="Arial,Helvetica"><font color="#009900"><font size="+2"><small><small style="color: rgb(0, 0, 0);"><span style="color: rgb(0, 0, 0);">&nbsp;&nbsp;&nbsp;
+<a href="#Theory_of_pq">1.</a> Theory of Allele Frequencies</span><br style="color: rgb(0, 0, 0);">
+<span style="color: rgb(0, 0, 0);">&nbsp;&nbsp;&nbsp; <a href="#Hardy-Weinberg">2.</a>&nbsp; The Hardy-Weinberg Theorem</span><br style="color: rgb(0, 0, 0);">
+<span style="color: rgb(0, 0, 0);">&nbsp;&nbsp;&nbsp; <a href="#Evolutionary_Genetics">3.</a> Evolutionary Genetics</span><br style="color: rgb(0, 0, 0);">
+<span style="color: rgb(0, 0, 0);">&nbsp;&nbsp;&nbsp; <a href="#Natural_Selection">4.</a> Natural Selection [</span></small></small></font></font></font></small><small><font face="Arial,Helvetica"><font color="#009900"><font size="+2"><small><small style="color: rgb(0, 0, 0);"><span style="color: rgb(0, 0, 0);"><a href="NatSel2004_for_Med6390.ZIP"><span style="font-weight: bold;">ZIP
+file</span> for NatSel executable &amp; Simulation assignment</a></span></small></small></font></font></font></small><small style="font-weight: bold;"><font face="Arial,Helvetica"><font color="#009900"><font size="+2"><small><small style="color: rgb(0, 0, 0);"><span style="color: rgb(0, 0, 0);">]<br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; </span></small></small></font></font></font></small><small><font face="Arial,Helvetica"><font color="#009900"><font size="+2"><small><small style="color: rgb(0, 0, 0);"><span style="color: rgb(0, 0, 0);">See
+discussion of <a href="6390_Norm_of_Reaction.html"><span style="font-weight: bold;">Norm of Reaction</span></a></span></small></small></font></font></font></small><small style="font-weight: bold;"><font face="Arial,Helvetica"><font color="#009900"><font size="+2"><small><small style="color: rgb(0, 0, 0);"><span style="color: rgb(0, 0, 0);"><br style="color: rgb(0, 0, 0);">
+</span>
+<span style="color: rgb(0, 0, 0);">&nbsp;&nbsp;&nbsp; <a href="#mutation">5.</a> Mutation</span><br style="color: rgb(0, 0, 0);">
+<span style="color: rgb(0, 0, 0);">&nbsp;&nbsp;&nbsp; <a href="#migration">6.</a> Gene Flow</span><br style="color: rgb(0, 0, 0);">
+<span style="color: rgb(0, 0, 0);">&nbsp;&nbsp;&nbsp; <a href="#inbreeding">7.</a> Population Structure</span><br style="color: rgb(0, 0, 0);">
+<span style="color: rgb(0, 0, 0);">&nbsp;&nbsp;&nbsp; <a href="#drift">8.</a>
+Genetic Drift<br>
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="Mutation,_Migration,_Inbreeding,_Drift.html">Mutation,
+Migration, Inbreeding, &amp; Drift</a> (updatd 07 Oct 2004)<br>
+<br>
+Updated <span style="color: rgb(255, 0, 0);">07 October 2004<big><big><br>
+</big></big></span></span></small></small></font></font></font></small><b><font face="Arial,Helvetica"><font color="#009900"><font size="+2">
+</font></font></font></b>
+<hr style="width: 100%; height: 2px;"><br>
+<b><font face="Arial,Helvetica"><a href="Mendelian_Rules.html">Mendelian
+Genetics</a> </font></b><font face="Arial,Helvetica">concerns the
+behavior of gene loci in </font><b><font face="Arial,Helvetica">single
+crosses<br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; two </font></b><font face="Arial,Helvetica">parents contributes </font><b><font face="Arial,Helvetica">one allele / locus<br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; </font></b><font face="Arial,Helvetica">expected
+outcomes are </font><b><font face="Arial,Helvetica">characteristic
+ratios: 1:2:1,&nbsp; 3:1 </font></b><b><font face="Arial,Helvetica"><span style="font-style: italic;"><br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; </span></font></b><font face="Arial,Helvetica">for <span style="font-weight: bold;">multiple
+loci</span>: 1:2:1:2:4:2:1:2:1,&nbsp; 9:3:3:1, <span style="font-style: italic;">etc</span></font><b><font face="Arial,Helvetica"><span style="font-style: italic;"><br style="font-style: italic;">
+<br style="font-style: italic;">
+</span>Population Genetics </font></b><font face="Arial,Helvetica">concerns
+the behavior of loci in </font><b><font face="Arial,Helvetica">multiple
+crosses<br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; </font></b><font face="Arial,Helvetica"><span style="font-weight: bold;">N </span>parents contribute one allele @</font><b><font face="Arial,Helvetica"><br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <br>
+Various aspects of "<font color="#ff0000">Population</font>"</font></b>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">gene
+pool </font></b>(a
+<b>genetic</b> unit):</font>
+<br>
+<font face="Arial,Helvetica"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+all the alleles at a (single) locus</font></font>
+<br>
+<font face="Arial,Helvetica"><b><font color="#ff0000">&nbsp;&nbsp;&nbsp;&nbsp;
+deme </font></b>(an
+<b>ecological</b> or <span style="font-weight: bold;">demographic </span>unit):</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+all the individuals in an area</font>
+<br>
+<font face="Arial,Helvetica"><b><font color="#ff0000">&nbsp;&nbsp;&nbsp;&nbsp;
+panmictic unit </font></b>(a <b>reproductive</b> unit):</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+a group of randomly interbreeding individuals</font>
+<br>
+<b><font face="Arial,Helvetica"><font color="#ff0000">&nbsp;&nbsp;&nbsp;&nbsp;
+sample</font><font color="#000000"> </font></font></b><font face="Arial,Helvetica"><font color="#000000">(a
+<b>numerical</b>
+unit):</font></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+a <b>statistical</b> subset of size '<b>N</b>'<br>
+<br>
+<hr width="100%"><b><font color="#009900"><a name="Theory_of_pq"></a>Theory
+of allele frequencies:
+p's &amp; q's</font></b></font>
+<p><font face="Arial,Helvetica">Genetic variation in populationscan be
+described by <b>genotype and allele frequencies</b>.</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(not "gene" frequencies)</font>
+</p>
+<p><font face="Arial,Helvetica">Consider a <b>diploid autosomal locus</b>
+with two alleles and no dominance</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (=&gt;
+semi-dominance:
+<b>AA</b>
+, <b>Aa</b> , <b>aa</b>&nbsp; phenotypes are distinguishable)</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # <b>AA</b>
+= x&nbsp;&nbsp;&nbsp; # <b>Aa</b> = y&nbsp;&nbsp;&nbsp; # <b>aa</b> =
+z&nbsp;&nbsp;&nbsp;
+x + y + z = <b><font color="#ff0000">N</font></b> (sample size)</font>
+</p>
+<p><font face="Arial,Helvetica"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+f(<b>AA</b>) = x / N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f(<b>Aa</b>) =
+y / N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f(<b>aa</b>) = z / N</font></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f(<b>A</b>)
+= (2x + y) / 2N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f(<b>a</b>)
+= (2z + y) / 2N</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+or&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">f(A) = f(AA) + 1/2
+f(Aa)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+f(a) = f(aa) + 1/2 f(Aa)</font></b></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+let <b><font color="#ff0000">p = f(A), q = f(a)</font></b>&nbsp;&nbsp;&nbsp;
+<b>p</b> &amp; <b>q</b> are <b><font color="#ff0000">allele
+frequencies</font></b></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Properties
+of <b>p</b> &amp; <b>q</b></font>
+</p>
+<p><b><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<font color="#ff0000">p + q = 1&nbsp;&nbsp;&nbsp;&nbsp; p = 1 -
+q&nbsp;&nbsp;&nbsp;
+q = 1 - p</font></font></b>
+</p>
+<p><b><font face="Arial,Helvetica"><font color="#ff0000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(p + q)<sup>2&nbsp; </sup>=&nbsp; p<sup>2</sup> + 2pq + q<sup>2</sup>&nbsp;
+=&nbsp; 1</font></font></b>
+</p>
+<p><b><font face="Arial,Helvetica"><font color="#ff0000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(1 - q)<sup>2</sup> + 2(1 - q)(q) + q<sup>2</sup> = 1<span style="color: rgb(204, 51, 204);">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Homework: </span></font></font></b><font face="Arial,Helvetica"><font color="#ff0000"><span style="color: rgb(204, 51, 204);">show this
+algebraically</span></font></font><b><font face="Arial,Helvetica"><font color="#ff0000"><span style="color: rgb(204, 51, 204);">]</span></font></font></b>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>p</b> &amp; <b>q</b> are interchangeable <b><font color="#ff0000">wrt</font></b>
+[read, "<i>with respect to</i>"] <b>A</b> &amp; <b>a</b>;</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>q</b> is <i>usually</i> used for the</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+rarer, recessive, or deleterious (disadvantageous) allele;</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><i>BUT</i></b>&nbsp;&nbsp; <i><font color="#000000">'common' &amp;
+'rare'</font></i>
+are <b>statistical</b> properties</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><font color="#000000">
+'dominant' &amp; 'recessive'</font></i> are <b>genotypic</b> properties</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><font color="#000000">
+'advantageous' &amp; 'deleterious'</font></i> are <b>phenotypic</b>
+properties</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+*** <b><blink>any</blink> combination of these properties is possible</b>
+***</font>
+<br>
+</p>
+<hr width="100%"><br>
+<b><font face="Arial,Helvetica"><font color="#009900"><a name="Hardy-Weinberg"></a>The
+Hardy-Weinberg
+Theorem</font></font></b>
+<p><font face="Arial,Helvetica">What happens to <b>p &amp; q</b> in
+one
+generation of random mating?</font>
+</p>
+<p><font face="Arial,Helvetica">Consider a population of
+<b><font color="#ff0000">monoecious</font></b> organisms<br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; reproduction by random union of</font>
+<font face="Arial,Helvetica"><span style="font-style: italic;">gametes
+</span>("tide pool" model)...</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1)
+Determine
+the <b><font color="#ff0000">expectations</font></b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+of parental alleles coming together in various genotype combinations.</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<b><font color="#ff0000">expectation</font></b>: the anticipated value
+of a variable&nbsp;<img src="Approx.gif" height="7" width="10">
+probability]</font> <br>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The&nbsp; <b><a href="Hardy-Weinberg_derivation.html#probability" #probability="">probability</a></b>
+/ <b><a href="Hardy-Weinberg_derivation.html#binomial">binomial
+expansion</a></b>
+/ <b><a href="Hardy-Weinberg_derivation.html#Punnet">Punnet Square</a></b>
+methods</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+all show that expectation of <b>f(AA)</b> = <b>p<sup>2</sup></b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+expectation of <b>f(Aa)</b> = <b>2pq</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+expectation of <b>f(aa)</b> = <b>q<sup>2</sup></b></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp; (2)
+Re-describe
+allele frequencies among offspring (<b>A' </b>&amp; <b>a'</b>).</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>f(A')
+= f(AA) + 1/2 f(Aa</b>)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+= p<b><sup>2</sup></b> + (1/2)(2pq) = p<b><sup>2</sup></b> + pq =
+(p)(p+q)
+= <b><font color="#ff0000">p' = p</font></b></font>
+<br>
+&nbsp;
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>f(a')
+= f(aa) + 1/2 f(Aa)</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+= q<b><sup>2</sup></b> + (1/2)(2pq) = q<b><sup>2</sup></b> + pq =
+(q)(p+q)
+= <b><font color="#ff0000">q' = q</font></b></font>
+</p>
+<p></p>
+<hr width="100%"><br>
+<font face="Arial,Helvetica">The <b><font color="#ff0000">Hardy -
+Weinberg
+Theorem</font></b><font color="#0000ff"> </font>(1908):</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp; <font color="#ff0000">In
+the absence of other genetic or evolutionary factors,</font></font>
+<br>
+<font face="Arial,Helvetica"><font color="#ff0000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>allele frequencies are invariant between generations</b>, &amp;<br>
+</font></font><font face="Arial,Helvetica"><font color="#ff0000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+constant genotype frequencies are reached in one generation.</font></font>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">p<sup>2</sup>
+: 2pq : q<sup>2</sup></font></b><font color="#ff0000"> are <b>Hardy-Weinberg
+proportions</b></font> (<i>cf</i>. Mendelian ratios 1 : 2 : 1 )</font></p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+&nbsp;&nbsp; &nbsp;&nbsp; [avoid the phrase "<span style="font-style: italic;">Hardy-Weinberg equilibrium</span>": <br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; H-W proportions occur under
+non-equilibrium conditions].<br>
+</font></p>
+<hr width="100%">
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The
+Hardy-Weinberg
+Theorem holds under "more realistic" conditions:</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(1) <b style="font-weight: bold;"><font color="#ff0000">multiple
+alleles</font></b><span style="font-weight: bold;"> / locus</span></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+p + q + r = 1</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(p + q + r)<sup>2 </sup>= p<sup>2</sup> + 2pq + q<sup>2</sup> + 2qr + r<sup>2</sup>
++ 2pr = 1</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The <span style="font-weight: bold;">proportion of heterozygotes</span>
+(<b>H </b>= '<b><font color="#ff0000">heterozygosity</font></b>')</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+is a measure of genetic variation at a locus.</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>H</b><sub>obs</sub> = <b>f(Aa)</b> = <b><font color="#ff0000">observed
+heterozygosity</font></b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>H</b><sub>exp</sub> = <b>2pq</b>&nbsp;&nbsp; = <b><font color="#ff0000">expected
+heterozygosity</font></b> (for two alleles)</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>H<sub>e</sub></b> = 2pq + 2pr + 2qr = 1 - (p<sup>2</sup> + q<sup>2</sup>
++ r<sup>2</sup>)&nbsp;&nbsp;&nbsp; for three alleles</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ff0000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>n</b></font></font>
+<br>
+<font face="Arial,Helvetica"><font color="#ff0000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>
+H<sub>e</sub> = 1 -&nbsp;<img src="Summation.gif" height="14" width="14">(q<sub>i</sub>)<sup>2</sup>&nbsp;</b></font><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;
+for <i style="font-weight: bold;">n</i> alleles</font></font>
+<br>
+<font face="Arial,Helvetica"><font color="#ff0000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>
+i=1</b></font></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+where <span style="font-weight: bold;">q</span><sub style="font-weight: bold;">i</sub> = freq. of<span style="font-weight: bold;"> </span><i style="font-weight: bold;">i</i><span style="font-weight: bold;">th</span> allele of <i style="font-style: italic; font-weight: bold;">n</i><span style="font-style: italic;"> </span>alleles at
+a locus</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>Ex</i>.: if q<sub>1</sub> = 0.5, q<sub>2</sub> = 0.3, &amp; q<sub>3</sub>
+= 0.2</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+then <b>H<sub>e</sub></b> = 1 - (0.5<sup>2</sup> + 0.3<sup>2</sup> +
+0.2<sup>2</sup>)
+= <b>0.62<br>
+</b></font></p>
+<p><font face="Arial,Helvetica"><b>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+&nbsp;&nbsp; &nbsp;&nbsp; </b><span style="font-style: italic;">Ex.</span>:
+PopGen at <a href="ABO_population_genetics.html"><span style="font-weight: bold;">ABO</span> locus</a><b><br>
+</b></font></p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(2) <b style="font-weight: bold;"><font color="#ff0000">sex-linked</font></b><span style="font-weight: bold;"> loci</span></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><font color="#ff0000">iff</font></b> [read: "<i>if and only if</i>"]
+allele frequencies in males and females are identical</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+If frequencies are initially unequal, they <b><a href="HW_with_sex_linked_loci.html">converge</a></b>
+over several generations.</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(3) <b style="font-weight: bold;"><font color="#ff0000">dioecious</font><font color="#cc0000"> </font></b><span style="font-weight: bold;">organisms</span></font>&nbsp;
+(like humans)<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+sexes are separate</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+H-W is produced by random <b>mating</b> of <b>individuals</b> (random
+union
+of genotypes).</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+expand (p<sup>2</sup> '<b>AA</b>' + 2pq '<b>AB</b>' + q<sup>2</sup> '<b>BB</b>')<sup>2</sup>
+:</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>nine</i> possible 'matings' among genotypes</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(See <b><a href="HW_for_dioecious.html">derivation</a></b>)</font> <br>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Also holds if no <b><font color="#ff0000">selfing</font></b>
+(self-fertilization) is
+possible]</font>
+</p>
+<p></p>
+<hr width="100%"><br>
+<b><font face="Arial,Helvetica"><font color="#009900"><font size="+1">Application
+of Hardy-Weinberg to population biology</font></font></font></b>
+<p><font face="Arial,Helvetica">Genotype proportions in natural
+populations
+can be tested for H-W conditions</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp; <b>H<sub>o</sub></b>
+(<b><font color="#ff0000">null
+hypothesis</font></b>): no outside factors are acting.</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp; <i>Ex</i>.:
+<b><a href="MN_bloodgroup.html">MN
+blood groups in <i>Homo</i></a></b></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Among
+North
+American whites:</font>
+<table border="1" cols="4" width="400">
+  <tbody>
+    <tr bgcolor="#99ff99">
+      <td>
+      <center><b><font face="Arial,Helvetica">MM</font></b></center>
+      </td>
+      <td>
+      <center><b><font face="Arial,Helvetica">MN</font></b></center>
+      </td>
+      <td>
+      <center><b><font face="Arial,Helvetica">NN</font></b></center>
+      </td>
+      <td>
+      <center><b><font face="Arial,Helvetica">Sum</font></b></center>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <center><font face="Arial,Helvetica">1787</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">3039</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">1303</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">6129</font></center>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>f(M)</b> = [(2)(1787) + 3039] / (2)(6129)= <b>0.539</b></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>f(N)</b> = [(2)(1303) + 3039] / (2)(6129)= <b>0.461</b>&nbsp;&nbsp;&nbsp;
+=&nbsp;&nbsp; <b>1.0 - 0.539</b></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">Chi-square</font></b>
+(<img src="Chi_UC.gif" height="10" width="9"><sup>2</sup>) test:</font>
+<table border="1" cols="6" width="400">
+  <tbody>
+    <tr bgcolor="#99ff99">
+      <td><font face="Arial,Helvetica">&nbsp;</font></td>
+      <td>
+      <center><b><font face="Arial,Helvetica">#</font></b></center>
+      </td>
+      <td>
+      <center><b><font face="Arial,Helvetica">expected</font></b></center>
+      </td>
+      <td>
+      <center><b><font face="Arial,Helvetica">observed</font></b></center>
+      </td>
+      <td>
+      <center><b><font face="Arial,Helvetica">(obs-exp)</font></b></center>
+      </td>
+      <td>
+      <center><b><font face="Arial,Helvetica">d<sup>2</sup>/exp</font></b></center>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <center><b><font face="Arial,Helvetica">MM</font></b></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">(0.539)<sup>2</sup>(6129)</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">1781</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">1787</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">6</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">0.020</font></center>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <center><b><font face="Arial,Helvetica">MN</font></b></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">(2)(0.539)(0.461)(6129)</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">3046</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">3039</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">-7</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">0.012</font></center>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <center><b><font face="Arial,Helvetica">NN</font></b></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">(0.461)<sup>2</sup>(6129)</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">1302</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">1303</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">1</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">0.000</font></center>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <center><font face="Arial,Helvetica">&nbsp;</font></center>
+      </td>
+      <td><font face="Arial,Helvetica">&nbsp;</font></td>
+      <td><font face="Arial,Helvetica">&nbsp;</font></td>
+      <td><font face="Arial,Helvetica">&nbsp;</font></td>
+      <td>
+      <center><img src="Chi_UC.gif" height="10" width="9"><font face="Arial,Helvetica"><sup>2</sup>
+=&nbsp;</font></center>
+      </td>
+      <td>
+      <center><b><font face="Arial,Helvetica">0.032<sup><font color="#ff0000">ns</font></sup></font></b></center>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(<i>cf</i>. <font color="#ff0000">critical value <b>p<sub>.05[1 d.f.]</sub>
+= 3.84</b></font>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+( p &gt;&gt; 0.05)</font> <br>
+</p>
+<p><font face="Arial,Helvetica"><span style="font-style: italic;">note</span>:
+there is only one degree of
+freedom,
+because there are only two alleles</font>
+<br>
+</p>
+<hr width="100%"><br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp; <b>But</b> (you
+ask) won't "<i>expected</i>" always more or less equal "<i>observed</i>",</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+cuz that's where "expected" comes from?</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Consider an artificial data set :</font>
+<br>
+&nbsp;
+<table border="1" width="400">
+  <tbody>
+    <tr bgcolor="#99ff99">
+      <td><font face="Arial,Helvetica">&nbsp;</font></td>
+      <td>
+      <center><b><font face="Arial,Helvetica">MM</font></b></center>
+      </td>
+      <td>
+      <center><b><font face="Arial,Helvetica">MN</font></b></center>
+      </td>
+      <td>
+      <center><b><font face="Arial,Helvetica">NN</font></b></center>
+      </td>
+      <td>
+      <center><b><font face="Arial,Helvetica">Sum</font></b></center>
+      </td>
+      <td>
+      <center><b><font face="Arial,Helvetica">f(M)</font></b></center>
+      </td>
+      <td>
+      <center><b><font face="Arial,Helvetica">f(N)</font></b></center>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <center><font face="Arial,Helvetica">&nbsp;<span style="font-weight: bold;">Navaho </span>(US)</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">305</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">52</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">4</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">361</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">0.92</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">0.08</font></center>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <center><font face="Arial,Helvetica"><span style="font-weight: bold;">Koori </span>(Aus.)</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">22</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">216</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">492</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">730</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">0.18</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">0.82</font></center>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <center><b><font face="Arial,Helvetica">Combined</font></b></center>
+      </td>
+      <td>
+      <center><b><font face="Arial,Helvetica">327</font></b></center>
+      </td>
+      <td>
+      <center><b><font face="Arial,Helvetica">268</font></b></center>
+      </td>
+      <td>
+      <center><b><font face="Arial,Helvetica">496</font></b></center>
+      </td>
+      <td>
+      <center><b><font face="Arial,Helvetica">1091</font></b></center>
+      </td>
+      <td>
+      <center><b><font face="Arial,Helvetica">0.42</font></b></center>
+      </td>
+      <td>
+      <center><b><font face="Arial,Helvetica">0.58</font></b></center>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp; (<b><font color="#cc33cc">Homework</font></b>:
+show that Navaho &amp; Koori populations exhibit H-W proportions)</font>
+<p><font face="Arial,Helvetica"><font size="-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font>Chi-square test on <b>combined</b> data:</font>
+<table border="1" cols="5" width="400">
+  <tbody>
+    <tr bgcolor="#99ff99">
+      <td><font face="Arial,Helvetica">&nbsp;</font></td>
+      <td>
+      <center><b><font face="Arial,Helvetica">exp</font></b></center>
+      </td>
+      <td>
+      <center><b><font face="Arial,Helvetica">obs</font></b></center>
+      </td>
+      <td>
+      <center><b><font face="Arial,Helvetica">d=(o-e)</font></b></center>
+      </td>
+      <td>
+      <center><b><font face="Arial,Helvetica">d<sup>2</sup>/exp</font></b></center>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <center><b><font face="Arial,Helvetica">MM</font></b></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">192</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">327</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">&nbsp;135</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">94.9</font></center>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <center><b><font face="Arial,Helvetica">MN</font></b></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">532</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">268</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">-264</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">131.0</font></center>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <center><b><font face="Arial,Helvetica">NN</font></b></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">367</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">496</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">129</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">45.3</font></center>
+      </td>
+    </tr>
+    <tr>
+      <td><font face="Arial,Helvetica">&nbsp;</font></td>
+      <td><font face="Arial,Helvetica">&nbsp;</font></td>
+      <td><font face="Arial,Helvetica">&nbsp;</font></td>
+      <td>
+      <center><img src="Chi_UC.gif" height="10" width="9"><b><font face="Arial,Helvetica"><sup>2</sup>
+=</font></b></center>
+      </td>
+      <td>
+      <center><b><font face="Arial,Helvetica">271.2<sup><font color="#ff0000">**</font></sup></font></b></center>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(p &lt;&lt; 0.01)</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A <i>mixture
+</i>of
+populations, each of which shows Hardy-Weinberg proportions,</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+will
+<i>not</i> show expected Hardy-Weinberg proportions</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>if</i> the allele frequencies are different in the separate
+populations.</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><font color="#ff0000">Wahlund Effect</font></b>: an artificial
+mixture
+of populations <br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; (or a structured <span style="font-weight: bold;">metapopulation</span>)<br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; will have a
+<b><i>deficiency</i></b> of heterozygotes</font>
+</p>
+<p></p>
+<hr width="100%"><b><font face="Arial,Helvetica"><font color="#008000"><font size="+1"><a name="Evolutionary_Genetics"></a>Evolutionary
+Genetics:</font></font></font></b>
+<br>
+<b><font face="Arial,Helvetica"><font color="#008000"><font size="+1">&nbsp;&nbsp;&nbsp;
+modification of Hardy-Weinberg conditions</font></font></font></b>
+<p><font face="Arial,Helvetica">The Hardy-Weinberg conditions are the
+'null
+hypothesis':</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What are
+the consequences of other genetic / evolutionary phenomena?<br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; How do they interact?<br>
+</font></p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp; <b>Five major
+factors</b>:</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. <b><font color="#ff0000">Natural
+selection</font></b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Change of allele frequencies (<img src="Delta_UC.gif" height="10" width="11"><b><font color="#ff0000">q</font></b>)
+[read as '<i><font color="#ff0000">delta q</font></i>']</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+occurs due to differential effects of alleles on '<b>fitness</b>'</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Consequences depend on <b><font color="#ff0000">dominance of fitness</font></b></font><br>
+<b><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Natural Selection is the principle concern of "microevolutionary" theory</font></b>
+<br>
+<font face="Arial,Helvetica"><b></b><br>
+</font></p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. <b><font color="#ff0000">Mutation</font></b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>A</b> and <b>A'</b> are inter-converted at some rate <b><font color="#ff0000">&micro;</font></b>
+.</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+If <b><font color="#ff0000">&micro;</font>(A<img src="Rarrow.gif" height="9" width="17">A')&nbsp;<img src="Not_equal_to.gif" height="10" width="10"><font color="#ff0000">
+&micro;'</font>(A<img src="Larrow.gif" height="9" width="17">A')</b>,
+net change
+will occur in one direction.</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. <b><font color="#ff0000">Gene
+flow</font></b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Net movement of alleles between populations occurs at some rate <b><font color="#ff0000">m</font></b>
+.</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><font color="#000000">(Im)</font><font color="#ff0000">migration</font></b>
+introduces new alleles, changes frequency of existing alleles.</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. <b><font color="#000000">Population
+structure</font></b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><font color="#ff0000">Inbreeding</font></b>: preferential mating of
+relatives at some rate <b><font color="#ff0000">F</font></b> (see <b style="color: rgb(204, 102, 204);">Homework</b>).</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><font color="#ff0000">Non-random reproduction</font></b>: variable
+sex
+ratio, offspring number, population ize</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. <b><font color="#000000">Statistical
+sampling error</font></b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Chance fluctuations occur in <i>finite</i> populations, especially
+those
+with small size <b><font color="#ff0000">N</font></b>.</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><font color="#ff0000">Genetic drift</font></b>: random change of
+allele
+frequencies</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+over time &amp; among populations (see <b style="color: rgb(204, 102, 204);">Homework</b>)</font>
+<b><font face="Arial,Helvetica"><font color="#009900"><font size="+2"><br>
+</font></font></font></b></p>
+<hr style="width: 100%; height: 2px;">
+<hr style="width: 100%; height: 2px;">
+<p><b><font face="Arial,Helvetica"><font color="#009900"><font size="+2"><a name="Natural_Selection"></a>The
+Mathematical Theory of Natural Selection</font></font></font></b>
+</p>
+<p style="font-family: arial;"><big><b style="color: rgb(0, 153, 0);">
+</b></big>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+"<a href="Adaptation_by_Natural_Selection.html" style="color: rgb(255, 0, 0);"><b>Natural
+Selection</b></a>" is the name given to an evolutionary process<br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; in which
+"<b style="color: rgb(255, 0, 0);">adaptation</b>" occurs in such a way
+that "<b style="color: rgb(255, 0, 0);">fitness</b>"
+increases.
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Under certain conditions, this results in <b style="color: rgb(255, 0, 0);">descent with modification</b>.<br>
+</p>
+<p style="font-family: arial;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><i>If</i></b>:&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="Darwins_Finches.html" style="color: rgb(51, 51, 255);"><b>variation</b></a>
+exists for some trait, and
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+a <b><font color="#ff0000">fitness</font> difference</b> is correlated
+with that trait, and
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+the trait is to some degree <a href="Geospiza_heritability.html" style="color: rgb(51, 51, 255);"><b>heritable</b></a>
+(determined by genetics),
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><i>Then</i></b>:
+the <a href="Natural_Selection_on_Geospiza.html" style="color: rgb(51, 51, 255);"><b>trait distribution will change</b></a>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+over the life history of organisms in a single generation, <br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <span style="font-style: italic;">and</span>
+between generations.
+</p>
+<p style="font-family: arial;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The
+process
+of change in the population is called "<a href="Adaptation_in_Darwins_Finches.html" style="color: rgb(51, 51, 255);"><b>adaptation</b></a>"<br>
+</p>
+<p style="font-family: arial;">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; That's
+all.<br>
+</p>
+<p></p>
+<hr width="100%"><br>
+<b><font face="Arial,Helvetica"><font color="#009900"><font size="+1">The
+General Selection Model</font></font></font></b>
+<p><b><font face="Arial,Helvetica"><font color="#ff0000">Evolution
+&amp;
+Natural Selection can be modeled genetically.<br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; variation</font></font></b><font style="color: rgb(0, 0, 0);" face="Arial,Helvetica"> = variable <span style="font-weight: bold; color: rgb(255, 0, 0);">p</span> &amp; <span style="font-weight: bold; color: rgb(255, 0, 0);">q<br>
+&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; fitness</span><span style="color: rgb(0, 0, 0);"> = differential phenotypes of
+corresponding genotypes<br>
+</span><span style="font-weight: bold; color: rgb(255, 0, 0);">&nbsp;&nbsp;
+&nbsp; &nbsp;&nbsp; heritability</span><span style="color: rgb(0, 0, 0);"> = Mendelian principles</span><span style="font-weight: bold; color: rgb(255, 0, 0);"><br>
+</span></font></p>
+<p><font face="Arial,Helvetica"><b>Natural Selection</b> results in <b><font color="#ff0000">change
+of allele frequency </font></b><font color="#000000">(<img src="Delta_UC.gif" height="10" width="11"></font><b><font color="#ff0000">q</font></b><font color="#000000">)
+[read as <span style="color: rgb(255, 0, 0);">"</span><i style="color: rgb(255, 0, 0);">delta </i><span style="color: rgb(255, 0, 0);">q"</span>]</font></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp; in consequence of
+differences
+in the relative
+<b><font color="#ff0000">fitness</font></b> (<b><font color="#ff0000">W</font></b>)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp; of the phenotypes to
+which the alleles contribute.</font>
+</p>
+<p><font face="Arial,Helvetica"><b><font color="#ff0000">Fitness is a
+phenotype</font></b><font color="#000000">
+of individual organisms.</font></font>
+<br>
+<font face="Arial,Helvetica"><font color="#000000">&nbsp;&nbsp;&nbsp;
+Fitness is determined <b>genetically</b> (at least in part).</font></font>
+<br>
+<font face="Arial,Helvetica"><font color="#000000">&nbsp;&nbsp;&nbsp;
+Fitness is related to success at <b>survival</b> <b><i>AND </i>reproduction.</b></font></font>
+<br>
+<font face="Arial,Helvetica"><font color="#000000">&nbsp;&nbsp;&nbsp;
+Fitness can be <b>measured</b> &amp; <b>quantified</b> (see below).</font></font>
+<br>
+<font face="Arial,Helvetica"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>i.e.</i>, the relative fitness of genotypes can be assigned
+numerical
+values.</font></font>
+</p>
+<p><font face="Arial,Helvetica">The consequences of natural selection
+depend
+on the <b><font color="#ff0000">dominance of fitness:</font></b></font>
+<br>
+<font face="Arial,Helvetica"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>e.g.</i>, whether the "fit" phenotype is due to a dominant or
+recessive
+allele.</font></font>
+</p>
+<p><font face="Arial,Helvetica">Then, allele frequency change is
+predicted
+by the <font color="#ff0000"><b>General Selection Equation</b>:</font></font>
+</p>
+<p><img src="Delta_UC.gif" height="10" width="11"><b><font face="Arial,Helvetica"><font color="#ff0000"><font size="+2">q
+= [pq] [(q)(W<sub>2</sub> - W<sub>1</sub>) + (p)(W<sub>1</sub> - W<sub>0</sub>)]
+/</font></font></font></b><img src="Wbar_red.gif" height="32" width="32">
+</p>
+<p><font face="Arial,Helvetica"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+where </font><b><font color="#ff0000">W<sub>0</sub></font></b><font color="#000000">,
+</font><b><font color="#ff0000">W<sub>1</sub></font></b><font color="#000000">,
+&amp; </font><b><font color="#ff0000">W<sub>2</sub></font></b><font color="#000000">
+are the </font><b><font color="#ff0000">fitness phenotypes</font></b></font>
+<br>
+<font face="Arial,Helvetica"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+of the <b>AA</b>, <b>AB</b>, &amp; <b>BB</b> genotypes,
+respectively&nbsp;
+</font>[see <b><a href="General_Selection_Model_derivation.html">derivation</a></b>]</font>
+</p>
+<p></p>
+<hr width="100%"><font face="Arial,Helvetica">Consider the simplest
+case:<b>&nbsp;
+Complete Dominance</b></font>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+genotype:&nbsp;&nbsp;
+<b>AA&nbsp;&nbsp;&nbsp;&nbsp; AB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BB</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; phenotype:
+<b>W<sub>0</sub></b>
+=&nbsp; <b>W<sub>1&nbsp;<img src="Not_equal_to.gif" height="10" width="10"></sub>&nbsp;
+W<sub>2</sub></b>&nbsp;&nbsp;&nbsp; (<b>AA </b>and <b>AB </b>have
+identical
+phenotypes)</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Then the
+<b>GSE</b>
+simplifies to&nbsp;<img src="Delta_UC.gif" height="10" width="11"><b><font size="+1"><font color="#ff0000">q
+= pq<sup>2</sup>(W<sub>2 </sub>- W<sub>1</sub>)</font><font color="#cc0000">&nbsp;&nbsp;&nbsp;&nbsp;</font></font></b>
+(since <b>W<sub>1</sub> - W<sub>0</sub></b> = 0)</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+If '<b>B</b>' phenotype is more fit than '<b>A</b>' phenotype,</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>W<sub>2</sub> &gt; W<sub>1</sub></b>&nbsp;&nbsp; &amp;&nbsp;<img src="Delta_UC.gif" height="10" width="11"><b>q
+&gt; 0</b>&nbsp;&nbsp;&nbsp; so&nbsp;&nbsp; <b>q</b> increases.</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+If '<b>B</b>' phenotype is less fit than '<b>A</b>' phenotype,</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>W<sub>2</sub> &lt; W<sub>1</sub></b>&nbsp;&nbsp;&nbsp; &amp;&nbsp;<img src="Delta_UC.gif" height="10" width="11"><b>q
+&lt; 0</b>&nbsp;&nbsp;&nbsp; so&nbsp;&nbsp; <b>q</b> decreases.</font>
+</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+then&nbsp;<img src="Delta_UC.gif" height="10" width="11"><b><font face="Arial,Helvetica">q&nbsp;<img src="Proportional_to.gif" height="6" width="10">
+(W<sub>2</sub> - W<sub>1</sub>)</font></b><font face="Arial,Helvetica">
+: the greater the <b>difference in fitness</b>,</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+the greater the <b><font color="#ff0000">intensity of selection</font></b></font>
+<br>
+<font face="Arial,Helvetica"><b><font color="#ff0000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></b><font color="#000000">and the more rapid the change</font></font>
+</p>
+<p><b><font face="Arial,Helvetica"><font color="#000000">A numerical
+example
+of Selection:</font></font></b>
+<br>
+<font face="Arial,Helvetica"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Tay-Sachs Disease</b> is caused by an allele</font></font>
+<br>
+<font face="Arial,Helvetica"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+that is <i>rare</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (<b>q<img src="Approx.gif" height="7" width="10"></b>
+0.001)</font></font>
+<br>
+<font face="Arial,Helvetica"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>recessive</i> (W<sub>0</sub> = W<sub>1 </sub>= 1)</font></font>
+<br>
+<font face="Arial,Helvetica"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>lethal</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (W<sub>2</sub>
+= 0)</font></font>
+</p>
+<p><font face="Arial,Helvetica"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Then&nbsp;<img src="Delta_UC.gif" height="10" width="11"><font size="+1"><b>q</b>
+= pq<sup>2</sup>(W<sub>2 </sub>- W<sub>1</sub>) = <b>-pq<sup>2&nbsp;<img src="Approx.gif" height="7" width="10"></sup></b></font></font><font size="+1"><b><font color="#ff0000">
+-q<sup>2</sup></font></b><font color="#000000"><sup>&nbsp;</sup></font></font><font color="#000000">&nbsp;
+(since p&nbsp;<img src="Approx.gif" height="7" width="10"> 1)</font></font>
+</p>
+<p><font face="Arial,Helvetica"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+That is, Natural Selection results in a <b>decrease</b> in the
+frequency
+of</font></font>
+<br>
+<font face="Arial,Helvetica"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+the Tay-Sachs allele of about <b>one part in a million</b> (0.001<sup>2</sup>)
+per generation</font></font>
+<br>
+</p>
+<hr width="100%"><b><font face="Arial,Helvetica">An alternate notation
+with <font color="#ff0000">selection coefficients </font>simplifies
+the
+math</font></b>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><font color="#ff0000"><font size="+1">s = 1 - W</font></font></b></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The <b>selection coefficient </b>(<b><font color="#ff0000">s</font></b>)
+is the difference in fitness</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+of the phenotype relative to some 'standard' phenotype</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+that has a fitness&nbsp; <b>W = 1</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[The math is simpler because only one variable is used for fitness.]</font>
+</p>
+<p><b><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1)
+Complete
+dominance</font></b>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+genotype:&nbsp;&nbsp;
+<b>AA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AB&nbsp;&nbsp;&nbsp;&nbsp; BB</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+phenotype:&nbsp;
+W<sub>0</sub> =&nbsp; W<sub>1&nbsp;<img src="Not_equal_to.gif" height="10" width="10"></sub>&nbsp;
+W<sub>2</sub>&nbsp;&nbsp;&nbsp; (<b>AA</b> and <b>AB</b> have
+identical
+phenotypes)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+or&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1&nbsp;&nbsp;&nbsp;
+=&nbsp;&nbsp;
+1&nbsp;<img src="Not_equal_to.gif" height="10" width="10">&nbsp; <b><font color="#ff0000">1
+- s</font></b></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+if&nbsp; 0 &lt; s &lt; 1 : '<b>B</b>' is <b><font color="#ff0000">deleterious</font></b>(at
+a selective disadvantage)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+if&nbsp; s &lt; 0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : '<b>B</b>' is <b><font color="#ff0000">advantageous</font></b></font>
+</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+then&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Delta_UC.gif" height="10" width="11"><font face="Arial,Helvetica"><b><font color="#ff0000"><font size="+1">q
+= -spq<sup>2</sup> / (1 - sq<sup>2</sup>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></font></b>[see <b><a href="Complete_dominance.html">derivation</a></b>]</font>
+<br>
+&nbsp;
+</p>
+<p><b><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2)
+Incomplete
+dominance</font></b>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+genotype:&nbsp;&nbsp;&nbsp;
+<b>AA</b>&nbsp;&nbsp;&nbsp;&nbsp; <b>AB</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>BB</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+phenotype:&nbsp;
+W<sub>0&nbsp;<img src="Not_equal_to.gif" height="10" width="10"></sub>&nbsp;
+W<sub>1&nbsp;<img src="Not_equal_to.gif" height="10" width="10"></sub>&nbsp;&nbsp;&nbsp;
+W<sub>2</sub>&nbsp;&nbsp;&nbsp; (all phenotypes different)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+or&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">1
+- s<sub>1&nbsp;<img src="Not_equal_to.gif" height="10" width="10"></sub></font></b>&nbsp;&nbsp;
+1&nbsp;<img src="Not_equal_to.gif" height="10" width="10">&nbsp; <b><font color="#ff0000">1
+- s<sub>2</sub></font></b></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if 0
+&lt;
+<b>s<sub>1</sub></b>
+&amp; <b>s<sub>2</sub></b> &lt; 1 : <b><font color="#ff0000">overdominance
+</font></b>of
+fitness (<b><font color="#ff0000">heterozygote advantage</font></b>)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The
+population
+has optimal fitness when
+<i>both</i> alleles are retained:</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>q</b> will reach an <b><font color="#ff0000">equilibrium</font></b>
+where&nbsp;<img src="Delta_UC.gif" height="10" width="11">q = 0</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+0 &lt;&nbsp;<img src="Qhat_red.gif" height="20" width="20"> &lt;
+1&nbsp;&nbsp;
+(read as, "<i style="color: rgb(255, 0, 0);">q hat</i>")</font>
+</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+then&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Qhat_red.gif" height="20" width="20"><font face="Arial,Helvetica"><b><font size="+1"><font color="#ff0000">=
+(s<sub>1</sub>) / (s<sub>1</sub> + s<sub>2</sub>)</font><font color="#cc0000">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#ff0000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></font></b>[see <b><a href="Incomplete_dominance.html">derivation</a></b>]</font>
+<br>
+</p>
+<hr width="100%"><b><font face="Arial,Helvetica"><font color="#00cc00"><font size="+1">The
+General Selection Model: Summary</font></font></font></b>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Direction
+of allele frequency change is due to <b><font color="#000000">fitness
+difference</font></b>
+of alleles</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(whether the effect of the allele on phenotype is deleterious or
+advantageous).</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ultimate
+consequences depend on the <b><font color="#000000">dominance of
+fitness</font></b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(whether the allele is dominant, semi-dominant, or recessive).</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Rate
+of change</b> is an interplay of both of these factors (see <b><font color="#cc33cc">Lab
+#1</font></b>)</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><u>AA</u>&nbsp;&nbsp;
+<u>AB</u>&nbsp;&nbsp;&nbsp;&nbsp; <u>BB</u>&nbsp;&nbsp;&nbsp; <u>Consequence
+of natural selection</u></b>&nbsp;&nbsp; [ let&nbsp;<img src="Delta_UC.gif" height="10" width="11">q
+= change in f(<b>B</b>) ]</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; W<sub>0</sub>
+=&nbsp; W<sub>1</sub> =&nbsp; W<sub>2</sub>&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">No
+selection</font></b><font color="#000000"> (neither allele has a
+selective
+advantage):</font></font>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+then&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Delta_UC.gif" height="10" width="11"><font face="Arial,Helvetica">q
+= 0,&nbsp; H-W proportions remain constant</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; W<sub>0</sub>
+=&nbsp; W<sub>1</sub> &gt;&nbsp; W<sub>2</sub>&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">deleterious
+recessive</font></b> (advantageous dominant):</font>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+then&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Delta_UC.gif" height="10" width="11"><font face="Arial,Helvetica">q
+&lt; 0,&nbsp;&nbsp;&nbsp;&nbsp; q&nbsp;<img src="Rarrow.gif" height="9" width="17">
+0.00&nbsp; (<b><font color="#ff0000">loss</font></b>): how fast? [Does
+it get there?]</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; W<sub>0</sub>
+=&nbsp; W<sub>1</sub> &lt;&nbsp; W<sub>2</sub>&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">advantageous
+recessive</font></b> (deleterious dominant):</font>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+then&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Delta_UC.gif" height="10" width="11"><font face="Arial,Helvetica">q
+&gt; 0,&nbsp;&nbsp;&nbsp;&nbsp; q&nbsp;<img src="Rarrow.gif" height="9" width="17">
+1.00&nbsp; (<b><font color="#ff0000">fixation</font></b>): how fast?</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; W<sub>0</sub>
+&lt;&nbsp; W<sub>1</sub> &gt;&nbsp; W<sub>2</sub>&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">overdominance</font></b>
+[special case of semi-dominance]:</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+heterozygote superiority</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+q&nbsp;<img src="Rarrow.gif" height="9" width="17"><img src="Qhat.gif" height="20" width="20">&nbsp;
+, where&nbsp;<img src="Delta_UC.gif" height="10" width="11">q = 0<br>
+</font></p>
+<hr style="width: 100%; height: 2px;"><span style="font-weight: bold; font-family: arial; color: rgb(204, 51, 204);"><br>
+Demonstration #1: Natural Selection on&nbsp; Deleterious &amp;
+Advantageous Recessive alleles</span><br style="font-weight: bold; font-family: arial; color: rgb(204, 51, 204);">
+<span style="font-weight: bold; font-family: arial; color: rgb(204, 51, 204);">&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+&nbsp;&nbsp; &nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Overdominant Selection</span><br>
+<br>
+<p></p>
+<hr style="width: 100%; height: 2px;"><font face="Arial,Helvetica"><b><font color="#009900"><font size="+2">Fitness,
+Adaptation, &amp; Natural Selection in real populations
+<hr width="100%"></font></font><font color="#ff0000">Fitness </font></b>is</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a <b>phenotype</b>
+of organisms and populations</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>quantifiable</b>
+relative to other organisms and populations</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; related
+to capacity for <b>survival <i>and</i> reproduction</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>variable</b>
+in space &amp; time; short-term and long-term (see below)</font>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Short-term
+measures: <b>"Life Table"</b> parameters</font>
+</p>
+<p><font face="Arial,Helvetica"><b><font color="#ff0000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+rate of instantaneous increase</font></b><font color="#000000"> (</font><b><font color="#ff0000"><font size="+1">r</font></font></b><font color="#000000">)
+of a phenotype</font></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+recall <b><font color="#cc0000"><a href="http://www.mun.ca/biology/scarr/Logistic_growth.htm">logistic
+equation</a></font></b>:
+<b><i>d</i>N / <i>d</i>t = rN</b> = <b>rN (K - N)
+/ K</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+where <b><font color="#ff0000">K</font></b> = carrying capacity</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><font color="#ff0000">net reproductive rate</font></b>: <font color="#000000"><font size="+1"><i>exp</i>(<b>r</b>)
+= <b><i>e</i><sup>r</sup></b></font></font></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>r</b> is "compound interest" on <b>N</b></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><font color="#ff0000">replacement rate</font></b> (<b><font color="#ff0000">R<sub>O</sub></font></b>):
+lifetime reproductive output</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+~ <b><font size="+1"><i>e</i><sup>r</sup></font></b>(at low density)</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><font color="#ff0000">components of fitness</font><font color="#000000">:
+</font></b><font color="#000000">traits
+that contribute to <a href="Components_of_Fitness.html" style="font-weight: bold;">survival
+&amp;
+reproduction</a></font></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>Ex</i>.: <b>survivorship</b> (expected survival time)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>fecundity</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (# offspring at
+age <b><i>x</i></b>)</font>
+</p>
+<p><font face="Arial,Helvetica"><b><font color="#ff0000">Adaptation </font></b>is
+the phenotypic consequence for populations of natural selection on
+individuals</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<i>cf</i>.
+<b>adjust</b> / <b>acclimate</b>]</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Phenotypic
+traits</b> that change as a result of selection</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+are sometimes referred to as "<b><font color="#ff0000">adaptations</font></b>"
+or "<b><font color="#ff0000">adaptive characters</font></b>"</font>
+<br>
+</p>
+<hr width="100%"><br>
+<b><font face="Arial,Helvetica"><font color="#009900"><font size="+1">Measuring
+'fitness' and observing 'adaptation' in natural populations</font></font></font></b>
+<p><font face="Arial,Helvetica"><b>Life table analysis</b>:
+<b><font color="#ff0000">survivorship</font></b> and
+<b><font color="#ff0000">fecundity</font></b> vary
+with age</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">l<sub>x</sub></font><sub><font color="#cc0000">&nbsp;</font></sub></b>
+= <b><font color="#000000">prob. of survival</font></b> from birth to
+age
+<b><i>x</i></b>&nbsp;
+(cumulative)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><font color="#ff0000">survivorship</font></b> = probability of
+survival
+to age <b><i>x+1</i></b> from age <b><i>x</i></b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">m<sub>x</sub></font></b>
+= <b><font color="#ff0000">fecundity</font></b> (# offspring) at age <b><i>x</i></b></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><font color="#ff0000">L</font></b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;
+then&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Summation.gif" height="14" width="14"><b><font color="#ff0000">
+(l<sub>x</sub>)(m<sub>x</sub>) exp(-rx)&nbsp;</font></b> <b>=&nbsp; 1</b>&nbsp;
+(in a stable population,</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><font color="#ff0000">x=1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></b>where <b>L</b> = life expectancy)</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><font color="#ff0000">L</font></b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b> <font color="#ff0000">R<sub>o</sub></font><font color="#000000">=<img src="Summation.gif" height="14" width="14"></font><font color="#ff0000">(l<sub>x</sub>)(m<sub>x</sub>)&nbsp;<img src="Ident.gif" height="7" width="10">&nbsp;
+replacement rate&nbsp;<img src="Approx.gif" height="7" width="10"><font size="+1"><i>
+e</i></font></font></b><sup><font color="#ff0000"><font size="+1">r</font></font></sup>at
+low density</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><font color="#ff0000">x=1</font></b></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This
+equation
+is a <i>discrete</i> solution to the <i>continuous</i> logistic
+equation</font>
+<br>
+</p>
+<hr width="100%"><br>
+<b><font face="Arial,Helvetica"><font color="#000000">R<sub>o</sub></font>
+can be calculated for two reproductive 'strategies'</font></b>
+<br>
+<b><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+as a measure of their relative 'fitness'</font></b>
+<p><font face="Arial,Helvetica">Consider a population with two
+<b>demographic</b>
+phenotypes:</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These
+phenotypes
+correspond to two <b>reproductive 'strategies</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">iteroparous
+</font>strategy</b>:
+offspring produced over <span style="font-style: italic;">several </span>seasons</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">semelparous
+</font>strategy</b>:
+offspring produced all in <span style="font-style: italic;">one </span>season</font>
+</p>
+<p><b><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A <a href="http://www.mun.ca/biology/scarr/2900_Survivorship_&amp;_Fecundity.htm">survivorship
+and fecundity schedule</a> will compare their life histories</font></b>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><blink><font color="#ff0000">*=&gt;</font></blink></b>
+life table parameters can be measured experimentally <b><blink><font color="#ff0000">&lt;=*</font></blink></b></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Under '<b>typical</b>'
+environmental conditions, survivorship is <b>50</b>% / year:</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+both strategies produce 2 young / female / lifetime</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+=&gt; <b>both phenotypes are equally 'fit'</b> [and <b>N</b> is
+stable]</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In <b>'good
+times'</b>, survivorship increases to <b>75</b>% / year:</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+iteroparous strategy produces 4 young / female / lifetime</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+semelparous strategy produces 3 young / female / lifetime</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+=&gt; <b>iteroparous phenotype is 'more fit'</b> [and <b>N</b> is
+increasing]</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In <b>'bad
+times'</b>, survivorship decreases to <b>25</b>% / year:</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+iteroparous
+<b>R<sub>o</sub></b> = 0.72,&nbsp;&nbsp; semelparous <b>R<sub>o</sub></b>
+= 1.00</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+=&gt; <b>semelparous phenotype is 'more fit'</b> [and <b>N</b> is
+decreasing]</font>
+</p>
+<p><b><font face="Arial,Helvetica">=&gt; Population phenotypes will
+adapt
+to changing conditions</font></b>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In a
+favourable
+environment, <b>K</b> increases:</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>e.g.</i>,
+productivity of meadow increases</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+iteroparity more advantageous, population density increases</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In an
+unfavourable
+environment, <b>r</b> increases:</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>e.g.</i>,
+severity of winter highly variable</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+semelparity more advantageous, early reproduction favoured</font>
+</p>
+<p><font face="Arial,Helvetica"><b><font color="#ff0000">K-strategy</font></b><font color="#cc0000">:</font>
+maintain population size <b>N</b> close to <b>K</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; long-lived,
+reproduce late, smaller # offspring, lots of parental care</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>E.g.</i>,
+many bird species, primates (including <i>Homo</i>)</font>
+</p>
+<p><font face="Arial,Helvetica"><b><font color="#ff0000">r-strategy</font></b>:
+maximize growth potential
+<b>r</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+short-lived,
+reproduce early, larger # offspring, little parental care</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>E.g.</i>,
+most invertebrates, some rodents</font>
+</p>
+<p></p>
+<hr width="100%"><br>
+<b><font face="Arial,Helvetica"><font color="#009900"><font size="+1">Natural
+Selection on multilocus traits: Quantitative genetics</font></font></font></b>
+<p><font face="Arial,Helvetica">We can extend single-locus&nbsp;<img src="Rarrow.gif" height="9" width="17">
+multilocus&nbsp;<img src="Rarrow.gif" height="9" width="17">
+quantitative models</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; p<sup>2</sup>:2pq:q<sup>2</sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+W<sub>0</sub>,W<sub>1</sub>,W<sub>2</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Mendel's Laws &amp; H-W Theorem</font>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Darrow.gif" height="17" width="9">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Darrow.gif" height="17" width="9">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Darrow.gif" height="17" width="9">
+<br>
+<font face="Arial,Helvetica"><font color="#ff0000">&nbsp;<b>normal
+distribution&nbsp;&nbsp;&nbsp;&nbsp; fitness
+function&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; heritability</b></font></font>
+</p>
+<p><font face="Arial,Helvetica"><span style="font-weight: bold;">Variation
+</span>can be quantified (see a <a href="6390_Primer_of_Statistics.html" style="font-weight: bold;">Primer
+of Statistics</a> for review)</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">mean&nbsp;<img src="Plus_or_minus.gif" height="12" width="12">
+standard deviation:&nbsp;</font></b></font><img src="Xbar.gif" height="12" width="12"><img src="Plus_or_minus.gif" height="12" width="12"><img src="Std_dev.gif" height="12" width="12">
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">variance:&nbsp;<img src="Std_dev.gif" height="12" width="12"></font></b><sup>2</sup></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">coefficient
+of variation </font></b>(<b><font color="#ff0000">CV</font></b>)&nbsp;
+=&nbsp; (<img src="Std_dev.gif" height="12" width="12">/<img src="Xbar.gif" height="12" width="12">)
+x 100</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-weight: bold;">CV
+</span>removes
+size effect when comparing variance:</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>Ex.: Suppose</i>&nbsp; <b>X</b> = leg
+length&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Y
+</b>=&nbsp; eye width</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>X</b> = 100&nbsp;<img src="Plus_or_minus.gif" height="12" width="12">
+1.0
+<i>versus
+</i><b>Y</b> = 1.0&nbsp;<img src="Plus_or_minus.gif" height="12" width="12">
+0.1</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>CV</b> of <b>X</b> = 1%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>CV</b>
+of
+<b>Y</b> = 10%</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Y</b> is more variable, though&nbsp;<img src="Std_dev.gif" height="12" width="12"><sub>X</sub>
+is larger</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Quantitative
+variation follows "<b><font color="#ff0000">normal distribution</font></b>"
+(<b>bell-curve</b>) <b>iff</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Multiple loci are involved</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Each locus has about the same effect</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Each locus acts independently</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<b>interaction variance </b>(see below) is minimal]</font>
+</p>
+<p><font face="Arial,Helvetica">Variation has two sources: <b>genetic</b>
+(<img src="Std_dev.gif" height="12" width="12"><sub>G</sub><sup>2</sup>)
+&amp;
+<b>environmental</b>
+(<img src="Std_dev.gif" height="12" width="12"><sub>E</sub><sup>2</sup>)
+<b>variance</b></font>
+</p>
+<p><font face="Arial,Helvetica"><b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+phenotypic variance&nbsp;<img src="Ident.gif" height="7" width="10">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Std_dev.gif" height="12" width="12"></font></b><sub>P</sub><sup>2</sup>&nbsp;
+=&nbsp;<img src="Std_dev.gif" height="12" width="12"><sub>G</sub><sup>2</sup>
++&nbsp;<img src="Std_dev.gif" height="12" width="12"><sub>E</sub><sup>2</sup>
++&nbsp;<img src="Std_dev.gif" height="12" width="12"><sub>GxE</sub><sup>2</sup></font>
+<br>
+<font face="Arial,Helvetica"><b><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+additive variance&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Ident.gif" height="7" width="10">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Std_dev.gif" height="12" width="12"></font></b><sub>A</sub><sup>2</sup>&nbsp;
+=&nbsp;<img src="Std_dev.gif" height="12" width="12"><sub>G</sub><sup>2</sup>
++&nbsp;<img src="Std_dev.gif" height="12" width="12"><sub>E</sub><sup>2&nbsp;</sup></font><img src="Ident.gif" height="7" width="10">
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">heritability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Ident.gif" height="7" width="10"></font><font color="#000000">&nbsp;</font><font color="#ff0000">&nbsp;&nbsp;
+h<sup>2</sup></font></b>&nbsp; =&nbsp;<img src="Std_dev.gif" height="12" width="12"><sub>G</sub><sup>2</sup>/<img src="Std_dev.gif" height="12" width="12"><sub>A</sub><sup>2</sup>&nbsp;
+=&nbsp;<img src="Std_dev.gif" height="12" width="12"><sub>G</sub><sup>2</sup>
+/ (<img src="Std_dev.gif" height="12" width="12"><sub>G</sub><sup>2</sup>
++&nbsp;<img src="Std_dev.gif" height="12" width="12"><sub>E</sub><sup>2</sup>)</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>"heritability in the narrow sense": </i>ignores&nbsp;<img src="Std_dev.gif" height="12" width="12"><sub>GxE</sub><sup>2&nbsp;<img src="Ident.gif" height="7" width="10"></sup><b><font color="#ff0000">
+interaction variance</font></b>:</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>Identical</i> genotypes produce <i>different</i> phenotypes in
+different
+environments.</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>Ex</i>.: same breed of cows produces different milk yield on
+different
+feed<br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; The <a style="font-weight: bold;" href="6390_Norm_of_Reaction.html">Norm of
+Reaction</a> describes the relationship between genetics and environemen<a style="font-weight: bold;" href="6390_Norm_of_Reaction.html">t</a><br>
+</font>
+</p>
+<p><font face="Arial,Helvetica"><b><font color="#ff0000">Artificial
+breeding</font></b>
+indicates that
+<b>organismal variation is highly heritable</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>ex</i>.:
+<b><a href="http://www.mun.ca/biology/scarr/Darwin%27s_Pigeons.htm">Darwin's
+pigeon breeding experiments</a></b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><a href="http://www.mun.ca/biology/scarr/Artificial_selection_on_Zea.htm">Artificial
+selection</a></b>
+on agricultural species</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Commercially useful traits can be improved by selective breeding</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.mun.ca/biology/scarr/IQ_Correlations.htm"><b>IQ</b>
+scores in <i>Homo</i></a>: <b>h<sup>2<img src="Approx.gif" height="7" width="10"></sup>
+0.7</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[But: IQ scores improve with education:&nbsp;<img src="Std_dev.gif" height="12" width="12"><sub>GxE</sub><sup>2</sup>
+is large]</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.mun.ca/biology/scarr/Geospiza_heritability.htm">Offsrping
+/ Midparent correlation</a></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+For many traits in many organisms:</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>CV</b>&nbsp;&nbsp; =&nbsp;&nbsp;&nbsp;&nbsp; 5 ~ 10 %</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>h<sup>2</sup></b>&nbsp;&nbsp;&nbsp; =&nbsp;&nbsp;&nbsp;&nbsp; 0.5 ~
+0.9</font>
+</p>
+<p><font face="Arial,Helvetica"><b><font color="#ff0000">Fitness
+function</font></b>
+expresses <b><a href="http://www.mun.ca/biology/scarr/2900_Modes_of_Selection.htm">relationship
+between
+genotype &amp; fitness</a></b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp; Function is a <i>continuous</i>
+variable, rather than <i>discrete</i> values for <b>W<sub>0</sub></b>,
+<b>W<sub>1</sub></b>,
+&amp; <b>W<sub>2</sub></b></font>
+</p>
+<p><font face="Arial,Helvetica">=&gt; <b>Most traits vary &amp; are
+heritable.</b></font>
+<br>
+<b><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp; Many traits
+<i>do</i>
+respond to 'artificial' selection.</font></b>
+<br>
+<b><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp; Many traits
+<i>should</i>
+respond to 'natural' selection.</font></b>
+</p>
+<p><font face="Arial,Helvetica">=&gt; <b>To demonstrate &amp; measure
+Natural
+Selection,</b></font>
+<br>
+<font face="Arial,Helvetica"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; we must
+show experimentally that <span style="font-style: italic;">heritable
+variation</span> has consequences for <span style="font-style: italic;">fitness</span></b><span style="font-style: italic;">&nbsp;
+</span>&lt;=</font>
+<br>
+</p>
+<br>
+<b style="text-decoration: line-through;"><font face="Arial,Helvetica"><font color="#009900"><font size="+1"></font></font></font></b>
+<hr width="100%"><b><font face="Arial,Helvetica"><font color="#00cc00"><font size="+1">Modes
+of Selection in natural populations</font></font></font></b>
+<p><font face="Arial,Helvetica"><font color="#008000"><font size="+1">&nbsp;</font></font><b><font color="#000000">Quantitative
+trait distribution can be described as a bell curve</font></b></font>
+<br>
+<b><font face="Arial,Helvetica"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+with a particular mean &amp; variance:</font></font></b>
+</p>
+<p><b><font face="Arial,Helvetica"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+What happens to this distribution under Selection?</font></font></b>
+<br>
+<font face="Arial,Helvetica"><font color="#000000"></font></font></p>
+<p><font face="Arial,Helvetica">(1) <b><font color="#ff0000">Directional
+Selection</font></b></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fitness
+function has constant slope:</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trait mean
+shifted towards favored phenotype</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+trait variance unaffected</font>
+</p>
+<p><img src="Directional_Selection_model.gif" height="146" width="545"></p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp; In
+single-locus
+models, the limit of selection is</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Elimination
+of variation</b> by fixation of favored allele</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp; In quantitative
+models,
+rate is limited by</font>
+<br>
+<font face="Arial,Helvetica"><font color="#cc0000">&nbsp;&nbsp; </font><font color="#ff0000"><b>substitutional
+genetic load</b>:</font></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+"cost" of replacing non-favored allele (<img src="Not_equal_to.gif" height="10" width="10">
+"intensity" of selection)</font>
+<br>
+</p>
+<hr width="100%"><b><font face="Arial,Helvetica"><font color="#cc0000">&nbsp;
+</font><font color="#ff0000">"Hard"
+selection</font></font></b>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Mortality is density-<b><u>in</u></b>dependent</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+In <b><font color="#cc33cc">Lab #1</font></b>:<b> N<sub>(after)</sub>
+&lt;
+N<sub>(before)</sub></b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Load</b> is cumulative&nbsp;<img src="Delta_UC.gif" height="10" width="11">(<b>N</b>)
+over time as <b>q<img src="Rarrow.gif" height="9" width="17"></b> 0</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Fitness is more or less absolute: less realistic, <b>easier to model</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Ex</i>.:
+<b><font color="#cc33cc">Exercise
+#2</font></b>, in a malarial environment, 50% die before reproduction.</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Population "after" is much smaller than "before",</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+but rebounds to <b>N</b> only at start of next generation</font>
+<p><b><font face="Arial,Helvetica"><font color="#cc0000">&nbsp;&nbsp; </font><font color="#ff0000">"Soft"
+selection</font></font></b>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Mortality is density-dependent</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+In 'real' stable populations:&nbsp;&nbsp;<b> N<sub>(after)<img src="Approx.gif" height="7" width="10"></sub>
+N<sub>(before)</sub></b></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Survivorship is proportional to fitness up to <b>K</b>: <b>more
+realistic</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Selection will affect <b>recruitment</b> to next generation</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>Ex</i>.: If the first-born dies of malaria, s/he will be replaced.</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+More births occur such that <b>N</b> is continually "topped up".</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Birth of succeeding offspring will maintain <b>N</b> near <b>K</b></font>
+<br>
+<br>
+</p>
+<hr style="width: 100%; height: 2px;">
+<p><font face="Arial,Helvetica">(2) <b><font color="#ff0000">Stabilizing
+Selection</font></b> (AKA <b>truncation</b> selection)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Fitness
+function has a "peak"</b></font>
+<br>
+<font face="Arial,Helvetica"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trait
+variance reduced</b> around (existing) optimal phenotype,</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+trait mean unaffected</font>
+<br>
+<img src="Stabilizing_Selection_model.gif" height="159" width="553"></p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Limits:
+elimination of&nbsp; variant alleles</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+or, '<span style="font-style: italic;">weeding out</span>' of
+disadvantageous variants</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+homozygosity at multiple loci:</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+difficult <b>iff</b> variance due to recessive alleles</font><br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<font color="#ff0000">i<b>nbreeding depression</b></font>: loss of
+'health'
+in inbred lines<br>
+</font></p>
+<p><font face="Arial,Helvetica"><span style="font-weight: bold;">Examples</span>:<br>
+&nbsp;&nbsp;&nbsp; Elimination of non-cryptic <a href="Biston_B&amp;W_on_trees.gif">pepper moths</a> (<span style="font-style: italic;">Biston</span>)<br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="Biston_dark_moth_on_light.gif">melanistic variants</a> are <span style="font-style: italic; font-weight: bold;">eliminated rapidly</span>
+in light-colored environments<br>
+&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; <a href="Biston_white_moth_on_dark.gif">peppered variants</a> are <span style="font-weight: bold; font-style: italic;">reduced slowly</span>
+in dark-colored environments<br>
+</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.mun.ca/biology/scarr/Fg24_10_Karn_&amp;_Penrose_1951.gif">Birthweight
+in <i>Homo</i></a> (Karn &amp; Penrose 1951)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Modal birthweight is optimum for survival</font>
+</p>
+<p><font face="Arial,Helvetica">(3) <b><font color="#ff0000">Diversifying
+Selection</font></b> (two kinds)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.mun.ca/biology/scarr/Fig26_20_rhino_horns.gif">There
+is a lot of variation</a>: does selection explain it?</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp; (A) <b><font color="#ff0000">Balancing
+Selection</font></b>:</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fitness
+function has more than one peak (multi-modal)</font>
+<br>
+<img src="Balancing_Selection_model.gif" style="text-decoration: line-through;" height="167" width="564"><br style="text-decoration: line-through;">
+<font style="text-decoration: line-through;" face="Arial,Helvetica"></font></p><hr width="100%"><b><font face="Arial,Helvetica">Maintaining
+heterozygosity
+(allelic &amp; genotypic variation) by selection</font></b>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">Overdominance</font></b>:
+<b>heterozygotes
+have superior fitness</b> at a locus</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+because different alleles are favoured in different environments</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examples:</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>sickle-cell
+hemoglobin</b> in <i>Homo </i>('Contradictory' selection)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Leucine Aminopeptidase (<b><i>LAP</i></b>) &amp; <a href="http://www.mun.ca/biology/scarr/Mytilus_cline.gif">salinity
+tolerance in <i>Mytilus </i>mussels</a></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">heterodimers</font></b>:</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+multimeric enzymes with polypeptides from different alleles</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+often show wider substrate specificity, kinetic properties (<b>V<sub>max</sub>
+&amp; K<sub>M</sub></b>)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.mun.ca/biology/scarr/Myoglobin.gif">myoglobin in
+diving mammals</a></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">Heterosis</font></b>:
+heterozygosity at multiple loci improves general fitness</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">Hybrid
+vigour</font></b>: <a href="http://www.mun.ca/biology/scarr/Hybrid_vigor.gif">crossbreeding
+of inbred lines</a>
+improves fitness in F<sub>1</sub></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">Marginal
+epistasis</font></b>: high '<b>H<sub>obs</sub></b>' is 'good for you'</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Ex</i>.:
+correlation between phenotype &amp; genotype: <a href="http://www.mun.ca/biology/scarr/Antler_points_in_Odocoileus.gif">antler
+points</a> in <i>Odocoileus </i>deer</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Ex</i>.:
+<a href="http://www.mun.ca/biology/scarr/Fluctuating_asymmetry.gif">fluctuating
+asymmetry</a>:
+<i>Acionyx
+</i><a href="http://www.mun.ca/biology/scarr/Acionyx_jubatus.gif">cheetahs</a>
+are lopsided</font>
+</p>
+<p><b><font face="Arial,Helvetica">Maintaining polymorphic phenotypic
+variation
+by selection</font></b>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">Sexual
+Selection</font></b> (Darwin 1871):</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+'exaggerated' phenotypes are disadvantageous somatically</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+but are favoured in competition for mates</font>
+</p>
+<p><b><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+secondary sex characteristics:</font></b>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Sexual dimorphism</b> in <a href="http://www.mun.ca/biology/scarr/Mallard_sexual_dimorphism.gif">mallards</a>,
+<a href="http://www.mun.ca/biology/scarr/Peacocks.gif">peafowl</a>,
+&amp; <a href="http://www.mun.ca/biology/scarr/Lions_mating.gif">lions</a></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.mun.ca/biology/scarr/Alces_alces_NA.gif">Antlers</a>
+in Cervidae are used in <a href="http://www.mun.ca/biology/scarr/Antler_combat.gif">male-male
+combat</a></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.mun.ca/biology/scarr/Peacock_display.jpg">Tail
+displays</a> in peacocks attract mates</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#ff0000">'<b>Runaway
+sexual selection</b>'</font>: the <b><a href="http://www.mun.ca/biology/scarr/Sexual_Selection_in_Homo.gif">Madonna
+/ Ozzy Osborne</a> Effec</b>t</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Females choose males on basis of some distinctive trait</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Offspring have exaggerated <i>trait</i> (males) &amp; <i>preference
+for
+trait</i> (females)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+=&gt; selection reinforces trait &amp; preference for trait
+simultaneously</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+New phenotype <a href="http://www.mun.ca/biology/scarr/Friends.jpg">spreads
+rapidly</a> in population</font>
+</p>
+<p><font face="Arial,Helvetica">(B) <b><font color="#ff0000">Disruptive
+selection</font></b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fitness
+function is a valley</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Trait variance increases (like balancing), <b>BUT</b> polymorphism is
+unstable</font>
+</p>
+<p><b><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#ff0080">[Try
+NatSel with: q = 0.5, N = 9999, W0 = 1.0, W1 = 0.7, W2 = 1.0]</font></font></b>
+</p>
+<p><img src="Disruptive_selection_model.gif" height="155" width="565"></p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Polymorphism
+can usually be maintained only temporarily:</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+One of the phenotypes will outcompete the other</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>unless</i>
+different phenotypes choose different niches (<b>Ludwig Effect</b>)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[and <i>then</i> this becomes <b>Balancing Selection</b>]</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Scutellar
+bristles in <i>Drosophila </i></b>(Thoday &amp; Gibson 1962)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Selection for <a href="http://www.mun.ca/biology/scarr/Fig26_21_artificial_selection.gif">'high
+#' <i>versus</i>
+'low #' lines</a></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+=&gt; <a href="http://www.mun.ca/biology/scarr/Thoday_&amp;_Gibson_experiment.gif">'pseudo-populations'</a>
+with
+reduced interfertility</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Might disruptive selection contribute to <b>speciation</b>?</font>
+<br>
+</p>
+<hr width="100%"><b><font face="Arial,Helvetica"><font color="#009900"><font size="+1">Natural
+Selection at other levels: Genic &amp; Kin Selection</font></font></font></b>
+<p><font face="Arial,Helvetica">Natural selection is ordinarily defined
+as</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp; differential survival
+&amp; reproduction of <b>individuals</b>:</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can
+selection
+operate on <b><i>other biological units</i></b>?</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can such
+selection 'oppose' individual selection?</font>
+</p>
+<p><b><font face="Arial,Helvetica"><font color="#ff0000">Genic
+(Gametic)
+Selection</font></font></b>
+<br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <img src="Ident.gif" height="7" width="10"><font face="Arial,Helvetica">
+Differential survival &amp; 'reproduction' of <i>alleles</i></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">Meiotic
+Drive</font></b>:
+<b><i>t</i></b>-alleles in <i>Mus</i></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><i>tt&nbsp;
+</i></b>is
+sterile (<b>W</b> = 0)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><i>Tt</i></b>&nbsp;
+is
+'tail-less' (<i>cf</i>. <a href="Plumbum-manx.jpg">Manx cats</a>)
+(<b>W</b>
+&lt; 1)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i><b>t</b> </i>alleles are preferentially segregated into gametes
+(80~90%)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+=&gt; f(<b><i>t</i></b>) is high in natural populations (40~70%)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+even though it is deleterious to individuals</font>
+</p>
+<p><b><font face="Arial,Helvetica"><font color="#ff0000">Kin
+(Interdemic)
+Selection</font></font></b>
+<br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <img src="Ident.gif" height="7" width="10"><font face="Arial,Helvetica">
+Differential survival &amp; reproduction of <i>related (kin) groups</i>
+(families)</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Related
+individuals share alleles</b>: <b><font color="#ff0000">r =
+coefficient
+of relationship </font></b><font color="#000000">[<a href="3900_Relatedness_in_pedigrees.htm">see
+derivation</a>]</font></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+offspring &amp; parents are related by <b>r</b> = <b>0.50&nbsp;&nbsp;
+</b>[They
+share <i>half</i> their alleles]</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+full-sibs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+"&nbsp;&nbsp;&nbsp;
+"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>r</b> = <b>0.50</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+half-sibs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+"&nbsp;&nbsp;&nbsp;
+"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>r</b> = <b>0.25</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+first-cousins&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+"&nbsp;&nbsp;&nbsp;
+"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>r</b> = <b>0.125</b></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;<b> <font color="#ff0000">Inclusive
+fitness</font></b> (<b><font color="#ff0000">W<i><sub>i</sub></i></font></b>)
+of phenotype for individual <i>i</i></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+= <i>direct</i> fitness of <i>i </i>+ <i>indirect</i> fitness of
+relatives
+<i>j,k,l,...</i></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">W<sub>i</sub>
+= a<sub>i</sub> +&nbsp;<img src="Summation.gif" height="14" width="14">(r<sub>ij</sub>)(b<sub>ij</sub>)</font></b><font color="#cc0000">&nbsp;</font>&nbsp;
+summed over all relatives <i>j,k,l,...</i></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+where: <b>a<sub>i</sub></b>&nbsp;&nbsp;&nbsp; = fitness of <i>i </i>due
+to own phenotype</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+<b>b<sub>ij</sub></b>&nbsp; = fitness of <i>j </i>due to <i>i</i>'s
+phenotype</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
+<b>r<sub>ij</sub></b>&nbsp;&nbsp; = <b>coefficient of relationship</b>
+of <i>i </i>&amp; <i>j</i></font>
+</p>
+<p></p>
+<hr width="100%"><font face="Arial,Helvetica"><b><i>Example</i></b>:&nbsp;<b>
+What is the fitness value of an alarm call</b>?</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When a
+predator approaches, should<b><i> i </i></b>warn<b><i> j</i></b> , or
+keep
+silent?</font>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+If <b><i>i </i></b>&amp;<b><i> j</i></b> are unrelated</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+warn:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; W<sub>individual</sub>
+= 0.0 + (0.0)(1.0) = <b>0.0</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+don't warn: W<sub>individual</sub> = 1.0 + (0.0)(0.0) = <b>1.0</b></font>
+<br>
+<b><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+=&gt; Such behaviors should <i>not</i> evolve among unrelated
+individuals</font></b>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+What is the fitness value in a kin group?</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+W<sub>brothers&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </sub>= 0.0 +
+[(0.5)(1.0)
++ (0.5)(1.0)] = <b>1.0</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+W<sub>cousins&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </sub>= 0.0 +
+[8][(0.125)(1.0)]
+= <b>1.0</b></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#0000ff">J.B.S.
+Haldane</font> (1892-1964):</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+"<b><i><font color="#ff0000">I would lay down my life for two brothers
+or eight cousins</font></i></b>."</font>
+<br>
+</p>
+<b><font face="Arial,Helvetica"></font></b>
+<hr style="width: 100%; height: 2px;"><b><font face="Arial,Helvetica"><font color="#008000"><font size="+2">Mutation, Migration, Inbreeding, &amp;
+Genetic Drift in natural populations</font></font></font></b><font face="Arial,Helvetica"><br>
+<br>
+</font><font face="Arial,Helvetica">How do <b><a href="http://www.mun.ca/biology/scarr/2900_Moderating_Selection.htm#mutation">mutation</a></b>,
+<b><a href="http://www.mun.ca/biology/scarr/2900_Moderating_Selection.htm#migration">migration</a></b>,
+<b><a href="http://www.mun.ca/biology/scarr/2900_Moderating_Selection.htm#inbreeding">inbreeding</a></b>,
+and <b><a href="http://www.mun.ca/biology/scarr/2900_Moderating_Selection.htm#drift">genetic
+drift</a></b> interact with selection?</font>
+<pre></pre>
+<font face="Arial,Helvetica">Do they
+maintain or reduce variation?</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can they
+maintain variation at a high level?</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is
+their significance in <b>population</b> (short-term) &amp; <b>evolutionary</b>
+(long-term) biology?</font>
+<br>
+<br>
+<a name="mutation"></a><font face="Arial,Helvetica"><font size="+1">(1)
+<b><font color="#ff0000">Mutation
+/ selection equilibrium</font></b></font></font>
+<p><b><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Deleterious
+alleles are maintained by recurrent mutation.</font></b>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A <font color="#ff0000">stable
+equilibrium<img src="Qhat_red.gif" height="20" width="20"></font>(where&nbsp;<img src="Delta_UC.gif" height="10" width="11">q
+= 0) is reached</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+when the rate of <i>replacement</i> (by mutation)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+balances the rate of <i>removal</i> (by selection).</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#ff0000"><font size="+1">&micro;
+</font></font></b>=
+frequency of new mutant alleles per locus per generation</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.mun.ca/biology/scarr/Mutation_rates.gif">typical <b><font size="+1">&micro; </font></b>=
+10<sup><font size="+1">-6</font></sup></a>: 1 in 1,000,000 gametes has
+new
+mutant</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><sub><font color="#ff0000">_____</font></sub></b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+then&nbsp;<img src="Qhat_red.gif" height="20" width="20"><b><font color="#ff0000"><font size="+1">=<img src="Sqrt.gif" height="15" width="12">(&micro;
+/ s)</font></font></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [see <a href="http://www.mun.ca/biology/scarr/2900_Mutation_derivation.htm">derivation</a>]</font>
+</p>
+<p><font face="Arial,Helvetica"><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex</i>.: For a recessive lethal allele (<b>s&nbsp; </b>= 1) with a
+mutation
+rate of <b>&micro;</b> = 10<sup><font size="+1">-6</font></sup></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+then&nbsp;<img src="Qhat.gif" height="20" width="20"> =&nbsp; <b>&ucirc;</b>
+=&nbsp;<img src="Sqrt.gif" height="15" width="12">(10<sup><font size="+1">-6</font></sup>
+/ 1.0) = <b>0.001</b></font>
+<br>
+&nbsp;
+</p>
+<p><b><font face="Arial,Helvetica"><font color="#ff0000">mutational
+genetic
+load</font></font></b>
+<br>
+<font face="Arial,Helvetica"><font color="#000000">&nbsp;&nbsp;&nbsp;
+Lowering selection against alleles increases their frequency.</font></font>
+<br>
+<font face="Arial,Helvetica"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Medical intervention has increased the frequency </font>of heritable
+conditions</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+in <i>Homo (e.g., </i>diabetes, myopia)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp; <b><font color="#ff0000">Eugenics</font></b>:
+modification of human condition by selective breeding</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+'<b>positive eugenics</b>': encouraging people with "good genes" to
+breed</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+'<b>negative eugenics</b>': discouraging people with 'bad genes'' from
+breeding</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>e.g</i>., immigration control, compulsory sterilization</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[See: <font color="#0000ff">S. J. Gould</font>, "<font color="#8000ff">The
+Mismeasure of Man</font>"]</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Is
+eugenics effective</b> at reducing frequency of deleterious alleles?</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+What proportion of 'deleterious alleles' are found in heterozygous
+carriers?</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><font size="+1">(2pq)
+/ 2q<sup>2</sup> = p/q&nbsp;<img src="Approx.gif" height="7" width="10">
+1/q&nbsp;&nbsp;&nbsp;
+</font></b>(if&nbsp; q &lt;&lt; 1)</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+if <b>s = 1</b> as above, ratio is <b>1000 / 1</b> : most of
+variation
+is in heterozygotes,</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>not</i> subject to selection</font>
+</p>
+<p></p>
+<hr width="100%"><a name="migration"></a><font face="Arial,Helvetica"><font size="+1">(2)
+<b><font color="#ff0000">Migration
+/ selection equilibrium</font></b></font></font>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>
+Directional
+selection is balanced by influx of 'immigrant' alleles;</b></font>
+<br>
+<b><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+a stable 'equilibrium' can be reached iff migration rate constant.</font></b>
+</p>
+<p><font face="Arial,Helvetica">Consider an island adjacent to a
+mainland,
+with <a href="http://www.mun.ca/biology/scarr/Migration_model.htm">unidirectional
+migration to the island</a>.</font>
+<br>
+<font face="Arial,Helvetica">The fitness values of the <b>AA</b>, <b>AB</b>,
+and <b>BB</b> genotypes differ in the two environments,</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; so that
+the allele frequencies differ between the mainland (<b>q<sub>m</sub></b>)
+and the island (<b>q<sub>i</sub></b>).</font>
+<br>
+&nbsp;
+<table border="1" height="100" width="300">
+  <tbody>
+    <tr align="center" bgcolor="#99ff99">
+      <td bgcolor="#ffffff"><br>
+      </td>
+      <td><b><font face="Arial,Helvetica">AA</font></b></td>
+      <td><b><font face="Arial,Helvetica">AB</font></b></td>
+      <td><b><font face="Arial,Helvetica">BB</font></b></td>
+      <td bgcolor="#ffffff"><br>
+      </td>
+    </tr>
+    <tr align="center" bgcolor="#ffcccc">
+      <td bgcolor="#ffffff">
+      <center><font face="Arial,Helvetica">&nbsp;</font></center>
+      </td>
+      <td><b><font face="Arial,Helvetica"><font color="#000000">W<sub>0</sub></font></font></b></td>
+      <td><b><font face="Arial,Helvetica"><font color="#000000">W<sub>1</sub></font></font></b></td>
+      <td><b><font face="Arial,Helvetica"><font color="#000000">W<sub>2</sub></font></font></b></td>
+      <td><b><font face="Arial,Helvetica"><font color="#000000">q</font></font></b></td>
+    </tr>
+    <tr align="center">
+      <td><b><font face="Arial,Helvetica">Island</font></b></td>
+      <td><font face="Arial,Helvetica">1</font></td>
+      <td><font face="Arial,Helvetica">1-<b>t</b></font></td>
+      <td><font face="Arial,Helvetica">1-2<b>t</b></font></td>
+      <td><b><font face="Arial,Helvetica">q<sub>i&nbsp;<img src="Approx.gif" height="7" width="10"></sub>
+0</font></b></td>
+    </tr>
+    <tr align="center">
+      <td><b><font face="Arial,Helvetica">Mainland</font></b></td>
+      <td><font face="Arial,Helvetica">0</font></td>
+      <td><font face="Arial,Helvetica">0</font></td>
+      <td><font face="Arial,Helvetica">1</font></td>
+      <td><b><font face="Arial,Helvetica">q<sub>m&nbsp;<img src="Approx.gif" height="7" width="10"></sub>
+1</font></b></td>
+    </tr>
+  </tbody>
+</table>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;<b>B</b> has high fitness on
+mainland,
+and low fitness on island.</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp; [For this model only,
+allele <b>A </b>is <i>semi-dominant</i> to allele <b>B</b>,</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+so we use <b>t</b> for the selection coefficient to avoid confusion]</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><font color="#ff0000"><font size="+1">m
+</font></font></b>=
+freq. of new migrants (with <b>q<sub><font size="+1">m</font></sub></b>)
+as fraction of residents (with <b>q<sub><font size="+1">i</font></sub></b>)</font>
+<br>
+<b><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if m
+&lt;&lt; t&nbsp;&nbsp;&nbsp; <font color="#ff0000"><font size="+1">q<sub>i</sub>
+= (m / t)(q<sub>m</sub>)</font></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></b><font face="Arial,Helvetica">
+[see <a href="http://www.mun.ca/biology/scarr/2900_Migration_derivation.htm">derivation</a>]</font>
+</p>
+<p><b><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#ff0000">Gene
+flow</font> can hinder optimal adaptation of a population to local
+conditions.</font></b>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp; <i>Ex</i>: <a href="http://www.mun.ca/biology/scarr/Natrix_banding.htm">Water
+snakes</a> (<i>Natrix sipedon</i>) live on <a href="http://www.mun.ca/biology/scarr/Natrix_map.htm">islands
+in Lake Erie</a> (<font color="#3366ff">Camin &amp; Ehrlich 1958</font>)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Island
+<i>Natrix </i>mostly <b>unbanded</b>; on adjacent mainland, all
+<b>banded</b>.</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Banded snakes are non-cryptic on limestone islands, eaten by gulls</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Suppose&nbsp;&nbsp; <b>A</b> = unbanded&nbsp;&nbsp;&nbsp;&nbsp; <b>B</b>
+= banded&nbsp;&nbsp; [<b>AB</b> are intermediate]</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Let&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>q<sub>m</sub></b> =
+1.0&nbsp;&nbsp;&nbsp;&nbsp;
+["<b>B</b>" allele is fixed on mainland]</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>m</b>&nbsp;&nbsp; = 0.05&nbsp;&nbsp; [5% of island snakes are new
+migrants]</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>t</b>&nbsp;&nbsp;&nbsp; = 0.5&nbsp;&nbsp;&nbsp;&nbsp; so&nbsp; <b>W<sub>2</sub></b>
+= 0&nbsp; ["<b>B</b>anded" trait is lethal on island]</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+then&nbsp;&nbsp;&nbsp; <b>q<sub>i</sub></b><sub> </sub>=
+(0.05/0.5)(1)
+= <b>0.05</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+and&nbsp;&nbsp;&nbsp;&nbsp; <b>H<sub>exp</sub></b> = <b>2pq</b> =
+(2)(0.95)(0.05)&nbsp;<img src="Approx.gif" height="7" width="10"><b>10%</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>i.e</i>, about 10% of snakes show intermediate banding, despite
+strong
+selection</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+=&gt; Recurrent migration can maintain a disadvantageous trait at <a href="http://www.mun.ca/biology/scarr/Natrix_variation.htm">high
+frequency</a>.</b></font>
+<br>
+</p>
+<hr width="100%"><a name="inbreeding"></a><font face="Arial,Helvetica">(<b>3</b>)
+<b><font color="#ff0000"><font size="+1">Inbreeding
+/ selection</font></font></b></font>
+<p style="font-family: arial;"><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><font color="#ff0000">Inbreeding</font></b>
+is the mating of (close) relatives</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+or, mating of individuals with at least one common ancestor</font> <br>
+</p>
+<p style="font-family: arial;">&nbsp;<font face="Arial,Helvetica"><font color="#000000">&nbsp;&nbsp;&nbsp;
+</font><b><font color="#ff0000">F </font></b><font color="#000000">(</font><b><font color="#ff0000">Inbreeding
+Coefficient</font></b><font color="#000000">) = prob. of "</font><b><font color="#ff0000">identity
+by descent</font></b><font color="#000000">":</font></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="font-weight: bold;">Expectation </span>that two alleles
+in an individual are<br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; exact genetic copies of an allele in
+the
+common ancestor</font> <br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; or, <span style="font-weight: bold;">proportion of population</span> with two
+alleles identical by descent</p>
+<p>&nbsp;&nbsp;&nbsp; <font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+This is determined by the <b><font color="#cc0000"><a href="http://www.mun.ca/biology/scarr/2900_Inbreeding_in_pedigrees.htm">consanguinity
+(relatedness)</a></font></b><font color="#ff0000"> </font>of parents.</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>
+Inbreeding
+<i>reduces</i>
+H<sub>exp</sub>&nbsp; by a proportion F</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(&amp; increases the proportion of homozygotes). <font color="#000000">[see
+<a href="http://www.mun.ca/biology/scarr/2900_Inbreeding_derivation.htm">derivation</a>]</font></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp; &nbsp;
+<b><font color="#ff0000">f(AB) = 2pq (1-F)</font></b></font>
+<br>
+<font face="Arial,Helvetica"><font color="#ff0000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>
+f(BB) = q<sup><font size="+1">2</font></sup> + Fpq</b></font></font>
+<br>
+<b><font face="Arial,Helvetica"><font color="#ff0000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+f(AA) = p<sup><font size="+1">2</font></sup> + Fpq</font></font></b>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Inbreeding
+affects <i>genotype</i> proportions,</b></font>
+<br>
+<b><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+inbreeding does <i>not</i> affect allele frequencies.</font></b>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Inbreeding
+increases the frequency of individuals</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+with deleterious recessive genetic diseases by <b>F/q </b>[see <a href="http://www.mun.ca/biology/scarr/2900_Inbreeding_&amp;_Health.htm">derivation</a>]</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>Ex</i>.: if <b>q = 10<sup><font size="+1">-3</font></sup></b> and <b>F
+= 0.10</b> , <b>F/q = 100</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+=&gt; 100-fold increase in f(<b>BB</b>) births</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>
+Inbreeding
+coefficient</b> of a population can be estimated from experimental data:</font>
+</p>
+<p><b><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<font color="#ff0000">F =&nbsp; ( 2pq - H<sub>obs</sub> ) / 2pq</font>&nbsp;</font></b><font face="Arial,Helvetica">
+[see <a href="http://www.mun.ca/biology/scarr/2900_Inbreeding_experimental.htm">derivation</a>]</font>
+</p>
+<p></p>
+<font face="Arial,Helvetica"> <i>Ex.</i>:
+Selander
+(1970) studied structure of <i>Mus </i>house mice living in chicken
+sheds
+in Texas</font>
+<br>
+<div style="text-align: left;">
+&nbsp;
+<center>
+<table style="width: 300px;" border="1">
+  <caption>
+  <center><font face="Arial,Helvetica">Variation at <b><i>Est</i>-4</b>
+locus</font></center>
+  </caption> <tbody>
+    <tr bgcolor="#99ff99">
+      <td>&nbsp;</td>
+      <td>
+      <center><b><font face="Arial,Helvetica">obs</font></b></center>
+      </td>
+      <td>
+      <center><b><font face="Arial,Helvetica">exp</font></b></center>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <center><b><font face="Arial,Helvetica">AA</font></b></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">0.226</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">0.181</font></center>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div style="text-align: left;">
+      <center><b><font face="Arial,Helvetica">AB</font></b></center>
+      </div>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">0.400</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">0.489</font></center>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <center><b><font face="Arial,Helvetica">BB</font></b></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">0.374</font></center>
+      </td>
+      <td>
+      <center><font face="Arial,Helvetica">0.329</font></center>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+</div>
+<div style="text-align: left;"><font face="Arial,Helvetica">since <b>p</b>
+= 0.226 + (1/2)(0.400)
+=
+0.426</font>
+<br>
+</div>
+<p>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp; &amp;&nbsp;&nbsp; <b>q</b>
+= 0.374 + (1/2)(0.400) = 0.574</font>
+</p>
+<p><font face="Arial,Helvetica">Then <b>F</b> = (0.489 - 0.400) /
+(0.489)
+= <b>0.182</b></font>
+<br>
+<font face="Arial,Helvetica"><b>&nbsp;&nbsp;&nbsp; </b>which is
+intermediate
+between <b>F</b><sub>full-sib</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+0.250</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&amp;&nbsp; <b>F</b><sub>1st-cousin</sub> = 0.125</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp; =&gt; <b>Mice live
+in small
+family groups with close inbreeding</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[This is typical for small mammals]</font>
+</p>
+<p></p>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Paradoxes
+of inbreeding</b>:</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Inbreeding is usually thought of as "harmful":</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+inbreeding increase the probability that deleterious recessive alleles</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+will come together in homozygous combinations</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+"Harmful" alleles are reinforced</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><font color="#ff0000">Inbreeding depression</font></b>: a loss of
+fitness
+in the short-term due to</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+difficulty in conception, increased spontaneous abortion, pre- &amp;
+peri-natal
+deaths</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>Ex</i>.:
+<a href="Inbreeding_Depression_in_Humans.htm" style="font-weight: bold;">First-cousin
+marriages</a> in <i>Homo</i></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Two-fold increase in spontaneous abortion &amp; infant mortality</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Every human carries 3 ~ 4 "lethal equivalents"</font>
+<br>
+<br>
+<b><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<font color="#ff0080">Demonsration #2: Selection &amp; inbreeding in
+small populations</font></font></b>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+However, in combination with natural selection, inbreeding can be
+"advantageous":</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><i>increases rate of evolution</i></b> in the long-term (<b>q<img src="Rarrow.gif" height="9" width="17"></b>
+0 more quickly)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+deleterious alleles are eliminated more quickly.</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><i>increases phenotypic variance</i></b> (homozygotes are more
+common).</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+advantageous alleles are also reinforced in homozygous form</font>
+<br>
+</p>
+<hr width="100%"><a name="drift"></a><font face="Arial,Helvetica">(4) <b><font color="#ff0000"><font size="+1">Genetic
+Drift / selection</font></font></b></font>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#ff0000"><b>Genetic
+Drift</b><span style="color: rgb(0, 0, 0);"> is</span><span style="color: rgb(0, 0, 0);"> </span><b>stochastic&nbsp;<img src="Delta_UC.gif" height="10" width="11">q
+</b></font>[unpredictable,
+random]</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(<i>cf</i>. <b><font color="#ff0000">deterministic&nbsp;<img src="Delta_UC.gif" height="10" width="11">q
+</font></b>[predictable,
+due to selection, mutation, migration)</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#0000ff">Sewall
+Wright</font> (1889 - 1989): "<font color="#8000ff">Evolution and the
+Genetics
+of Populations</font>"</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Stochastic&nbsp;<img src="Delta_UC.gif" height="10" width="11">q
+is greater than deterministic&nbsp;<img src="Delta_UC.gif" height="10" width="11">q
+in small populations:</b></font>
+<br>
+<b><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+allele frequencies drift more in 'small' than 'large' populations.</font></b>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Drift is
+most noticeable if <b>s&nbsp;<img src="Approx.gif" height="7" width="10">
+0</b>,
+and/or <b>N</b> small (&lt; 10)&nbsp; [<b>N&nbsp;<img src="Approx.gif" height="7" width="10">
+1/s</b>]</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>q</b>
+drifts <i>between generations</i> (<a href="Drift_among_Populations.htm">variation <i>decreases within</i>
+populations
+over time</a>) [<b><blink><font color="#ff0000">DEMO</font></blink></b>];</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+eventually, allele is <i>lost</i> (<b>q = 0</b>) or <i>fixed</i> (<b>q
+= 1</b>) (50:50 odds)</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>Ex</i>:&nbsp;</font>
+<span style="font-family: arial; font-weight: bold; color: rgb(204, 51, 204);">[Demonstration
+#3]</span><br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Try: <b>q = 0.5, W0 = W1 = W2 = 1.0, and N = 10, 50, 200, 1000;<br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; repeat 10 trials each, note q at
+endpoint</b>]</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>q</b>
+drifts <i>among populations</i> (<a href="Drift_over_Time.htm">variation
+<i>increases
+among</i> populations over time</a>);</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+eventually, half lose the allele, half fix it.</font>
+</p>
+<p><b><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**=&gt;
+Variation is 'fixed' or 'lost'&nbsp; &amp;&nbsp; populations will
+diverge
+by chance &lt;=**</font></b>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Evolutionary
+significance</b>:</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+"<b style="font-style: italic;">Gambler's Dilemma</b>" : if you play
+long enough, you win or lose
+everything.</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+All populations are <b>finite</b>: many are <i>very</i> small,
+somewhere
+or sometime.</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Evolution occurs on<b> vast time scales:</b> "<i>one in a million chance</i>"
+is a certainty.</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Reproductive success of individuals in <b>variable: </b><i>"The race
+is
+not to the swift ..."</i></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>What
+happens in the <i>really</i> long run?</b></font>
+</p>
+<p><b><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#ff0000">Effective
+Population Size (N<sub>e</sub>)</font></font></b>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+= size of an '<span style="font-style: italic;">ideal</span>'
+population with same genetic variation (measured
+as
+<b>H</b>)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+as the observed 'real' population.</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+= The '<span style="font-style: italic;">real</span>' population
+behaves evolutionarily like one of size <b><font color="#000000">N<sub>e</sub></font></b>
+:</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="font-style: italic;">e.g.,</span> the population will
+drift like one of size <b><font color="#000000">N<sub>e</sub></font></b></font>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="font-family: arial;">loosely</span>,&nbsp;<font face="Arial,Helvetica"><font color="#000000"><b>
+the
+number of breeding individuals</b> in the population</font></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp; Consider <b>three
+special
+cases</b> where <b>N<sub>e</sub></b> &lt; or &lt;&lt; <b>N<sub>obs</sub></b>&nbsp;
+[the 'count' of individuals]:</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1) <b><font color="#000000">Unequal
+sex ratio</font></b></font>
+</p>
+<p><b><font face="Arial,Helvetica"><font size="+1"><font color="#cc0000">&nbsp;&nbsp;&nbsp;&nbsp;
+</font><font color="#ff0000">Ne = (4)(N<sub>m</sub>)(N<sub>f</sub>) /
+(N<sub>m</sub>&nbsp; + N<sub>f</sub>)</font></font></font></b>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+where <b>N<sub>m</sub></b> &amp; <b>N<sub>f</sub></b> are numbers of
+breeding
+males &amp; females, respectively.</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+"<b>harem</b>" structures in mammals (<b>N<sub>m</sub> &lt;&lt; N<sub>f</sub></b>)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>Ex</i>.: if <b>N<sub>m</sub>&nbsp; = 1 "alpha male"</b> and&nbsp; <b>N<sub>f</sub></b>
+= 200</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+then&nbsp;&nbsp;&nbsp;&nbsp; <b>N<sub>e</sub></b> = (4)(1)(200)/(1 +
+200)&nbsp;<img src="Approx.gif" height="7" width="10"><b><font color="#ff0000"> 4</font></b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+A single male <a href="Mirounga_angustirostris.htm">elephant
+seal</a> (<i>Mirounga</i>)
+does most of the <a href="Mirounga_variance.htm">breeding</a></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Elephant seals have very low genetic variation</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><font color="#000000">eusocial</font></b><font color="#ff0000"> </font><font color="#000000">(colonial)
+</font>insects
+like ant &amp;<i> </i>bees (<b>N<sub>f</sub> &lt;&lt; N<sub>m</sub></b>)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>Ex</i>.: if <b>N<sub>f </sub>= 1 "queen"</b> and&nbsp; <b>N<sub>m</sub></b>=
+1,000 drones</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+then&nbsp;&nbsp;&nbsp;&nbsp; <b>N<sub>e</sub></b> = (4)(1)(1,000)/(1 +
+1,000)&nbsp;<img src="Approx.gif" height="7" width="10"> <b><font color="#ff0000">4</font></b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Hives are like single small families</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2) <b>Unequal
+reproductive success</b></font>
+<br>
+<font face="Arial,Helvetica"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</b>In stable population,<b> N<sub>offspring/parent
+</sub>= 1</b></font>
+<br>
+<font face="Arial,Helvetica"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp; &nbsp;
+</b>"Random" reproduction follows
+<a href="Poisson_distributions.htm"><b><font color="#ff0000">Poisson
+distribution</font></b></a>
+(<b>N = 1&nbsp;<img src="Plus_or_minus.gif" height="12" width="12"> 1</b>)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(some parents have 0, most have 1, some have 2, a few have 3 or more)</font>
+<br>
+&nbsp;
+</p>
+<center>
+<table style="width: 400px; height: 150px;" border="1">
+  <tbody>
+    <tr align="center" bgcolor="#99ff99">
+      <td><b><font face="Arial,Helvetica">X</font></b></td>
+      <td><img src="Std_dev.gif" height="12" width="12"></td>
+      <td><b><font face="Arial,Helvetica">N<sub>e</sub> =</font></b></td>
+      <td><b><font face="Arial,Helvetica">Reproductive strategy</font></b></td>
+    </tr>
+    <tr align="center">
+      <td><font face="Arial,Helvetica">1</font></td>
+      <td><font face="Arial,Helvetica">1</font></td>
+      <td><b><font face="Arial,Helvetica">N<sub>obs</sub></font></b></td>
+      <td><font face="Arial,Helvetica">Breeding success is random</font></td>
+    </tr>
+    <tr align="center">
+      <td style="text-align: left;"><font face="Arial,Helvetica">1</font></td>
+      <td><font face="Arial,Helvetica">0</font></td>
+      <td><font face="Arial,Helvetica">2 x <b>N<sub>obs</sub></b></font></td>
+      <td><font face="Arial,Helvetica">A zoo-breeding strategy</font></td>
+    </tr>
+    <tr align="center">
+      <td><font face="Arial,Helvetica">1</font></td>
+      <td><font face="Arial,Helvetica">&gt;1</font></td>
+      <td><font face="Arial,Helvetica">&lt; <b>N<sub>obs</sub></b></font></td>
+      <td><font face="Arial,Helvetica"><b>K</b>-strategy, as in <i>Homo</i></font></td>
+    </tr>
+    <tr align="center">
+      <td><font face="Arial,Helvetica">1</font></td>
+      <td><font face="Arial,Helvetica">&gt;&gt;1</font></td>
+      <td><font face="Arial,Helvetica">&lt;&lt; <b>N<sub>obs</sub></b></font></td>
+      <td><font face="Arial,Helvetica"><b><i>r</i></b>-strategy, as in <i>Gadus</i></font></td>
+    </tr>
+  </tbody>
+</table>
+</center>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (3) <b>Population
+size variation over time</b></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>N<sub>e</sub></b> = <b><font color="#ff0000">harmonic mean</font></b><font color="#000000">
+of <b>N</b></font>&nbsp; = inverse of arithmetic mean of inverses</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[a harmonic mean is much closer to lowest value in series]</font></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><font color="#ff0000">n</font></b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><font color="#ff0000">N<sub>e</sub> = n /&nbsp; [&nbsp;<img src="Summation.gif" height="14" width="14">(1/N<sub>i</sub>)
+]</font></b>&nbsp; where <b>N<sub>i</sub></b> = pop size in<b><i> i </i></b>th
+generation</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><font color="#ff0000">i=1</font></b></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Populations
+exist in changing environments</b>:</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Populations are unlikely to be stable over very long periods of time</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+10<sup>-2</sup> forest fire / 10<sup>-3</sup> flood / 10<sup>-4</sup>
+ice
+age</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>Ex</i>.: if typical <b>N</b> = 1,000,000&nbsp; &amp; every 100th
+generation
+<b>N</b>
+= 10 :</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+then&nbsp; <b>N<sub>e</sub></b> = (100) / [(99)(10<sup>-6</sup>) +
+(1)(1/10)]&nbsp;<img src="Approx.gif" height="7" width="10">
+100 / 0.1 = <b>1,000</b></font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#ff0000"><b>Founder
+Effect &amp; Bottlenecks</b>:</font></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Populations are started by (very) small number of individuals,</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+or undergo dramatic reduction in size.</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>Ex</i>.: Origin of <b>Newfoundland moose (<i>Alces</i>)</b>:</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2 bulls + 2 cows at Howley in 1904</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[1 bull + 1 cow at Gander in 1878 didn't succeed].</font>
+</p>
+<p><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Population
+cycles</b>: <a href="Hudson_Bay_population_cycles.htm">Hudson
+Bay Co. trapping
+records</a> (Elton 1925)</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Population densities of lynx, hare, muskrat cycle over several orders
+of
+magnitude</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Lynx cycle appears to "chase" hare cycle</font>
+</p>
+<p><b><font face="Arial,Helvetica"><font size="+1">The effect of drift
+on
+genetic variation in populations</font></font></b>
+</p>
+<p><font face="Arial,Helvetica"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Larger populations are more variable </b>(higher <b>H</b>)<b> than
+smaller</b></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+if <b>s</b> = 0:&nbsp; <b>H</b> reflects balance between loss of
+alleles
+by drift</font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+and replacement by mutation</font>
+</p>
+<p><font face="Arial,Helvetica"><font size="+1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><font color="#ff0000">H = (4N<sub>e</sub>&micro;) / (4N<sub>e</sub>&micro;
++ 1)</font></b></font></font>
+</p>
+<p><font face="Arial,Helvetica"><font color="#000000">&nbsp;&nbsp; <i>Ex</i>.:
+if <b><font size="+1">&micro;</font></b>= 10<sup>-7</sup>&nbsp;&nbsp;
+&amp;
+<b>N<sub>e</sub></b>
+= 10<sup>6</sup>&nbsp;&nbsp; then&nbsp;&nbsp;<b> N<sub>e</sub><font size="+1">&micro;
+= 1</font></b><font size="+1">&nbsp;&nbsp; and<b> </b></font><b>H<sub>exp</sub></b>
+= (0.4)/(0.4 + 1) = 0.29</font></font>
+</p>
+<p><font face="Arial,Helvetica"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+But
+<a href="Heterozygosity_observed.htm">typical
+<b>H</b></a><b><sub>obs <img src="Approx_less_than.gif" height="13" width="11"></sub></b>
+0.20&nbsp; which suggests&nbsp; <b>N<sub>e <img src="Approx_less_than.gif" height="13" width="11"></sub>
+10<sup>5</sup></b></font></font>
+<br>
+<font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Most natural populations have a <a href="Neutral_Equation.htm">much
+smaller
+effective size</a> than their typically observed size.</font>
+</p><p><b><font face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Stochastic effects may be as or more important than deterministic
+processes
+in evolution.</font></b>
+<br>
+</p>
+<hr width="100%"><font face="GoudyOlSt BT"><font size="+1">Text
+material
+&copy; 2004 by <a href="mailto:scarr@mun.ca">Steven M. Carr</a></font></font>
+<hr width="100%"><a href="http://www.mun.ca/biology/scarr/6390_Population_Genetics.html"><img src="home.gif" style="border: 0px solid ; height: 29px; width: 100px;" title="" alt="Med7900"></a>
+</body></html>

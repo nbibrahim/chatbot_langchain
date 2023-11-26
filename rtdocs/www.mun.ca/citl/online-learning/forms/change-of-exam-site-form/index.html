@@ -1,0 +1,132 @@
+<!DOCTYPE html><html>
+
+<head>
+    <title>Log In | MUN Login</title>
+    <meta charset="UTF-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><!-- Bootstrap 4.6 CSS --><link rel="stylesheet" type="text/css" href="https://clf.mun.ca/bootstrap/4.6.0/dist/css/bootstrap.min.css"><!-- Font Awesome 5.15.3 --><link rel="stylesheet" type="text/css" href="https://clf.mun.ca/font-awesome/5.15.3/css/all.min.css"><!-- Custom Default CAS Skin CSS --><link rel="stylesheet" type="text/css" href="/cas/css/custom.css"/><!--Favicon --><link rel="shortcut icon"
+          href="/cas/favicon.ico"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/></head>
+
+<body class="bg-light">
+
+<header class="container-fluid mb-5">
+    <div class="d-flex justify-content-center">
+        <a href="https://www.mun.ca" class="mun-logo my-3">
+            <span class="sr-only">Memorial University of Newfoundland</span>
+        </a>
+    </div>
+    <div class="d-flex justify-content-center">
+        <h1 class="mb-0 mt-0">MUN Login</h1>
+    </div>
+</header>
+
+<main class="container">
+    <div class="row">
+        <div class="col">
+            <div id="content">
+    <div class="card mb-3">
+        <div class="card-body mun-login-card-body py-5">
+            <section id="loginForm"
+                     class="login-section login-form">
+                <div>
+
+    <div>
+        <div id="serviceui" class="mb-4">
+    <div class="d-flex align-items-center p-2">
+        <img src="images/webapp.png"/><div id="servicedesc" class="ml-2">
+            <h5>CITL</h5>
+            <p></p>
+        </div>
+    </div>
+</div>
+    </div>
+
+    <form method="post" id="fm1" action="login">
+
+        <section class="form-group cas-field" id="usernameSection">
+            <label for="username">
+                <span>MUN Login ID or e-mail address:</span>
+            </label>
+            <input class="form-control"
+                   id="username"
+                   size="25"
+                   tabindex="1"
+                   type="text"
+                   autocomplete="off"
+                   accesskey="u"
+                   required name="username" value=""
+
+            /><div class="invalid-feedback">Please enter a MUN Login ID or email address.</div>
+        </section>
+
+        <section class="form-group cas-field">
+            <label for="password">
+                <span>Password:</span>
+            </label>
+            <input class="form-control"
+                   type="password"
+                   id="password"
+                   size="25"
+                   tabindex="2"
+                   autocomplete="off"
+                   accesskey="p"
+                   required name="password" value=""
+            /><div class="invalid-feedback">Please enter a password.</div>
+
+            <div id="caps-lock-warning-indicator" class="alert alert-warning p-1 text-center" style="display: none;">
+                <i class="fa fa-exclamation-circle"></i>
+                <small><span>CAPSLOCK is turned on!</span></small>
+            </div>
+        </section>
+
+        <section class="cas-field">
+            <input type="hidden" name="execution" value="c5d6018c-bc20-4b69-a7c8-7e82ec552139_ZXlKaGJHY2lPaUpJVXpVeE1pSXNJblI1Y0NJNklrcFhWQ0o5Llc5SldERndnM1B4LS1IdDk1NVZ2NjlLVzE1T1EwSXJnTXRseWs2cUdiZ1lyVmtWTXB0ME1TVnRaWWlFcjJXTi15bmNBVVZoX0xPR3VaZjZEQ1htNUp5YWJDOTBLc2hrZFgxbTJCdF9QTFB1c184eG16YzNabURSN1RpYXVkTUE5b3pJR0ZIZlBVd1RtSmQ4NkppQ3VpMHJPTFQtOXJCY3BVN0dUNjd6YUhUQ3NYY29LOURmdXhxSHFtRkxCNVUtTjZBYzBtNUxQUHgtdmFKS2VNYkc4bEpxY1JUZERvamZtWkl6LVVIOFdkVmpZVThHZmgta1VCRUhtV0VMRXVoZ09ZaW1GNDlIbDRRUE1GakEtdXl0Tm1sWnF1eDNoOEtfSkNQZVdHbndUN3hjVEx0U0dHLS1uYnRCNFVQMjlpUVJKSGZiRzQ2MFg4dURnOHYydVRiS1liS29vc2dOaGlaYlQzbFd4LVpIUmY0RWY1MWNYNnhpV0ZGQXJyRVdWYU11V0xWSEJFQUJDUEtzWWVwTnlxcHhITnZnejdzVmVELThQWm13bDFycWUwZjh4NTRQMW9BdkJEU3pBUVFtWllHZWdnUEhMdDRESU1UeVVIZHdGb2JQWGUzWHRadFlOVHNkMTNVOFl3cUhzQU4zZjdCSThiX3JHSTJyQ3d1ekRDcGZVbzBOZEozMFc0VWpRVERHaWZ6Sno5NldlQTcxY2RqMm9YQzZlZWgyQVBUUkttV21TUTBhYW4yNlhJZVdpSV9mYXNHdTJpTllpaWs4NGdNcTJwQjdsREdHMHozNzBZSTl6cVREU2YxOTdiZ0RIcWFPQmJxc2xNdG9ydXFJdGZnN2p0ODJ3MTkxZW5Eb3F4NzlzOWpyMjR1NzdNZDBLTGxaQlVmcHJZdVR6eUJoSXVqdDRZZmZYQ3hlb1F0TXhDWmxTekUzV3ZnSVRRcjRUcTRSUGtKRU5sTWgxa2phOVlNMklLa0Q5azZoZ09pR2tNZm15MEhLSUZUUHRhX09Ma1JaZzhxVWQwdzVCdWFBVHF0Zk9FMnRIeEd4bENYMWQ2TW1BZlZ1c3gtTjNWR0dsQkU4aVduTzkwQkZKTHZIbDkzcnZDdGktX09NV25JWGhDMTVrQlJuQzlXb1EtN0FJS0Q0ZTBhZWdIODVrcno4b0FSbDZMb0laakNCOWxSdGlTQWo3UzlpZVlyVW5CWGVwSloxY25hUENfdXFQd2V3RlFLSmhoUzhRZmtyMG14cUo0NEFFUjNlU0ktUzd1b3lFX2ZyOFh5WWhjVmhpSjFyVi1wRzhfZS1KNmhSNGthUUpIZGtNRWgxTXA4YVV0UjZFeFFwUFhhT3VoUkZLX1Z6Wm1GVVY4U3NiYWh2Z0paNXFoTF9XdFZwRVRXTm9uSWRDeHNlSzFWeDlkTHNDSjNrbWNsM04tNHN5bEdMU3JBZGUzMW1oTEJSOEExMkZwczNia3gzalZacEp3MVZweWcwNER5a3RISnRfXzJtNldMTXptYjhtbTRHZlNGemtmRldNc1RqZWtkdWdZLWV1TzI2dzl6OFdRZTNFMjNHYzJjanVJcWFvYjBKRmdULXY1djF4R3BwWTRvWlNnWEFCcnFGM3JXa1kwVzZmRmpPMC1aa0s2OFJKX1NaUy1VdDBCTFoycmMzbWV4endNMjlMMjRYUVhUcDRMbXpfNkxfdnJ6OGZUNjlXQklKNTlMcG1lT3hrdzNQbnptc1dyRVZEZlRuRUhienlneUVNQWVXODFaMDV5SjNMR19OemlBbm5iODlDalA4T0FEa3ZqanhHNXpzUEV4enoyZ0JTQVdwMS0xLXRQZmJBR3h2V1hCa3JYdnIxVURwbGRJSW9pc3Njdm1NY0c4YW9XT0hkWlRUNGU1R1laTFROVy1URGlXaE9zdTkteDNsZU5wcnY4NnlocEtKN1RSN2FkOUE3d3RGbHNsR0lSbnNrdzJRNnlKeTdZRUNQRkpkU0Z4T3lZWi00UTh3M0dDWTlodWJmV1hRRUVKR1RyZUhZUzFxUGl3SlZBOWFmU2U0MElGNjhJTG5VbDJvZ0dYbFNOWnZETzBLVUo5WlF4N3A1SHBUU2lkcmVaZXlKN2xjRTY4WENRRXJuTHgzaWFHN0p5YjAyV3lUNEVmdncwTzhEN1owNWNrSGxVWEZhM0ZGbW1VamlPV1JVR2dndk1MZVNnWEp6VXZ5bXoyUERGNDNMelc0Q3hQeExYUndxQ3BraUlKSG1xaW05MF8wSkhTckROUTdkN2RXRHA4bF94MzkzSGsyVENCS0RXNndJRUE5R0laRU5JVkg5YVo1dXVZZWw3SUMyM2lCSjU2c2VET3IyWFduZEVKUktEaUJYb2ZsYXV4X1lUTzZocklDdlVqUUFDNzh1SElGdzZFd0M4N1V5MEEySkxpTmFoYjFmNTJzMHJKT0w4cjcxa2lZczhvMkE0Q0NWbjNDM1BIc2NjMlFfWkRqcUtNenZ2ek5WVzhMbU1acTkxcUVjRWZBQ014RnFhRDdGM1pVOEUyYlR1bVBDaHppS3FhSHVqejFGcDdrdENwelR6OWZCS0g2ZjZuUm5NdFFzMTVXdXdYOThxc3hQLTRPV1ZIQXlDdjlxeTlySk5jcjFLX3I1TFdHU0ozd2E2aGRfYXFaWGJzc1ZZQ1BPTkxuTGtsN0hkeUFCSlVVNjZyVndpYlgySVRvZmI4YkRxWGNqc2UtMVBrTzYwb043ZU5nb0xybHJLSlpoZVdoV0hGOTZ1WHBXcDY3TXA5aUx6VlBReFBmNzloRnVkZk5GYWxqNVl2UzRvZzNJYTFIZE9fbGlqRU83dGxBakNvSkxrZnBnUzl5ZUJCOV9yZktia25xQzBMa1pVb0NieHBmR0MzNEJGa1ZjVENMUksyOTBRTUlfMGFlZlFyNHk1RzVueGlqM1lPQ05fSjVLS0Q5Tk0zV2NtMWw4V2RSQUVQWjRVbkxvZnZsR1RtZ1BWLVJDY1prSUg4U2JoSHhOVHVjbVZzcGQ1YUdDTmUtelQxQXltOF9rc1ZKWGtrbVVscU9zQzVzSVgzMVpTV1ZyS3RnSGlrQ1lqZG83dGFTRDJmdHpLWkZMcG91SjBVSlFiT0RhbFlwNkZyUW91dWFuR3BteHphU2FBVTVuZkVLVHFwVExTck5uRGpkeUU4ZE16UnRCMmVwRDhrd1ZzcjExOTBzNGJhaGhlNmNxRjhSdUZMd3BCbXprcTNxRUhBbUljdnZMWGhDYUc2T3pndkhzX3V0TUhJcXdmLVpqUjE3NVRZcFQwM3M2QndlTTFGQnNVV0FzdHpfbS0xek5CWlFjZ2pNOU8xa1lacFRCbllSLXMtTEJoVVc2aUZrb0dvQTYwYjFpUFFmS2hmbjBMUW81VS1iRFhSSjZWcE41S01LeXdqT3ZiZG55LU4xLWlQLUZic3dtRWR0SHh4RUJoYjVPZUFXbVVwNlAzTGFEdFlRMGY5LUtmdkdHWGpzeDFHeWVHMENJZEN0ZFN2U2tQMXFhWGlHNnViZmQ5WGhMTWk5aUkxWEJ2NFJJSV9IdzFCOUhldm9qUTdwbzBVcWZ3YWdzQjh2OVNSSTY2YnI2QXFJRHBrSzdsZWNPWHVJNUJENkM0QmJ2RWFxZWFCOFZhYzVkNDNacU1kamgxUHZSRUUtT255MkJ3bTNaWDRZNkZFT0hnSDE3MzFmS2hoLXFmSUdVN2cxSHVLZGNyZHM4STM4NDlzUWNOSWxDRmM1NUVTOWc0TmxkOFdoOWk4NGdnaXRlRVd5RW9xcFlIYnlhWDVNNzAxZUN5N2g2T0dDejlYUUdwMnZ3OWt5Y2thYmFCOS10VUctbG10YTZEN2pJQ2NPNTVQbUV2UGE0MkxNdkxyTThzMUU3THVJNVk0V1VBSTBIRmxOZjRubm00MzFCMVFrckFNVng0OVktM3RVcVZhZEkyYldxaDRRX05VRWRCWEZqR2FzS1Z0MF93eEMzV2R4WWdGc3c1clQ2LUh3Z3pqSjBORlhhbWI5UHpQb2tqWkx3bEZPQ0hnaGljZ0p2OFUtRXRtQ19JY2VyZlRJZ2pvR1lHdEZHLVNTeDhlXzFpdlpfZ0Y3d01JY2lPWHhaWmt1RlR4SzAwakVSY19ycHRKZXhka3hSa3FubjRheGJLaU5nMlBmRFpWSC1LNFg4TXN5ZW1oaUMzay1uWkE1aExzbGZrd3FqbVNwMmU2TEZlbElfZFlvbGZaOUVkTmNkRTM5c3RiRC0xTWMtQVJ6V1pEZmNpX0ROT0YxeHV0R09fQUQ5SFlUYWxSMmo0Y1RHRVUxUzdRa0JPZkdPNk42RTBzZmRaT3I3MDFPNEV6SzZTTFZJZVppRC00SmlRYW5maE5oOUNINE0yaU9JeURZZlZOTTFWWFhmU1ZLWWRUWUppOXhrcUtXUWZmRm13cm1YZWd6eDlSbEhfZ1dXdm16WW1lNTNMQ1E5UXpVdEdNdzFKMmY2em02QUg5WDdPYTBpQ2hRUWh6cFNMQ0xZME9aZ1VOeC12MThLMl9DLWVQU1ZuMERsSFBCMWJfaDZlbXV2ck1aSS16dko0OUxSSFhFLVVLdHVvdEM0Y3lScDJjc28wNFBVa25MbW9tQkt5bGpRUGNzZE1LNDMxLTFPeDVQQU9oSERIZ2xzT2ZORXlJcVN4Z1EzdVRDRG81eWdmTlBMcllycjNGbWtUYkktcDB5SEJ6US1JSmlWQllwclRWSzZVNTJncHF5SllvNVNLSzBOVkdJZF9qVVZBc1lXWER4U3ZxMXlEdi1kb01DYUJCZUZwUjBCSnlheFRlS2J5em95QjJWZjhxcXVFd2hzcXFGdWNIUnE0RE03cDNGVTI0TXZONnFDY0VGWnB2dHN1MkFNSW4wUjVVREJTX0dHQkJLeV94b1ZueXJPajBYWk9NbUtSZnBXRG8zNGtsWVhJaXJvTEJJYjNWUENaTDhXU3YtTHRFbEFlTnBCSWM2X2FYbUFSYmRpWl9HZk9LVVRoaS02TVpmZUdCVVA3elZzNmlMWTdQVmVrQS5hemxFVWM5bjc1Wkc5dlNiUDZLbFR0Mml2WWNjX2tUdzk0TFNyUkhHSEpOQzhTdXljZm5rU0t6WnpxbUJtWGYzeGlBVWJsSjktem9iSHZPVU00bDhoUQ=="/><input type="hidden" name="_eventId" value="submit"/><input type="hidden" name="geolocation"/></section>
+
+        <div>
+
+    <button
+            class="btn btn-login btn-block mt-4"
+            name="submit"
+            accesskey="l"
+            type="submit"
+            data-processing-text="One moment please...">
+        <span>Log in</span>
+    </button>
+
+</div>
+
+    </form>
+
+</div>
+            </section>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-6">
+            <a href="/create-account" class="btn btn-outline-secondary btn-block mb-3 mb-sm-0 btn-login-secondary">
+                Create Account
+            </a>
+        </div>
+        <div class="col-sm-6 text-center">
+            <a href="/problems" class="btn btn-outline-secondary btn-block mb-3 btn-login-secondary">
+                I Can't Log In
+            </a>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+</main>
+
+<footer class="container-fluid">
+    <div class="d-flex justify-content-between align-items-center footer-items-vertical-center">
+        <a class="mr-3" href="http://www.mun.ca/copyright/website_copyright.php">
+            Copyright &copy 2021 Memorial University of Newfoundland.
+        </a>
+        <div class="text-right">Newfoundland and Labrador, Canada.</div>
+    </div>
+</footer>
+
+<!-- jQuery 3.5.1 slim --><script src="https://clf.mun.ca/jquery/jquery-3.5.1.slim.min.js"></script>
+<!-- Bootstrap 4.6 bundle JavaScript --><script src="https://clf.mun.ca/bootstrap/4.6.0/dist/js/bootstrap.bundle.min.js"></script>
+<!-- Custom CAS Theme Javascript --><script type="text/javascript" src="/cas/js/custom.js"></script>
+<!-- Avenir font license --><link rel="stylesheet" href="https://clf.mun.ca/fonts/avenir-garamond/license.css"></body>
+</html>
